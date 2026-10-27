@@ -1,6 +1,6 @@
 (function(root){
 'use strict';
-const active=new WeakMap(),DELAY=2000;
+const active=new WeakMap(),DELAY=1000;
 function clear(host){active.get(host)?.();active.delete(host);}
 function attach(host,selector,{level=1}={}){
  clear(host);const win=host.querySelector(selector);if(!win)return;
