@@ -1,0 +1,15 @@
+{
+  "tool": "built-in imagegen",
+  "home": {
+    "asset": "assets-3d/ui/home-adventure-cat.png",
+    "prompt": "Precise object edit of supplied home adventure background. Replace ONLY the brown-white puppy beside explorer at lower left with an adorable orange-and-white KITTEN: unmistakably feline triangular ears, small cat muzzle, whiskers, long curled cat tail, soft fluffy fur, large friendly eyes. Same size, position, sitting pose and polished cartoon2.5D style. Keep explorer, map, landscape, castle, camera, clear menu area and all lighting unchanged. No dog, no text, no UI elements. Landscape1536x1024."
+  },
+  "results": {
+    "asset": "assets-3d/ui/results-adventure-standing-cat.png",
+    "prompt": "Precise edit of supplied results background: change seated explorer at lower left into a FULL-BODY STANDING explorer celebrating, wearing SAME yellow safari hat, yellow shirt and brown shorts/boots, smile, one arm raised. Explorer stands upright within x20..380 and y370..990; feet visibly planted near bottom edge. Replace puppy with orange-white KITTEN sitting beside standing explorer, triangular ears, whiskers and long curled cat tail; kitten within x310..470 y740..990. Keep both characters on LEFT, leaving board content from x510 onward unobstructed. Preserve large blank cream result board, honey wooden outer frame, background, confetti, camera, palette and clean soft cartoon2.5D style exactly. No text or icons in board, no dog, no sitting explorer. Landscape1536x1024."
+  },
+  "icons": {
+    "method": "native SVG extension of existing UI materials",
+    "builder": "tools/build_home_icons.py"
+  }
+}

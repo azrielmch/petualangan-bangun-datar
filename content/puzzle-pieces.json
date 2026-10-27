@@ -1,0 +1,4202 @@
+[
+  {
+    "variant": "kamar-persegi",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-1/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-1/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-1/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-1/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-2/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-2/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-2/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-2/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-3/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-3/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-3/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-3/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-3/piece-5.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-3/piece-6.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-4/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-4/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-4/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-4/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-4/piece-5.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-4/piece-6.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-5.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-6.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-7.svg"
+  },
+  {
+    "variant": "kamar-persegi",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/kamar-persegi/level-5/piece-8.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-1/piece-1.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-1/piece-2.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-1/piece-3.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-1/piece-4.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-2/piece-1.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-2/piece-2.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-2/piece-3.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-2/piece-4.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-3/piece-1.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-3/piece-2.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-3/piece-3.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-3/piece-4.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-3/piece-5.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-3/piece-6.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-4/piece-1.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-4/piece-2.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-4/piece-3.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-4/piece-4.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-4/piece-5.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-4/piece-6.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-1.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-2.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-3.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-4.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-5.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-6.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-7.svg"
+  },
+  {
+    "variant": "kamar-lingkaran",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/kamar-lingkaran/level-5/piece-8.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-1/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-1/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-1/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-1/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-2/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-2/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-2/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-2/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-3/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-3/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-3/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-3/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-3/piece-5.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-3/piece-6.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-4/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-4/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-4/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-4/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-4/piece-5.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-4/piece-6.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-5.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-6.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-7.svg"
+  },
+  {
+    "variant": "kamar-segitiga",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/kamar-segitiga/level-5/piece-8.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-1/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-1/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-1/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-1/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-2/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-2/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-2/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-2/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-3/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-3/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-3/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-3/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-3/piece-5.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-3/piece-6.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-4/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-4/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-4/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-4/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-4/piece-5.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-4/piece-6.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-1.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-2.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-3.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-4.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-5.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-6.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-7.svg"
+  },
+  {
+    "variant": "kamar-persegi-panjang",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/kamar-persegi-panjang/level-5/piece-8.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-1/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-1/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-1/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-1/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-2/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-2/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-2/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-2/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-3/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-3/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-3/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-3/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-3/piece-5.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-3/piece-6.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-4/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-4/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-4/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-4/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-4/piece-5.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-4/piece-6.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-1.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-2.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-3.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-4.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-5.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-6.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-7.svg"
+  },
+  {
+    "variant": "kamar-segi-lima",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/kamar-segi-lima/level-5/piece-8.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-1/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-1/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-1/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-1/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-2/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-2/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-2/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-2/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-3/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-3/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-3/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-3/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-3/piece-5.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-3/piece-6.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-4/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-4/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-4/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-4/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-4/piece-5.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-4/piece-6.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-5.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-6.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-7.svg"
+  },
+  {
+    "variant": "belajar-persegi",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/belajar-persegi/level-5/piece-8.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-1/piece-1.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-1/piece-2.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-1/piece-3.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-1/piece-4.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-2/piece-1.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-2/piece-2.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-2/piece-3.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-2/piece-4.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-3/piece-1.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-3/piece-2.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-3/piece-3.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-3/piece-4.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-3/piece-5.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-3/piece-6.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-4/piece-1.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-4/piece-2.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-4/piece-3.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-4/piece-4.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-4/piece-5.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-4/piece-6.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-1.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-2.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-3.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-4.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-5.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-6.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-7.svg"
+  },
+  {
+    "variant": "belajar-lingkaran",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/belajar-lingkaran/level-5/piece-8.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-1/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-1/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-1/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-1/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-2/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-2/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-2/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-2/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-3/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-3/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-3/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-3/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-3/piece-5.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-3/piece-6.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-4/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-4/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-4/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-4/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-4/piece-5.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-4/piece-6.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-5.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-6.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-7.svg"
+  },
+  {
+    "variant": "belajar-segitiga",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/belajar-segitiga/level-5/piece-8.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-1/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-1/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-1/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-1/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-2/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-2/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-2/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-2/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-3/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-3/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-3/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-3/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-3/piece-5.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-3/piece-6.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-4/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-4/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-4/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-4/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-4/piece-5.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-4/piece-6.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-1.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-2.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-3.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-4.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-5.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-6.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-7.svg"
+  },
+  {
+    "variant": "belajar-persegi-panjang",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/belajar-persegi-panjang/level-5/piece-8.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-1/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-1/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-1/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-1/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-2/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-2/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-2/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-2/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-3/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-3/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-3/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-3/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-3/piece-5.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-3/piece-6.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-4/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-4/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-4/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-4/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-4/piece-5.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-4/piece-6.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-1.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-2.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-3.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-4.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-5.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-6.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-7.svg"
+  },
+  {
+    "variant": "belajar-segi-lima",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/belajar-segi-lima/level-5/piece-8.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-1/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-1/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-1/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-1/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-2/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-2/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-2/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-2/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-3/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-3/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-3/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-3/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-3/piece-5.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-3/piece-6.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-4/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-4/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-4/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-4/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-4/piece-5.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-4/piece-6.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-5.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-6.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-7.svg"
+  },
+  {
+    "variant": "dapur-persegi",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/dapur-persegi/level-5/piece-8.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-1/piece-1.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-1/piece-2.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-1/piece-3.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-1/piece-4.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-2/piece-1.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-2/piece-2.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-2/piece-3.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-2/piece-4.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-3/piece-1.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-3/piece-2.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-3/piece-3.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-3/piece-4.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-3/piece-5.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-3/piece-6.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-4/piece-1.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-4/piece-2.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-4/piece-3.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-4/piece-4.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-4/piece-5.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-4/piece-6.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-1.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-2.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-3.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-4.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-5.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-6.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-7.svg"
+  },
+  {
+    "variant": "dapur-lingkaran",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/dapur-lingkaran/level-5/piece-8.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-1/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-1/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-1/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-1/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-2/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-2/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-2/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-2/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-3/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-3/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-3/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-3/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-3/piece-5.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-3/piece-6.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-4/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-4/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-4/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-4/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-4/piece-5.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-4/piece-6.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-5.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-6.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-7.svg"
+  },
+  {
+    "variant": "dapur-segitiga",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/dapur-segitiga/level-5/piece-8.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-1/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-1/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-1/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-1/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-2/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-2/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-2/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-2/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-3/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-3/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-3/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-3/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-3/piece-5.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-3/piece-6.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-4/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-4/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-4/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-4/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-4/piece-5.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-4/piece-6.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-1.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-2.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-3.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-4.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-5.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-6.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-7.svg"
+  },
+  {
+    "variant": "dapur-persegi-panjang",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/dapur-persegi-panjang/level-5/piece-8.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-1/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-1/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-1/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-1/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-2/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-2/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-2/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-2/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-3/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-3/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-3/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-3/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-3/piece-5.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-3/piece-6.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-4/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-4/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-4/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-4/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-4/piece-5.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-4/piece-6.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-1.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-2.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-3.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-4.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-5.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-6.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-7.svg"
+  },
+  {
+    "variant": "dapur-segi-lima",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/dapur-segi-lima/level-5/piece-8.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-1/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-1/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-1/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-1/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-2/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-2/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-2/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-2/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-3/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-3/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-3/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-3/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-3/piece-5.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-3/piece-6.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-4/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-4/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-4/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-4/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-4/piece-5.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-4/piece-6.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-5.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-6.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-7.svg"
+  },
+  {
+    "variant": "taman-persegi",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/taman-persegi/level-5/piece-8.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-1/piece-1.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-1/piece-2.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-1/piece-3.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-1/piece-4.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-2/piece-1.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-2/piece-2.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-2/piece-3.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-2/piece-4.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-3/piece-1.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-3/piece-2.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-3/piece-3.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-3/piece-4.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-3/piece-5.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-3/piece-6.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-4/piece-1.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-4/piece-2.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-4/piece-3.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-4/piece-4.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-4/piece-5.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-4/piece-6.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-1.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-2.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-3.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-4.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-5.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-6.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-7.svg"
+  },
+  {
+    "variant": "taman-lingkaran",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/taman-lingkaran/level-5/piece-8.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-1/piece-1.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-1/piece-2.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-1/piece-3.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-1/piece-4.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-2/piece-1.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-2/piece-2.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-2/piece-3.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-2/piece-4.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-3/piece-1.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-3/piece-2.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-3/piece-3.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-3/piece-4.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-3/piece-5.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-3/piece-6.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-4/piece-1.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-4/piece-2.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-4/piece-3.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-4/piece-4.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-4/piece-5.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-4/piece-6.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-1.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-2.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-3.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-4.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-5.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-6.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-7.svg"
+  },
+  {
+    "variant": "taman-segitiga",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/taman-segitiga/level-5/piece-8.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-1/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-1/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-1/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-1/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-2/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-2/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-2/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-2/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-3/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-3/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-3/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-3/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-3/piece-5.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-3/piece-6.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-4/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-4/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-4/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-4/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-4/piece-5.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-4/piece-6.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-1.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-2.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-3.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-4.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-5.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-6.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-7.svg"
+  },
+  {
+    "variant": "taman-persegi-panjang",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/taman-persegi-panjang/level-5/piece-8.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-1/piece-1.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-1/piece-2.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-1/piece-3.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-1/piece-4.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-2/piece-1.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-2/piece-2.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-2/piece-3.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-2/piece-4.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-3/piece-1.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-3/piece-2.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-3/piece-3.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-3/piece-4.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-3/piece-5.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-3/piece-6.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-4/piece-1.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-4/piece-2.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-4/piece-3.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-4/piece-4.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-4/piece-5.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-4/piece-6.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-1.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-2.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-3.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-4.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-5.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-6.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-7.svg"
+  },
+  {
+    "variant": "taman-segi-lima",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/taman-segi-lima/level-5/piece-8.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-1/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-1/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-1/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-1/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-2/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-2/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-2/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-2/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-3/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-3/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-3/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-3/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-3/piece-5.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-3/piece-6.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-4/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-4/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-4/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-4/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-4/piece-5.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-4/piece-6.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-5.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-6.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-7.svg"
+  },
+  {
+    "variant": "hutan-persegi",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/hutan-persegi/level-5/piece-8.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-1/piece-1.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-1/piece-2.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-1/piece-3.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-1/piece-4.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-2/piece-1.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-2/piece-2.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-2/piece-3.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-2/piece-4.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-3/piece-1.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-3/piece-2.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-3/piece-3.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-3/piece-4.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-3/piece-5.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-3/piece-6.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-4/piece-1.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-4/piece-2.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-4/piece-3.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-4/piece-4.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-4/piece-5.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-4/piece-6.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-1.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-2.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-3.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-4.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-5.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-6.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-7.svg"
+  },
+  {
+    "variant": "hutan-lingkaran",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/hutan-lingkaran/level-5/piece-8.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-1/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-1/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-1/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-1/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-2/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-2/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-2/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-2/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-3/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-3/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-3/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-3/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-3/piece-5.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-3/piece-6.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-4/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-4/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-4/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-4/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-4/piece-5.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-4/piece-6.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-5.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-6.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-7.svg"
+  },
+  {
+    "variant": "hutan-segitiga",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/hutan-segitiga/level-5/piece-8.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-1/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-1/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-1/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-1/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-2/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-2/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-2/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-2/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-3/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-3/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-3/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-3/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-3/piece-5.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-3/piece-6.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-4/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-4/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-4/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-4/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-4/piece-5.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-4/piece-6.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-1.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-2.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-3.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-4.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-5.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-6.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-7.svg"
+  },
+  {
+    "variant": "hutan-persegi-panjang",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/hutan-persegi-panjang/level-5/piece-8.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 1,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-1/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 1,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-1/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 1,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-1/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 1,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-1/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 2,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-2/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 2,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-2/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 2,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-2/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 2,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-2/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 3,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-3/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 3,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-3/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 3,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-3/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 3,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-3/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 3,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-3/piece-5.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 3,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-3/piece-6.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 4,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-4/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 4,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-4/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 4,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-4/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 4,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-4/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 4,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-4/piece-5.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 4,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-4/piece-6.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 0,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-1.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 1,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-2.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 2,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-3.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 3,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-4.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 4,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-5.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 5,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-6.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 6,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-7.svg"
+  },
+  {
+    "variant": "hutan-segi-lima",
+    "level": 5,
+    "pieceId": 7,
+    "path": "assets-3d/puzzles/separate/hutan-segi-lima/level-5/piece-8.svg"
+  }
+]

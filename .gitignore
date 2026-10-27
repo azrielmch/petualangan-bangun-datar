@@ -1,0 +1,17 @@
+.DS_Store
+*.zip
+*.tar
+*.tar.gz
+output/
+sites/
+assets-archive/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.aws/
+.openai/

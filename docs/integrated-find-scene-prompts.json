@@ -1,0 +1,52 @@
+[
+  {
+    "id": "persegi-kamar",
+    "target": "SQUARE",
+    "subject": "A cozy child's bedroom with bed at left, low shelving at far left, a study table at right and sunny wood floor with rug. Exactly THREE conspicuous square target objects: a square yellow cushion resting on the bed at middle-left; a square blue framed landscape picture hanging upper-middle wall; a square pink closed diary lying face-visible on foreground rug at lower-right. The square shapes have equal width and height. Five conspicuous distractor objects: circular wall clock upper-left; triangular yellow fabric pennant hanging upper-right; pentagonal flower picture frame on left shelf at middle height; rectangular green closed book near lower-middle; circular cream coaster lower-left. All objects rest on or attach to appropriate furniture and walls. Avoid other prominent square framed objects."
+  },
+  {
+    "id": "persegi-kelas",
+    "target": "SQUARE",
+    "subject": "A sunny cozy classroom reading corner, bookshelf left, low desk in middle and warm wooden floor. Exactly THREE clearly square target objects: a single square window upper-right; a square green chalkboard with blank center hanging upper-middle; a square blue ceramic floor tile lower-left foreground. Equal width and height square outlines. Five distractors: circular wall clock upper-left; pentagonal flower picture frame on middle-left shelf; triangular yellow set-square ruler on front-right desk; a horizontal rectangular red closed book lower-middle; circular cream plate on lower-right table. All integrated naturally, no display grid, avoid other prominent square objects."
+  },
+  {
+    "id": "lingkaran-dapur",
+    "target": "CIRCLE",
+    "subject": "A warm family kitchen with oak cabinets at edges, pale wall, sunny window, low wooden breakfast table and cozy rug. Exactly THREE clear circular target objects: round turquoise wall clock upper-left; round cream decorative plate hanging upper-right wall; one round golden chocolate-chip cookie on the front table near lower-middle, large enough to click and shown top-facing. These are flat circular faces, not spheres. Five distractors: square mint cloth napkin lower-left on table; triangular toast sandwich lower-right; pentagonal turquoise coaster middle-left countertop; rectangular blue closed recipe book middle-right countertop; triangular coral fabric pennant near upper-middle. Don't add extra round plates under cookie or fruit."
+  },
+  {
+    "id": "lingkaran-ruang",
+    "target": "CIRCLE",
+    "subject": "A welcoming living room with turquoise sofa at right, small green armchair left, low oak coffee table, bookshelf and sunlit rug. Exactly THREE prominent circle targets: round mirror hanging upper-left; circular wall clock upper-right; perfectly circular yellow fabric cushion resting on armchair middle-left facing viewer. Distractors: square coral cushion on sofa middle-right; triangular pennant hanging upper-middle; pentagonal flower picture frame standing on coffee table near middle; horizontal rectangular blue closed book lower-right foreground; rectangular black TV remote lower-left rug. Natural lived-in composition, no floating objects, no extra circular cushions or plates."
+  },
+  {
+    "id": "segitiga-taman",
+    "target": "TRIANGLE",
+    "subject": "A sunny flower garden courtyard with small fence, cozy bench at left, potting table at right, and picnic blanket in foreground. Exactly THREE separate triangular targets with three straight outer sides: a single yellow triangular fabric pennant attached to fence at upper-left; triangular wooden plant marker with sprout emblem leaning in a flowerpot at middle-right; triangular toasted sandwich on picnic cloth at lower-left, top-facing. Distractors: circular cream plate lower-middle; square coral cushion on bench middle-left; rectangular blue gardening book lower-right; pentagonal green wooden plaque hanging upper-right fence; circular clock on garden shed upper-middle. Warm rich painted 3D cartoon, every target grounded or attached."
+  },
+  {
+    "id": "segitiga-kelas",
+    "target": "TRIANGLE",
+    "subject": "A cozy children's learning and play room, bookshelf left, low round desk near middle, tent-like reading nook at back right but no large triangular tent silhouette, warm rug. Exactly THREE obvious triangular targets: a triangular yellow warning plaque hanging upper-right wall, blank center; a yellow triangular set-square ruler on desk center; a neatly folded triangular mint napkin on rug lower-left. Five distractors: single square window upper-left; circular wall clock upper-middle; pentagonal flower picture frame on middle-left shelf; rectangular blue closed book lower-right; round cream tambourine lower-middle on rug. Keep all three triangular target silhouettes clearly visible."
+  },
+  {
+    "id": "persegi-panjang-kamar",
+    "target": "RECTANGLE",
+    "subject": "A cozy blue-green child's bedroom with bed at left, shelf at far left, oak desk center and upright wooden door at right. Exactly THREE prominent rectangular target objects with clearly different length and width: upright honey oak door at right; horizontal rectangular closed blue book on center desk; horizontal rectangular black TV remote lying lower-left on rug. Five distractors: square window upper-left; circular wall clock upper-middle; pentagonal flower picture frame on left shelf middle-height; triangular yellow set-square ruler lower-right rug; square yellow cushion on bed middle-left. Avoid other prominent rectangular framed pictures or extra visible book covers, use rounded furniture."
+  },
+  {
+    "id": "persegi-panjang-dapur",
+    "target": "RECTANGLE",
+    "subject": "A cheerful cozy kitchen with oak side cupboards, warm cream wall, round breakfast table in foreground and leafy herbs. Exactly THREE obvious rectangular targets: a wide rectangular framed botanical picture hanging upper-left; a horizontal rectangular blue closed recipe book on lower-left counter; a horizontal rectangular mint woven placemat on lower-right table. Width clearly longer than height. Five distractors: circular wall clock upper-right; one square turquoise ceramic wall tile upper-middle; triangular coral cloth napkin on front table lower-middle; pentagonal yellow coaster middle-right counter; circular cream plate front-center on table. Ground all objects naturally, no extra prominent rectangular pictures or books."
+  },
+  {
+    "id": "segi-lima-taman",
+    "target": "PENTAGON",
+    "subject": "A sunny child-friendly garden with wooden fence, potting bench at middle-left, small garden shed right, foreground picnic blanket and green flowering plants. Exactly THREE prominent regular pentagon target objects with exactly five straight outer sides and one point up: a pentagonal honey-oak garden plaque hanging upper-middle fence; a flat pentagonal cream seed packet with orange flower illustration standing on potting bench middle-left; a large golden pentagonal chocolate-chip biscuit on picnic cloth lower-right, top-facing, no plate beneath. Five distractors: circular wall clock on shed upper-right; square coral cushion on left garden bench; triangular wooden plant marker in pot middle-right; rectangular blue gardening book lower-left; circular turquoise coaster lower-middle. Clear five-sided outlines, not hexagons or house-shaped 3D buildings."
+  },
+  {
+    "id": "segi-lima-ruang",
+    "target": "PENTAGON",
+    "subject": "A cozy living room with green sofa at right, bookshelf at left, low round oak coffee table, sunlit warm floor and rug. Exactly THREE prominent regular pentagonal targets, exactly five straight outer sides point up: pentagonal mirror on upper-left bookshelf; pentagonal flower picture frame standing on coffee table middle-center; pentagonal pink fabric cushion resting on foreground rug lower-left. Five distractors: circular wall clock upper-middle; square yellow sofa cushion middle-right; triangular blue set-square ruler lower-right; horizontal rectangular blue closed book near front of coffee table; one circular chocolate donut on lower-middle-right rug. Natural integrated objects and contact shadows, no floating clipart, no other pentagonal props."
+  }
+]

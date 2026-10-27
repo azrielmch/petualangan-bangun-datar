@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "persegi-kamar",
+    "name": "Kamar Baca 2.5D",
+    "themeId": "kamar",
+    "themeName": "Kamar Anak",
+    "targetShape": "persegi",
+    "asset": "assets-3d/find-scenes-25d/persegi-kamar.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "5f59c9bc461e",
+    "hotspots": [
+      {
+        "id": "jendela",
+        "label": "Jendela",
+        "shape": "persegi",
+        "region": {
+          "cx": 16.75,
+          "cy": 22.15,
+          "rx": 12.25,
+          "ry": 17.75,
+          "polygon": [
+            [
+              4.5,
+              4.4
+            ],
+            [
+              29,
+              4.4
+            ],
+            [
+              29,
+              39.9
+            ],
+            [
+              4.5,
+              39.9
+            ]
+          ]
+        }
+      },
+      {
+        "id": "bingkai",
+        "label": "Bingkai biru",
+        "shape": "persegi",
+        "region": {
+          "cx": 52.15,
+          "cy": 22.05,
+          "rx": 9.75,
+          "ry": 14.35,
+          "polygon": [
+            [
+              42.4,
+              7.7
+            ],
+            [
+              61.9,
+              7.7
+            ],
+            [
+              61.9,
+              36.4
+            ],
+            [
+              42.4,
+              36.4
+            ]
+          ]
+        }
+      },
+      {
+        "id": "bantal",
+        "label": "Bantal kuning",
+        "shape": "persegi",
+        "region": {
+          "cx": 35.5,
+          "cy": 50.55,
+          "rx": 6.200000000000001,
+          "ry": 8.150000000000002,
+          "polygon": [
+            [
+              29.3,
+              42.4
+            ],
+            [
+              41.7,
+              42.4
+            ],
+            [
+              41.7,
+              58.7
+            ],
+            [
+              29.3,
+              58.7
+            ]
+          ]
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 87.6,
+          "cy": 16.2,
+          "rx": 7.699999999999996,
+          "ry": 11.5
+        }
+      },
+      {
+        "id": "bendera",
+        "label": "Bendera merah",
+        "shape": "segitiga",
+        "region": {
+          "cx": 72.7,
+          "cy": 36.9,
+          "rx": 6.5,
+          "ry": 9.1
+        }
+      },
+      {
+        "id": "bingkai-bunga",
+        "label": "Bingkai bunga",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 6.35,
+          "cy": 48.2,
+          "rx": 5.15,
+          "ry": 7.099999999999998
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku hijau",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 52.95,
+          "cy": 84.75,
+          "rx": 11.25,
+          "ry": 5.450000000000003,
+          "polygon": [
+            [
+              41.7,
+              79.3
+            ],
+            [
+              64.2,
+              79.3
+            ],
+            [
+              64.2,
+              90.2
+            ],
+            [
+              41.7,
+              90.2
+            ]
+          ]
+        }
+      },
+      {
+        "id": "tatakan",
+        "label": "Tatakan cangkir",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 75.1,
+          "cy": 86.3,
+          "rx": 5.699999999999996,
+          "ry": 4.200000000000003
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "persegi-kelas",
+    "name": "Kelas Sekolah 2.5D",
+    "themeId": "belajar",
+    "themeName": "Sekolah",
+    "targetShape": "persegi",
+    "asset": "assets-3d/find-scenes-25d/persegi-kelas.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "df52422f5cb2",
+    "hotspots": [
+      {
+        "id": "jendela",
+        "label": "Jendela",
+        "shape": "persegi",
+        "region": {
+          "cx": 16.05,
+          "cy": 23.25,
+          "rx": 12.35,
+          "ry": 18.15,
+          "polygon": [
+            [
+              3.7,
+              5.1
+            ],
+            [
+              28.4,
+              5.1
+            ],
+            [
+              28.4,
+              41.4
+            ],
+            [
+              3.7,
+              41.4
+            ]
+          ]
+        }
+      },
+      {
+        "id": "papan",
+        "label": "Papan tulis",
+        "shape": "persegi",
+        "region": {
+          "cx": 50.199999999999996,
+          "cy": 28.15,
+          "rx": 14.399999999999999,
+          "ry": 19.85,
+          "polygon": [
+            [
+              35.8,
+              8.3
+            ],
+            [
+              64.6,
+              8.3
+            ],
+            [
+              64.6,
+              48
+            ],
+            [
+              35.8,
+              48
+            ]
+          ]
+        }
+      },
+      {
+        "id": "papan-gabus",
+        "label": "Papan gabus",
+        "shape": "persegi",
+        "region": {
+          "cx": 14.35,
+          "cy": 51.3,
+          "rx": 5.85,
+          "ry": 8.8,
+          "polygon": [
+            [
+              8.5,
+              42.5
+            ],
+            [
+              20.2,
+              42.5
+            ],
+            [
+              20.2,
+              60.1
+            ],
+            [
+              8.5,
+              60.1
+            ]
+          ]
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 82.25,
+          "cy": 18.9,
+          "rx": 7.849999999999994,
+          "ry": 11.8
+        }
+      },
+      {
+        "id": "penggaris",
+        "label": "Penggaris",
+        "shape": "segitiga",
+        "region": {
+          "cx": 57.849999999999994,
+          "cy": 62.900000000000006,
+          "rx": 6.050000000000001,
+          "ry": 6.0000000000000036
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku biru",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 72.2,
+          "cy": 63.55,
+          "rx": 9.0,
+          "ry": 3.9499999999999993,
+          "polygon": [
+            [
+              63.2,
+              59.6
+            ],
+            [
+              81.2,
+              59.6
+            ],
+            [
+              81.2,
+              67.5
+            ],
+            [
+              63.2,
+              67.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "bingkai-bunga",
+        "label": "Bingkai bunga",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 92.15,
+          "cy": 42.150000000000006,
+          "rx": 5.350000000000001,
+          "ry": 7.449999999999999
+        }
+      },
+      {
+        "id": "penghapus",
+        "label": "Penghapus",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 22.8,
+          "cy": 67.8,
+          "rx": 4.0,
+          "ry": 3.0,
+          "polygon": [
+            [
+              18.8,
+              64.8
+            ],
+            [
+              26.8,
+              64.8
+            ],
+            [
+              26.8,
+              70.8
+            ],
+            [
+              18.8,
+              70.8
+            ]
+          ]
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "lingkaran-dapur",
+    "name": "Dapur Sarapan 2.5D",
+    "themeId": "dapur",
+    "themeName": "Dapur Ceria",
+    "targetShape": "lingkaran",
+    "asset": "assets-3d/find-scenes-25d/lingkaran-dapur.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "98abd86c32b1",
+    "hotspots": [
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 28.1,
+          "cy": 16.849999999999998,
+          "rx": 8.299999999999999,
+          "ry": 12.549999999999999
+        }
+      },
+      {
+        "id": "piring",
+        "label": "Piring hias",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 78.8,
+          "cy": 16.9,
+          "rx": 8.0,
+          "ry": 12.1
+        }
+      },
+      {
+        "id": "tatakan",
+        "label": "Tatakan bunga",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 50.9,
+          "cy": 39.25,
+          "rx": 4.899999999999999,
+          "ry": 7.450000000000001
+        }
+      },
+      {
+        "id": "ubin",
+        "label": "Ubin hijau",
+        "shape": "persegi",
+        "region": {
+          "cx": 53.0,
+          "cy": 16.5,
+          "rx": 7.200000000000003,
+          "ry": 10.7,
+          "polygon": [
+            [
+              45.8,
+              5.8
+            ],
+            [
+              60.2,
+              5.8
+            ],
+            [
+              60.2,
+              27.2
+            ],
+            [
+              45.8,
+              27.2
+            ]
+          ]
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku resep",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 33.3,
+          "cy": 43.05,
+          "rx": 7.999999999999998,
+          "ry": 3.4499999999999993,
+          "polygon": [
+            [
+              25.3,
+              39.6
+            ],
+            [
+              41.3,
+              39.6
+            ],
+            [
+              41.3,
+              46.5
+            ],
+            [
+              25.3,
+              46.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "serbet",
+        "label": "Serbet merah",
+        "shape": "segitiga",
+        "region": {
+          "cx": 84.0,
+          "cy": 67.7,
+          "rx": 7.0,
+          "ry": 6.099999999999998
+        }
+      },
+      {
+        "id": "papan",
+        "label": "Papan hijau",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 70.9,
+          "cy": 38.2,
+          "rx": 5.800000000000004,
+          "ry": 8.599999999999998
+        }
+      },
+      {
+        "id": "bantal",
+        "label": "Bantal merah",
+        "shape": "persegi",
+        "region": {
+          "cx": 30.799999999999997,
+          "cy": 72.0,
+          "rx": 9.999999999999998,
+          "ry": 13.299999999999997,
+          "polygon": [
+            [
+              20.8,
+              58.7
+            ],
+            [
+              40.8,
+              58.7
+            ],
+            [
+              40.8,
+              85.3
+            ],
+            [
+              20.8,
+              85.3
+            ]
+          ]
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "lingkaran-ruang",
+    "name": "Ruang Keluarga 2.5D",
+    "themeId": "ruang",
+    "themeName": "Ruang Keluarga",
+    "targetShape": "lingkaran",
+    "asset": "assets-3d/find-scenes-25d/lingkaran-ruang.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "25a799d289b6",
+    "hotspots": [
+      {
+        "id": "cermin",
+        "label": "Cermin",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 25.549999999999997,
+          "cy": 16.65,
+          "rx": 9.85,
+          "ry": 14.35
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 82.2,
+          "cy": 18.9,
+          "rx": 7.799999999999997,
+          "ry": 11.8
+        }
+      },
+      {
+        "id": "bantal-bulat",
+        "label": "Bantal kuning",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 20.95,
+          "cy": 48.05,
+          "rx": 7.05,
+          "ry": 9.849999999999998
+        }
+      },
+      {
+        "id": "bantal-merah",
+        "label": "Bantal merah",
+        "shape": "persegi",
+        "region": {
+          "cx": 84.5,
+          "cy": 45.05,
+          "rx": 7.5,
+          "ry": 10.25,
+          "polygon": [
+            [
+              77,
+              34.8
+            ],
+            [
+              92,
+              34.8
+            ],
+            [
+              92,
+              55.3
+            ],
+            [
+              77,
+              55.3
+            ]
+          ]
+        }
+      },
+      {
+        "id": "bendera",
+        "label": "Bendera merah",
+        "shape": "segitiga",
+        "region": {
+          "cx": 54.05,
+          "cy": 16.85,
+          "rx": 10.75,
+          "ry": 10.25
+        }
+      },
+      {
+        "id": "bingkai-bunga",
+        "label": "Bingkai bunga",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 55.55,
+          "cy": 67.95,
+          "rx": 5.949999999999999,
+          "ry": 8.450000000000003
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku biru",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 86.0,
+          "cy": 85.65,
+          "rx": 10.599999999999994,
+          "ry": 5.850000000000001,
+          "polygon": [
+            [
+              75.4,
+              79.8
+            ],
+            [
+              96.6,
+              79.8
+            ],
+            [
+              96.6,
+              91.5
+            ],
+            [
+              75.4,
+              91.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "remot",
+        "label": "Remot",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 38.400000000000006,
+          "cy": 74.4,
+          "rx": 7.300000000000001,
+          "ry": 3.6999999999999957,
+          "polygon": [
+            [
+              31.1,
+              70.7
+            ],
+            [
+              45.7,
+              70.7
+            ],
+            [
+              45.7,
+              78.1
+            ],
+            [
+              31.1,
+              78.1
+            ]
+          ]
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "segitiga-taman",
+    "name": "Halaman Sekolah 2.5D",
+    "themeId": "taman",
+    "themeName": "Taman Sekolah",
+    "targetShape": "segitiga",
+    "asset": "assets-3d/find-scenes-25d/segitiga-taman.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "730f60119a81",
+    "hotspots": [
+      {
+        "id": "bendera",
+        "label": "Bendera kuning",
+        "shape": "segitiga",
+        "region": {
+          "cx": 34.2,
+          "cy": 23.4,
+          "rx": 6.099999999999998,
+          "ry": 7.6
+        }
+      },
+      {
+        "id": "papan",
+        "label": "Papan tanaman",
+        "shape": "segitiga",
+        "region": {
+          "cx": 59.900000000000006,
+          "cy": 25.450000000000003,
+          "rx": 8.500000000000004,
+          "ry": 10.750000000000002
+        }
+      },
+      {
+        "id": "penggaris",
+        "label": "Penggaris",
+        "shape": "segitiga",
+        "region": {
+          "cx": 84.4,
+          "cy": 44.25,
+          "rx": 7.800000000000004,
+          "ry": 10.049999999999997
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam taman",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 15.0,
+          "cy": 25.150000000000002,
+          "rx": 7.5,
+          "ry": 11.05
+        }
+      },
+      {
+        "id": "bantal",
+        "label": "Bantal merah",
+        "shape": "persegi",
+        "region": {
+          "cx": 37.1,
+          "cy": 48.65,
+          "rx": 6.299999999999999,
+          "ry": 8.850000000000001,
+          "polygon": [
+            [
+              30.8,
+              39.8
+            ],
+            [
+              43.4,
+              39.8
+            ],
+            [
+              43.4,
+              57.5
+            ],
+            [
+              30.8,
+              57.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "bingkai",
+        "label": "Bingkai kayu",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 87.3,
+          "cy": 24.65,
+          "rx": 6.200000000000003,
+          "ry": 8.35
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku berkebun",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 82.45,
+          "cy": 74.45,
+          "rx": 11.049999999999997,
+          "ry": 5.25,
+          "polygon": [
+            [
+              71.4,
+              69.2
+            ],
+            [
+              93.5,
+              69.2
+            ],
+            [
+              93.5,
+              79.7
+            ],
+            [
+              71.4,
+              79.7
+            ]
+          ]
+        }
+      },
+      {
+        "id": "piring",
+        "label": "Piring",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 60.25,
+          "cy": 67.94999999999999,
+          "rx": 7.450000000000003,
+          "ry": 11.149999999999999
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "segitiga-kelas",
+    "name": "Ruang Belajar Sekolah 2.5D",
+    "themeId": "belajar",
+    "themeName": "Sekolah",
+    "targetShape": "segitiga",
+    "asset": "assets-3d/find-scenes-25d/segitiga-kelas.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "8261e70f4a7c",
+    "hotspots": [
+      {
+        "id": "bendera",
+        "label": "Bendera merah",
+        "shape": "segitiga",
+        "region": {
+          "cx": 14.65,
+          "cy": 13.65,
+          "rx": 8.15,
+          "ry": 8.450000000000001
+        }
+      },
+      {
+        "id": "rambu",
+        "label": "Rambu kuning",
+        "shape": "segitiga",
+        "region": {
+          "cx": 88.05,
+          "cy": 18.5,
+          "rx": 8.950000000000003,
+          "ry": 12.0
+        }
+      },
+      {
+        "id": "penggaris",
+        "label": "Penggaris",
+        "shape": "segitiga",
+        "region": {
+          "cx": 51.599999999999994,
+          "cy": 56.65,
+          "rx": 8.2,
+          "ry": 10.149999999999999
+        }
+      },
+      {
+        "id": "jendela",
+        "label": "Jendela",
+        "shape": "persegi",
+        "region": {
+          "cx": 40.4,
+          "cy": 22.6,
+          "rx": 12.6,
+          "ry": 17.9,
+          "polygon": [
+            [
+              27.8,
+              4.7
+            ],
+            [
+              53,
+              4.7
+            ],
+            [
+              53,
+              40.5
+            ],
+            [
+              27.8,
+              40.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 65.45,
+          "cy": 20.25,
+          "rx": 8.55,
+          "ry": 12.950000000000001
+        }
+      },
+      {
+        "id": "bingkai",
+        "label": "Bingkai bunga",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 12.149999999999999,
+          "cy": 34.2,
+          "rx": 6.749999999999999,
+          "ry": 9.3
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku biru",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 69.8,
+          "cy": 62.2,
+          "rx": 9.299999999999997,
+          "ry": 4.800000000000001,
+          "polygon": [
+            [
+              60.5,
+              57.4
+            ],
+            [
+              79.1,
+              57.4
+            ],
+            [
+              79.1,
+              67
+            ],
+            [
+              60.5,
+              67
+            ]
+          ]
+        }
+      },
+      {
+        "id": "tempat-pensil",
+        "label": "Tempat pensil",
+        "shape": "other",
+        "region": {
+          "cx": 30.8,
+          "cy": 55.0,
+          "rx": 4.199999999999999,
+          "ry": 10.599999999999998
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "persegi-panjang-kamar",
+    "name": "Kamar Tidur 2.5D",
+    "themeId": "kamar",
+    "themeName": "Kamar Anak",
+    "targetShape": "persegi-panjang",
+    "asset": "assets-3d/find-scenes-25d/persegi-panjang-kamar.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "89b793ac8db8",
+    "hotspots": [
+      {
+        "id": "pintu",
+        "label": "Pintu",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 84.9,
+          "cy": 34.6,
+          "rx": 10.800000000000004,
+          "ry": 33.199999999999996,
+          "polygon": [
+            [
+              74.1,
+              1.4
+            ],
+            [
+              95.7,
+              1.4
+            ],
+            [
+              95.7,
+              67.8
+            ],
+            [
+              74.1,
+              67.8
+            ]
+          ]
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku di meja",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 58.25,
+          "cy": 43.95,
+          "rx": 6.950000000000003,
+          "ry": 3.25,
+          "polygon": [
+            [
+              51.3,
+              40.7
+            ],
+            [
+              65.2,
+              40.7
+            ],
+            [
+              65.2,
+              47.2
+            ],
+            [
+              51.3,
+              47.2
+            ]
+          ]
+        }
+      },
+      {
+        "id": "remot",
+        "label": "Remot",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 36.25,
+          "cy": 88.55,
+          "rx": 9.850000000000001,
+          "ry": 4.25,
+          "polygon": [
+            [
+              26.4,
+              84.3
+            ],
+            [
+              46.1,
+              84.3
+            ],
+            [
+              46.1,
+              92.8
+            ],
+            [
+              26.4,
+              92.8
+            ]
+          ]
+        }
+      },
+      {
+        "id": "bantal-putih",
+        "label": "Bantal putih",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 15.700000000000001,
+          "cy": 47.4,
+          "rx": 11.4,
+          "ry": 6.100000000000001,
+          "polygon": [
+            [
+              4.3,
+              41.3
+            ],
+            [
+              27.1,
+              41.3
+            ],
+            [
+              27.1,
+              53.5
+            ],
+            [
+              4.3,
+              53.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "jendela",
+        "label": "Jendela",
+        "shape": "persegi",
+        "region": {
+          "cx": 16.0,
+          "cy": 18.25,
+          "rx": 10.0,
+          "ry": 14.350000000000001,
+          "polygon": [
+            [
+              6,
+              3.9
+            ],
+            [
+              26,
+              3.9
+            ],
+            [
+              26,
+              32.6
+            ],
+            [
+              6,
+              32.6
+            ]
+          ]
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 58.25,
+          "cy": 16.5,
+          "rx": 6.75,
+          "ry": 10.100000000000001
+        }
+      },
+      {
+        "id": "bingkai",
+        "label": "Bingkai bunga",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 38.1,
+          "cy": 21.35,
+          "rx": 5.0,
+          "ry": 6.95
+        }
+      },
+      {
+        "id": "penggaris",
+        "label": "Penggaris",
+        "shape": "segitiga",
+        "region": {
+          "cx": 79.65,
+          "cy": 87.0,
+          "rx": 7.949999999999996,
+          "ry": 7.299999999999997
+        }
+      },
+      {
+        "id": "bantal",
+        "label": "Bantal merah",
+        "shape": "persegi",
+        "region": {
+          "cx": 15.05,
+          "cy": 47.650000000000006,
+          "rx": 6.1499999999999995,
+          "ry": 7.949999999999999,
+          "polygon": [
+            [
+              8.9,
+              39.7
+            ],
+            [
+              21.2,
+              39.7
+            ],
+            [
+              21.2,
+              55.6
+            ],
+            [
+              8.9,
+              55.6
+            ]
+          ]
+        }
+      }
+    ],
+    "targetCount": 4
+  },
+  {
+    "id": "persegi-panjang-dapur",
+    "name": "Dapur Hangat 2.5D",
+    "themeId": "dapur",
+    "themeName": "Dapur Ceria",
+    "targetShape": "persegi-panjang",
+    "asset": "assets-3d/find-scenes-25d/persegi-panjang-dapur.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "213745e4270d",
+    "hotspots": [
+      {
+        "id": "lukisan",
+        "label": "Lukisan daun",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 22.299999999999997,
+          "cy": 17.95,
+          "rx": 18.5,
+          "ry": 9.45,
+          "polygon": [
+            [
+              3.8,
+              8.5
+            ],
+            [
+              40.8,
+              8.5
+            ],
+            [
+              40.8,
+              27.4
+            ],
+            [
+              3.8,
+              27.4
+            ]
+          ]
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku resep",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 17.1,
+          "cy": 46.95,
+          "rx": 10.1,
+          "ry": 3.5500000000000007,
+          "polygon": [
+            [
+              7,
+              43.4
+            ],
+            [
+              27.2,
+              43.4
+            ],
+            [
+              27.2,
+              50.5
+            ],
+            [
+              7,
+              50.5
+            ]
+          ]
+        }
+      },
+      {
+        "id": "alas",
+        "label": "Alas makan",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 74.65,
+          "cy": 75.44999999999999,
+          "rx": 19.15,
+          "ry": 5.350000000000001,
+          "polygon": [
+            [
+              55.5,
+              70.1
+            ],
+            [
+              93.8,
+              70.1
+            ],
+            [
+              93.8,
+              80.8
+            ],
+            [
+              55.5,
+              80.8
+            ]
+          ]
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 81.44999999999999,
+          "cy": 18.55,
+          "rx": 8.649999999999999,
+          "ry": 12.95
+        }
+      },
+      {
+        "id": "ubin",
+        "label": "Ubin biru",
+        "shape": "persegi",
+        "region": {
+          "cx": 54.75,
+          "cy": 20.4,
+          "rx": 7.549999999999997,
+          "ry": 10.6,
+          "polygon": [
+            [
+              47.2,
+              9.8
+            ],
+            [
+              62.3,
+              9.8
+            ],
+            [
+              62.3,
+              31
+            ],
+            [
+              47.2,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "id": "serbet",
+        "label": "Serbet merah",
+        "shape": "segitiga",
+        "region": {
+          "cx": 24.55,
+          "cy": 72.4,
+          "rx": 11.150000000000002,
+          "ry": 8.100000000000001
+        }
+      },
+      {
+        "id": "tatakan",
+        "label": "Tatakan kuning",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 71.25,
+          "cy": 42.150000000000006,
+          "rx": 6.049999999999997,
+          "ry": 8.05
+        }
+      },
+      {
+        "id": "piring",
+        "label": "Piring",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 46.65,
+          "cy": 59.949999999999996,
+          "rx": 8.850000000000001,
+          "ry": 13.149999999999999
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "segi-lima-taman",
+    "name": "Taman Sekolah 2.5D",
+    "themeId": "taman",
+    "themeName": "Taman Sekolah",
+    "targetShape": "segi-lima",
+    "asset": "assets-3d/find-scenes-25d/segi-lima-taman.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "1c06d47e22a3",
+    "hotspots": [
+      {
+        "id": "papan",
+        "label": "Papan kayu",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 57.599999999999994,
+          "cy": 21.25,
+          "rx": 7.699999999999999,
+          "ry": 11.25
+        }
+      },
+      {
+        "id": "benih",
+        "label": "Kartu benih",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 10.149999999999999,
+          "cy": 36.5,
+          "rx": 6.05,
+          "ry": 8.799999999999999
+        }
+      },
+      {
+        "id": "biskuit",
+        "label": "Biskuit",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 78.44999999999999,
+          "cy": 69.55,
+          "rx": 7.649999999999999,
+          "ry": 11.45
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam taman",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 82.65,
+          "cy": 26.2,
+          "rx": 7.850000000000001,
+          "ry": 11.8
+        }
+      },
+      {
+        "id": "bantal",
+        "label": "Bantal merah",
+        "shape": "persegi",
+        "region": {
+          "cx": 23.75,
+          "cy": 35.85,
+          "rx": 7.050000000000001,
+          "ry": 9.549999999999999,
+          "polygon": [
+            [
+              16.7,
+              26.3
+            ],
+            [
+              30.8,
+              26.3
+            ],
+            [
+              30.8,
+              45.4
+            ],
+            [
+              16.7,
+              45.4
+            ]
+          ]
+        }
+      },
+      {
+        "id": "penanda",
+        "label": "Penanda tanaman",
+        "shape": "segitiga",
+        "region": {
+          "cx": 39.2,
+          "cy": 32.0,
+          "rx": 2.6999999999999993,
+          "ry": 4.600000000000001
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku berkebun",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 36.0,
+          "cy": 74.9,
+          "rx": 13.0,
+          "ry": 6.300000000000004,
+          "polygon": [
+            [
+              23,
+              68.6
+            ],
+            [
+              49,
+              68.6
+            ],
+            [
+              49,
+              81.2
+            ],
+            [
+              23,
+              81.2
+            ]
+          ]
+        }
+      },
+      {
+        "id": "tatakan",
+        "label": "Tatakan biru",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 58.2,
+          "cy": 74.45,
+          "rx": 6.800000000000001,
+          "ry": 6.049999999999997
+        }
+      }
+    ],
+    "targetCount": 3
+  },
+  {
+    "id": "segi-lima-ruang",
+    "name": "Ruang Santai 2.5D",
+    "themeId": "ruang",
+    "themeName": "Ruang Keluarga",
+    "targetShape": "segi-lima",
+    "asset": "assets-3d/find-scenes-25d/segi-lima-ruang.png",
+    "width": 1536,
+    "height": 1024,
+    "style": "cartoon-2.5d",
+    "revision": "4be2df0e2dc4",
+    "hotspots": [
+      {
+        "id": "cermin",
+        "label": "Cermin",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 14.05,
+          "cy": 28.299999999999997,
+          "rx": 7.45,
+          "ry": 10.1
+        }
+      },
+      {
+        "id": "bingkai",
+        "label": "Bingkai bunga",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 49.65,
+          "cy": 59.15,
+          "rx": 6.649999999999999,
+          "ry": 10.449999999999996
+        }
+      },
+      {
+        "id": "bantal-pink",
+        "label": "Bantal merah muda",
+        "shape": "segi-lima",
+        "region": {
+          "cx": 19.25,
+          "cy": 74.9,
+          "rx": 9.850000000000001,
+          "ry": 13.100000000000001
+        }
+      },
+      {
+        "id": "jam",
+        "label": "Jam dinding",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 48.35,
+          "cy": 14.0,
+          "rx": 8.25,
+          "ry": 12.399999999999999
+        }
+      },
+      {
+        "id": "bantal-kuning",
+        "label": "Bantal kuning",
+        "shape": "persegi",
+        "region": {
+          "cx": 84.6,
+          "cy": 41.1,
+          "rx": 6.699999999999996,
+          "ry": 9.5,
+          "polygon": [
+            [
+              77.9,
+              31.6
+            ],
+            [
+              91.3,
+              31.6
+            ],
+            [
+              91.3,
+              50.6
+            ],
+            [
+              77.9,
+              50.6
+            ]
+          ]
+        }
+      },
+      {
+        "id": "penggaris",
+        "label": "Penggaris",
+        "shape": "segitiga",
+        "region": {
+          "cx": 88.5,
+          "cy": 82.4,
+          "rx": 7.299999999999997,
+          "ry": 9.100000000000001
+        }
+      },
+      {
+        "id": "buku",
+        "label": "Buku biru",
+        "shape": "persegi-panjang",
+        "region": {
+          "cx": 64.8,
+          "cy": 68.3,
+          "rx": 9.0,
+          "ry": 4.799999999999997,
+          "polygon": [
+            [
+              55.8,
+              63.5
+            ],
+            [
+              73.8,
+              63.5
+            ],
+            [
+              73.8,
+              73.1
+            ],
+            [
+              55.8,
+              73.1
+            ]
+          ]
+        }
+      },
+      {
+        "id": "piring",
+        "label": "Piring hias",
+        "shape": "lingkaran",
+        "region": {
+          "cx": 28.15,
+          "cy": 48.599999999999994,
+          "rx": 5.25,
+          "ry": 7.800000000000001
+        }
+      }
+    ],
+    "targetCount": 3
+  }
+]

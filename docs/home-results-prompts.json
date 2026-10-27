@@ -1,0 +1,11 @@
+{
+  "tool": "built-in imagegen",
+  "home": {
+    "asset": "assets-3d/ui/home-adventure.png",
+    "prompt": "Use case: stylized-concept. Create a polished children's educational web game HOME BACKGROUND illustration, landscape1536x1024. Use attached game logo as MATERIAL AND STYLE reference, do NOT include that logo or any letters. Soft clean 2.5D cartoon with warm honey wood accents, rounded volumes, bright turquoise sky and sunny green meadow, winding path to tiny fairytale school castle far upper right, a few flowers and leafy corners. Friendly original young child explorer wearing yellow safari hat, yellow shirt, blue vest and small backpack holding a folded map at LOWER LEFT, with cute brown-white puppy beside them. Characters occupy left x50..680, y460..940 only, smiling welcomingly, not a famous character. Keep TOP forty percent mostly open clear sky for separately placed logo. RIGHT half at x820..1450 y420..880 must be calm simple green meadow with no character or focal objects, for three interactive wooden menu buttons added later. Keep bottom y950..1024 simple grass for footer buttons. No text, no buttons, no UI panels, no floating shapes, no emojis or watermark. Cohesive friendly 2.5D game art matching existing logo, not photorealistic."
+  },
+  "results": {
+    "asset": "assets-3d/ui/results-adventure.png",
+    "prompt": "Use case: stylized-concept. Create EMPTY final result screen background for same children's educational game. Match attached logo's honey wood, soft rounded 2.5D, turquoise, golden yellow and cream palette. Landscape1536x1024. Warm wood rounded OUTER FRAME surrounding one LARGE totally blank ivory cream results board x130..1400 y80..850; leafy decorative outer corners and small confetti outside board only. Main board must be empty with no text, stars, buttons or illustrations: actual Completed banner, live score, five level rows, stars and navigation added in code. A small friendly original child explorer in yellow hat and cute brown-white puppy at LOWER LEFT corner outside board, y820..1020; keep lower right clear for buttons. Same welcoming cartoon character styling. No words, no numbers, no emoji, no watermark. This is background material, not a completed screenshot."
+  }
+}

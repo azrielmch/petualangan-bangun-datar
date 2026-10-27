@@ -1,0 +1,903 @@
+[
+  {
+    "id": "persegi",
+    "path": "assets/characters/persegi.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "pose": "normal"
+  },
+  {
+    "id": "persegi-great",
+    "path": "assets/characters/persegi-great.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "pose": "celebration"
+  },
+  {
+    "id": "shape-persegi",
+    "path": "assets/ui/shape-persegi.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi"
+  },
+  {
+    "id": "master-persegi",
+    "path": "assets/puzzles/master-persegi.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "pieces": 6
+  },
+  {
+    "id": "jendela",
+    "path": "assets/objects/jendela.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "label": "jendela"
+  },
+  {
+    "id": "bingkai",
+    "path": "assets/objects/bingkai.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "label": "bingkai"
+  },
+  {
+    "id": "ubin",
+    "path": "assets/objects/ubin.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "label": "ubin"
+  },
+  {
+    "id": "serbet",
+    "path": "assets/objects/serbet.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "label": "serbet"
+  },
+  {
+    "id": "catatan",
+    "path": "assets/objects/catatan.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi",
+    "label": "catatan"
+  },
+  {
+    "id": "lingkaran",
+    "path": "assets/characters/lingkaran.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "pose": "normal"
+  },
+  {
+    "id": "lingkaran-great",
+    "path": "assets/characters/lingkaran-great.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "pose": "celebration"
+  },
+  {
+    "id": "shape-lingkaran",
+    "path": "assets/ui/shape-lingkaran.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran"
+  },
+  {
+    "id": "master-lingkaran",
+    "path": "assets/puzzles/master-lingkaran.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "pieces": 6
+  },
+  {
+    "id": "koin",
+    "path": "assets/objects/koin.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "label": "koin"
+  },
+  {
+    "id": "piring",
+    "path": "assets/objects/piring.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "label": "piring"
+  },
+  {
+    "id": "jam",
+    "path": "assets/objects/jam.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "label": "jam"
+  },
+  {
+    "id": "kancing",
+    "path": "assets/objects/kancing.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "label": "kancing"
+  },
+  {
+    "id": "biskuit-bulat",
+    "path": "assets/objects/biskuit-bulat.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "lingkaran",
+    "label": "biskuit bulat"
+  },
+  {
+    "id": "segitiga",
+    "path": "assets/characters/segitiga.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "pose": "normal"
+  },
+  {
+    "id": "segitiga-great",
+    "path": "assets/characters/segitiga-great.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "pose": "celebration"
+  },
+  {
+    "id": "shape-segitiga",
+    "path": "assets/ui/shape-segitiga.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga"
+  },
+  {
+    "id": "master-segitiga",
+    "path": "assets/puzzles/master-segitiga.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "pieces": 6
+  },
+  {
+    "id": "pizza",
+    "path": "assets/objects/pizza.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "label": "pizza"
+  },
+  {
+    "id": "penggaris",
+    "path": "assets/objects/penggaris.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "label": "penggaris"
+  },
+  {
+    "id": "bendera",
+    "path": "assets/objects/bendera.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "label": "bendera"
+  },
+  {
+    "id": "roti",
+    "path": "assets/objects/roti.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "label": "roti"
+  },
+  {
+    "id": "rambu",
+    "path": "assets/objects/rambu.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segitiga",
+    "label": "rambu"
+  },
+  {
+    "id": "persegi-panjang",
+    "path": "assets/characters/persegi-panjang.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "pose": "normal"
+  },
+  {
+    "id": "persegi-panjang-great",
+    "path": "assets/characters/persegi-panjang-great.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "pose": "celebration"
+  },
+  {
+    "id": "shape-persegi-panjang",
+    "path": "assets/ui/shape-persegi-panjang.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang"
+  },
+  {
+    "id": "master-persegi-panjang",
+    "path": "assets/puzzles/master-persegi-panjang.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "pieces": 6
+  },
+  {
+    "id": "pintu",
+    "path": "assets/objects/pintu.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "label": "pintu"
+  },
+  {
+    "id": "buku",
+    "path": "assets/objects/buku.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "label": "buku"
+  },
+  {
+    "id": "karpet",
+    "path": "assets/objects/karpet.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "label": "karpet"
+  },
+  {
+    "id": "papan",
+    "path": "assets/objects/papan.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "label": "papan"
+  },
+  {
+    "id": "tempat-pensil",
+    "path": "assets/objects/tempat-pensil.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "persegi-panjang",
+    "label": "tempat pensil"
+  },
+  {
+    "id": "segi-lima",
+    "path": "assets/characters/segi-lima.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "pose": "normal"
+  },
+  {
+    "id": "segi-lima-great",
+    "path": "assets/characters/segi-lima-great.svg",
+    "type": "characters",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "pose": "celebration"
+  },
+  {
+    "id": "shape-segi-lima",
+    "path": "assets/ui/shape-segi-lima.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima"
+  },
+  {
+    "id": "master-segi-lima",
+    "path": "assets/puzzles/master-segi-lima.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "pieces": 6
+  },
+  {
+    "id": "biskuit",
+    "path": "assets/objects/biskuit.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "label": "biskuit"
+  },
+  {
+    "id": "bingkai-segilima",
+    "path": "assets/objects/bingkai-segilima.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "label": "bingkai segilima"
+  },
+  {
+    "id": "lencana",
+    "path": "assets/objects/lencana.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "label": "lencana"
+  },
+  {
+    "id": "ubin-segilima",
+    "path": "assets/objects/ubin-segilima.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "label": "ubin segilima"
+  },
+  {
+    "id": "papan-segilima",
+    "path": "assets/objects/papan-segilima.svg",
+    "type": "objects",
+    "width": 256,
+    "height": 256,
+    "shape": "segi-lima",
+    "label": "papan segilima"
+  },
+  {
+    "id": "icon-back",
+    "path": "assets/ui/icon-back.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-next",
+    "path": "assets/ui/icon-next.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-play",
+    "path": "assets/ui/icon-play.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-sound",
+    "path": "assets/ui/icon-sound.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-mute",
+    "path": "assets/ui/icon-mute.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-help",
+    "path": "assets/ui/icon-help.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-home",
+    "path": "assets/ui/icon-home.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-retry",
+    "path": "assets/ui/icon-retry.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-lock",
+    "path": "assets/ui/icon-lock.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-check",
+    "path": "assets/ui/icon-check.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "icon-close",
+    "path": "assets/ui/icon-close.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "star-full",
+    "path": "assets/ui/star-full.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "star-half",
+    "path": "assets/ui/star-half.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "star-empty",
+    "path": "assets/ui/star-empty.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "panel",
+    "path": "assets/ui/panel.svg",
+    "type": "ui",
+    "width": 640,
+    "height": 400
+  },
+  {
+    "id": "button",
+    "path": "assets/ui/button.svg",
+    "type": "ui",
+    "width": 400,
+    "height": 112
+  },
+  {
+    "id": "title-board",
+    "path": "assets/ui/title-board.svg",
+    "type": "ui",
+    "width": 700,
+    "height": 160
+  },
+  {
+    "id": "matching-slot",
+    "path": "assets/ui/matching-slot.svg",
+    "type": "ui",
+    "width": 380,
+    "height": 100
+  },
+  {
+    "id": "jigsaw-outline",
+    "path": "assets/puzzles/jigsaw-outline.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360
+  },
+  {
+    "id": "piece-persegi-1",
+    "path": "assets/puzzles/piece-persegi-1.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "piece": 1
+  },
+  {
+    "id": "piece-persegi-2",
+    "path": "assets/puzzles/piece-persegi-2.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "piece": 2
+  },
+  {
+    "id": "piece-persegi-3",
+    "path": "assets/puzzles/piece-persegi-3.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "piece": 3
+  },
+  {
+    "id": "piece-persegi-4",
+    "path": "assets/puzzles/piece-persegi-4.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "piece": 4
+  },
+  {
+    "id": "piece-persegi-5",
+    "path": "assets/puzzles/piece-persegi-5.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "piece": 5
+  },
+  {
+    "id": "piece-persegi-6",
+    "path": "assets/puzzles/piece-persegi-6.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi",
+    "piece": 6
+  },
+  {
+    "id": "piece-lingkaran-1",
+    "path": "assets/puzzles/piece-lingkaran-1.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "piece": 1
+  },
+  {
+    "id": "piece-lingkaran-2",
+    "path": "assets/puzzles/piece-lingkaran-2.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "piece": 2
+  },
+  {
+    "id": "piece-lingkaran-3",
+    "path": "assets/puzzles/piece-lingkaran-3.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "piece": 3
+  },
+  {
+    "id": "piece-lingkaran-4",
+    "path": "assets/puzzles/piece-lingkaran-4.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "piece": 4
+  },
+  {
+    "id": "piece-lingkaran-5",
+    "path": "assets/puzzles/piece-lingkaran-5.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "piece": 5
+  },
+  {
+    "id": "piece-lingkaran-6",
+    "path": "assets/puzzles/piece-lingkaran-6.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "lingkaran",
+    "piece": 6
+  },
+  {
+    "id": "piece-segitiga-1",
+    "path": "assets/puzzles/piece-segitiga-1.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "piece": 1
+  },
+  {
+    "id": "piece-segitiga-2",
+    "path": "assets/puzzles/piece-segitiga-2.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "piece": 2
+  },
+  {
+    "id": "piece-segitiga-3",
+    "path": "assets/puzzles/piece-segitiga-3.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "piece": 3
+  },
+  {
+    "id": "piece-segitiga-4",
+    "path": "assets/puzzles/piece-segitiga-4.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "piece": 4
+  },
+  {
+    "id": "piece-segitiga-5",
+    "path": "assets/puzzles/piece-segitiga-5.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "piece": 5
+  },
+  {
+    "id": "piece-segitiga-6",
+    "path": "assets/puzzles/piece-segitiga-6.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segitiga",
+    "piece": 6
+  },
+  {
+    "id": "piece-persegi-panjang-1",
+    "path": "assets/puzzles/piece-persegi-panjang-1.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "piece": 1
+  },
+  {
+    "id": "piece-persegi-panjang-2",
+    "path": "assets/puzzles/piece-persegi-panjang-2.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "piece": 2
+  },
+  {
+    "id": "piece-persegi-panjang-3",
+    "path": "assets/puzzles/piece-persegi-panjang-3.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "piece": 3
+  },
+  {
+    "id": "piece-persegi-panjang-4",
+    "path": "assets/puzzles/piece-persegi-panjang-4.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "piece": 4
+  },
+  {
+    "id": "piece-persegi-panjang-5",
+    "path": "assets/puzzles/piece-persegi-panjang-5.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "piece": 5
+  },
+  {
+    "id": "piece-persegi-panjang-6",
+    "path": "assets/puzzles/piece-persegi-panjang-6.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "persegi-panjang",
+    "piece": 6
+  },
+  {
+    "id": "piece-segi-lima-1",
+    "path": "assets/puzzles/piece-segi-lima-1.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "piece": 1
+  },
+  {
+    "id": "piece-segi-lima-2",
+    "path": "assets/puzzles/piece-segi-lima-2.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "piece": 2
+  },
+  {
+    "id": "piece-segi-lima-3",
+    "path": "assets/puzzles/piece-segi-lima-3.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "piece": 3
+  },
+  {
+    "id": "piece-segi-lima-4",
+    "path": "assets/puzzles/piece-segi-lima-4.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "piece": 4
+  },
+  {
+    "id": "piece-segi-lima-5",
+    "path": "assets/puzzles/piece-segi-lima-5.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "piece": 5
+  },
+  {
+    "id": "piece-segi-lima-6",
+    "path": "assets/puzzles/piece-segi-lima-6.svg",
+    "type": "puzzles",
+    "width": 480,
+    "height": 360,
+    "shape": "segi-lima",
+    "piece": 6
+  },
+  {
+    "id": "banner-great",
+    "path": "assets/ui/banner-great.svg",
+    "type": "ui",
+    "width": 640,
+    "height": 145
+  },
+  {
+    "id": "banner-completed",
+    "path": "assets/ui/banner-completed.svg",
+    "type": "ui",
+    "width": 640,
+    "height": 145
+  },
+  {
+    "id": "banner-correct",
+    "path": "assets/ui/banner-correct.svg",
+    "type": "ui",
+    "width": 640,
+    "height": 145
+  },
+  {
+    "id": "banner-wrong",
+    "path": "assets/ui/banner-wrong.svg",
+    "type": "ui",
+    "width": 640,
+    "height": 145
+  },
+  {
+    "id": "logo",
+    "path": "assets/ui/logo.svg",
+    "type": "ui",
+    "width": 700,
+    "height": 220
+  },
+  {
+    "id": "thumbnail-find",
+    "path": "assets/ui/thumbnail-find.svg",
+    "type": "ui",
+    "width": 360,
+    "height": 240
+  },
+  {
+    "id": "thumbnail-puzzle",
+    "path": "assets/ui/thumbnail-puzzle.svg",
+    "type": "ui",
+    "width": 360,
+    "height": 240
+  },
+  {
+    "id": "thumbnail-match",
+    "path": "assets/ui/thumbnail-match.svg",
+    "type": "ui",
+    "width": 360,
+    "height": 240
+  },
+  {
+    "id": "map-node-available",
+    "path": "assets/ui/map-node-available.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-node-done",
+    "path": "assets/ui/map-node-done.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "map-node-locked",
+    "path": "assets/ui/map-node-locked.svg",
+    "type": "ui",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "id": "child-room",
+    "path": "assets/backgrounds/child-room.png",
+    "type": "backgrounds",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "forest-castle",
+    "path": "assets/backgrounds/forest-castle.png",
+    "type": "backgrounds",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "id": "workshop",
+    "path": "assets/backgrounds/workshop.png",
+    "type": "backgrounds",
+    "width": 1536,
+    "height": 1024
+  }
+]

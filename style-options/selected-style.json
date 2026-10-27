@@ -1,0 +1,8 @@
+{
+  "choice": 2,
+  "name": "Kartun 2.5D",
+  "reference": "style-options/school-02-soft-25d.png",
+  "appliesTo": "Temukan Benda",
+  "characteristics": ["volume lembut", "tekstur ringan", "permukaan matte", "dekorasi sedikit", "cahaya hangat", "benda menyatu dengan latar"],
+  "geometry": {"square": "1:1, empat sisi sama panjang, tampak depan", "rectangle": "sisi panjang setidaknya sekitar dua kali sisi pendek"}
+}

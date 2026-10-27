@@ -1,0 +1,58 @@
+{
+  "tool": "built-in imagegen",
+  "reference": "style-options/school-02-soft-25d.png",
+  "common": "Edit the supplied chosen classroom image into the following NEW complete hidden-object scene, preserving its EXACT clean SOFT 2.5D CARTOON art direction: gentle smooth volume, matte pastel surfaces, very light wood texture, warm upper-left sunlight, subtle contact shadows, simple cream walls and floor, honey oak, mint, sky blue, coral, soft yellow. NOT realistic photography, not clay, not thick outlined flat vector. LANDSCAPE 1536x1024. One coherent scene, every object naturally rests on furniture or hangs on a wall, no floating clipart. Minimal decor, large separated readable objects, maximum one small plain potted plant, no busy patterns, no flowers or vines except a simple tiny motif inside a picture. NO people, emoji, words, letters, numerals, UI or answer circles. Critical educational distinction: SQUARE faces are visibly exact 1:1 equal width and height, frontal and aligned to picture plane, not perspective-squashed; RECTANGULAR faces are visibly long 2:1 or tall 1:2, never near-square. All books are clearly LONG rectangular 2:1; do NOT use a book as a square example. Do not add decorative extra books or framed pictures. Exactly the listed 8 principal objects. ",
+  "scenes": [
+    {
+      "id": "persegi-kamar",
+      "subject": "Clean child's bedroom, simple mint bed at left with one yellow cushion, low shelf at far left, plain study desk right. Three SQUARE targets: one large single-pane square window upper-left; one square blue landscape picture frame upper-middle; one genuinely square yellow cushion propped upright face-on on bed middle-left. Five distractors: circular wall clock upper-right; one triangular coral fabric pennant hanging mid-right above desk; pentagonal flower frame on left shelf mid-height; clearly long rectangular green book on low foreground table lower-middle (2:1 cover); circular cream coaster at lower-right table. Quiet uncluttered floor, no rug pattern."
+    },
+    {
+      "id": "persegi-kelas",
+      "subject": "Clean SCHOOL classroom, two chairs and a low central school desk. Three exact 1:1 SQUARE targets: single-pane square window upper-left; perfectly square green chalkboard centered upper wall with no chalk writing; square coral seat cushion propped vertically face-on against left chair back, middle-left. Five distractors: circular wall clock upper-right; long horizontal rectangular blue textbook 2:1 on right desk; triangular yellow set-square ruler near desk middle; pentagonal small picture frame on right shelf; circular cream plate on front-left table corner. No other books, no square notebook."
+    },
+    {
+      "id": "lingkaran-dapur",
+      "subject": "Clean cheerful kitchen with simple oak counters and a plain low breakfast table. Three CIRCULAR targets all shown fully FRONT-ON, true circles not ellipses: turquoise round wall clock upper-left; round cream decorative plate hanging upper-right; round golden flower-emblem coaster propped vertically against backsplash near middle-center. Five distractors: exact square mint wall tile upper-middle; long rectangular blue recipe book 2:1 at lower-left counter; triangular coral folded napkin on breakfast table lower-right; pentagonal green decorative plaque standing on counter middle-right; exact square coral cushion upright on left breakfast chair. Simple cabinets with round knobs, no other utensils or dishes."
+    },
+    {
+      "id": "lingkaran-ruang",
+      "subject": "Clean cozy living room, mint armchair left, turquoise sofa right, low oak coffee table. Three CIRCULAR targets: circular mirror upper-left; round clock upper-right; circular yellow cushion propped upright face-on in armchair middle-left. Five distractors: exact square coral cushion on sofa middle-right, clearly same width and height; one triangular pennant upper-middle; pentagonal small flower frame standing middle coffee table; long rectangular blue book 2:1 at lower-right floor; long rectangular black remote 3:1 on lower-left table. Minimal ornament, one tiny plant at most."
+    },
+    {
+      "id": "segitiga-taman",
+      "subject": "Clean bright SCHOOL GARDEN, simple low fence, one bench left, one low potting table right, plain green lawn and cream path. Three TRIANGULAR targets with exactly three straight outer sides, all large and clear: yellow pennant upper-left fence; upright wooden plant marker with tiny sprout emblem in a pot middle-right; triangular green garden sign hanging upper-middle fence. Five distractors: square coral cushion propped front-on on bench middle-left (true 1:1); long rectangular blue gardening book 2:1 on low foreground table lower-right; circular cream garden plate propped front-on lower-middle table; pentagonal wooden plaque upper-right fence; round garden clock on far left fence. Only one small plant pot, no flower beds, no heavy foliage."
+    },
+    {
+      "id": "segitiga-kelas",
+      "subject": "Clean SCHOOL learning room, one simple low table and plain cream wall, one mint bench right. Three TRIANGULAR targets: yellow triangular warning plaque upper-right wall; coral triangle pennant upper-left wall; large yellow triangular set-square ruler on table center, nearly front-facing. Five distractors: exact square single-pane window upper-middle-left; circular wall clock upper-middle-right; pentagonal flower picture frame on left shelf middle-height; clearly long rectangular blue book 2:1 lower-right table; circular cream tambourine propped vertically face-on lower-left table. No toys or extra cushions, no other books."
+    },
+    {
+      "id": "persegi-panjang-kamar",
+      "subject": "Clean child's bedroom with mint bed left and oak study desk center. Three main RECTANGULAR targets must be emphatically elongated: tall simple door at right with height 2.4 times width; closed horizontal blue book on desk middle with cover width 2.2 times height; horizontal black remote on foreground rug lower-left with length 3 times width. Five distractors: exact 1:1 square single-pane window upper-left; circular wall clock upper-middle; pentagonal flower picture frame on left shelf middle-height; yellow triangular set-square ruler lower-right rug; exact 1:1 square coral cushion propped face-on on bed middle-left. Do not add any other books or picture frames. Plain rug without pattern."
+    },
+    {
+      "id": "persegi-panjang-dapur",
+      "subject": "Clean cheerful kitchen with one low breakfast table, smooth cream wall and minimal oak counters. Three RECTANGULAR targets, all conspicuously long 2.2:1: horizontal botanical picture frame upper-left wall; closed blue rectangular recipe book on left counter middle-left; long horizontal mint woven placemat on front table lower-right. Five distractors: circular wall clock upper-right; exact 1:1 square blue ceramic wall tile upper-middle; coral triangular folded napkin on front table lower-left; pentagonal yellow coaster propped front-on middle-right counter; circular cream plate propped vertically face-on near front table middle. No square or near-square book covers. No other decorations."
+    },
+    {
+      "id": "segi-lima-taman",
+      "subject": "Clean SCHOOL GARDEN corner, one low potting bench left, simple fence and blank green lawn, one picnic table foreground. Three regular PENTAGON targets with EXACTLY FIVE straight sides, point up, clearly front-facing: honey oak pentagonal garden plaque upper-middle fence; flat cream pentagonal seed card with tiny flower motif propped face-on on left bench middle-left; large golden pentagonal biscuit on front table lower-right, fully visible five sides. Five distractors: circular garden clock upper-right fence; exact square coral cushion propped front-on on left bench; triangular wooden plant marker in single small pot middle-right; long rectangular blue gardening book 2.2:1 lower-left table; circular turquoise coaster propped front-on lower-middle table. No roof shapes or extra pentagons, very little vegetation."
+    },
+    {
+      "id": "segi-lima-ruang",
+      "subject": "Clean cozy living room, green sofa right, low bookshelf left, round simple oak coffee table. Three clearly regular PENTAGON targets, EXACTLY five straight sides, point up: pentagonal mirror on upper-left shelf; pentagonal flower picture frame standing face-on on table center; pentagonal pink cushion leaning face-on on rug lower-left. Five distractors: circular wall clock upper-middle; exact square yellow sofa cushion middle-right, clearly equal width and height; triangular blue set-square ruler lower-right; clearly long rectangular blue book with 2.2:1 cover near front table lower-middle; circular cream decorative plate propped upright face-on at far right shelf. No other books, no extra framed pictures. Smooth plain rug, minimal plants."
+    }
+  ],
+  "acceptedRefinements": {
+    "persegi-kamar": "Make the yellow cushion front face visibly square; preserve all other objects.",
+    "persegi-kelas": "Remove coral cushion; add a square cork noticeboard mounted on the left wall below the window. Replace the dinner plate with an elongated school eraser. Keep other objects and the clean 2.5D style.",
+    "lingkaran-ruang": "Make the coral cushion square by extending its top upward, with other objects unchanged.",
+    "segitiga-taman": "Replace the entire pot, plant, and square marker on the right bench with a large upright yellow triangular set-square ruler resting on that bench. Keep flag and triangular fence plaque.",
+    "persegi-panjang-kamar": "Make coral cushion visibly square, keep tall door, long book, long remote, and long white pillow unchanged.",
+    "segi-lima-taman": "Make coral cushion visibly square; preserve the three pentagonal targets.",
+    "segi-lima-ruang": "Make yellow cushion visibly square; preserve the three pentagonal targets.",
+    "segitiga-kelas": "Replace the tambourine with an ordinary blue pencil cup holding colored pencils, resting on the left tabletop. Preserve all triangle targets."
+  },
+  "schoolRealismPromptFile": "docs/school-realism-prompts.json"
+}

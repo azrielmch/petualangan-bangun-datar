@@ -1,0 +1,13 @@
+{
+  "tool": "built-in imagegen",
+  "edits": [
+    {
+      "id": "persegi-kelas",
+      "prompt": "Edit this school classroom illustration to make its props natural and appropriate for school. 1) REMOVE the coral red cushion from the chair entirely; restore the plain normal wooden chair back. 2) Add ONE small genuinely SQUARE cork noticeboard with a thin wood frame, mounted flat on the cream WALL just below the square window at the far left. Suggested fully visible box around x=75..245, y=440..610 in this 1536x1024 image: equal width and height. Make it clearly attached to the wall, above/left of the desk edge, not floating, not standing on a chair. One tiny blank cream note pinned inside is enough, no text. This noticeboard is the third square target along with existing square window and square green chalkboard. 3) Replace the cream dinner plate on the left desk with a normal small elongated white-and-blue school eraser, resting FLAT naturally on the desk in the same general place. The eraser is clearly rectangular, at least 2:1 length to width, not a square. Preserve all other props (window, green chalkboard, circular clock, triangular ruler, long blue book, pentagon picture frame), their positions, lighting, camera, and selected clean soft 2.5D cartoon style. No extra objects, no labels, no emojis, no letters, no numbers, no answer circles. Full landscape image same size."
+    },
+    {
+      "id": "segitiga-kelas",
+      "prompt": "Change ONLY the round tambourine / drum standing on the LEFT side of the school desk. Remove the whole tambourine including its metal jingles. Replace it with an ordinary SMALL MATTE SKY-BLUE PENCIL CUP holding five colored pencils, standing upright and naturally resting on that same left tabletop area. Appropriate realistic school stationery, simple smooth cup, no face, no words, no emoji. Keep it reasonably sized so it does not obscure the window or pentagon picture frame. Preserve every other object, the three triangle targets (red pennant, yellow triangular warning sign, yellow triangular ruler), blue book, chairs, desk, clock, composition, lighting and exact clean 2.5D cartoon style. No new additional objects, no labels, no answer marks, same landscape dimensions."
+    }
+  ]
+}

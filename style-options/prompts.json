@@ -1,0 +1,21 @@
+{
+  "tool": "built-in imagegen",
+  "common": "Create ONE full coherent illustration for a grade-2 educational hidden-object game. Landscape 1536x1024. Theme: a clean, cheerful elementary SCHOOL CLASSROOM. Same fixed composition: pale cream back wall, one SINGLE-PANE PERFECTLY SQUARE sky-blue window at upper left, one small PERFECTLY SQUARE green chalkboard centered on wall with equal height and width and NO writing, a circular yellow wall clock upper right with simple ticks and no numerals; one low wooden school desk across lower middle with a clearly SQUARE coral notebook resting face-visible on its left side, a yellow triangular set-square ruler near its right side, and a single closed horizontal rectangular blue textbook; one small pentagonal picture frame on a low shelf at far right. Two simple school chairs. These are THREE clear square targets (window, chalkboard, notebook) and FOUR clear distractors (clock, triangle ruler, rectangular textbook, pentagon frame). All objects naturally grounded or wall-mounted, not isolated clipart, not floating. Frontal view with only mild table perspective; preserve recognizable geometric silhouettes, square objects must NOT look rectangular. Clean cream floor, broad quiet negative space, plain surfaces, no busy patterns, no flowers, no vines, no piles of books, no extra toys, no extra objects, no people, no emoji, no words, no letters, no numbers, no UI, no answer circles, no watermark. Warm harmonious palette: honey wood, cream, mint green, sky blue, coral, soft yellow. Clear separation between objects, large click-friendly objects. ",
+  "variants": [
+    {
+      "id": "school-01-clean-2d",
+      "name": "1 · 2D Clean",
+      "style": "Style: clean premium children's 2D cartoon illustration, flat pastel color blocks, crisp smooth simplified shapes, restrained thin warm-brown outlines, only very subtle one-step shadows. Minimal detail, no photographic textures, no gradients, no 3D rendering. Calm friendly educational picture-book illustration."
+    },
+    {
+      "id": "school-02-soft-25d",
+      "name": "2 · Kartun 2.5D",
+      "style": "Style: polished softly dimensional 2.5D children's storybook cartoon, gently rounded forms, subtle smooth shading and small contact shadows, simple matte surfaces, very light wood texture only, warm upper-left sunlight, controlled detail. Clean mobile educational-game illustration, no photorealism, no busy texture or thick black outlines."
+    },
+    {
+      "id": "school-03-clay-3d",
+      "name": "3 · 3D Clay",
+      "style": "Style: premium stylized 3D clay toy diorama rendering, softly rounded beveled edges, smooth matte clay materials, broad soft highlights, gentle ambient occlusion, warm upper-left studio sunlight, simple handmade forms. Very clean geometry, no realistic wood grain, no photorealism, no complex texture, no black outlines."
+    }
+  ]
+}

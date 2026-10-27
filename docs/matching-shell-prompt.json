@@ -1,0 +1,5 @@
+{
+  "tool": "built-in imagegen",
+  "asset": "assets-3d/ui/matching-biru-shell.png",
+  "prompt": "Use case: precise-object-edit. Create matching-game empty UI shell by editing supplied Biru Ceria jigsaw shell. Match exact soft 2.5D wood, turquoise, golden chunky rounded raised lettering, warm classroom and camera. Change title to exactly 'Ayo Mencocokkan!' using same dimensional font and finish. Replace the TWO big play panels with ONE wide blank ivory cream board, same outer boundaries x150 to1450 y240 to870, honey wood outer frame, NO divider at center. Keep both little blank cream plaques under title, bottom blank cream instruction plaque, back arrow and sound button in exact places. Wide board must be totally EMPTY so separate interactive cards can be added in code: no cards, no shapes, no lines, no text in board. Preserve1536x1024 landscape. No emojis, watermark, extra objects or additional text."
+}

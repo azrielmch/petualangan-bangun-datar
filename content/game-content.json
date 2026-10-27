@@ -1,0 +1,3989 @@
+{
+  "version": 1,
+  "levelCountPerGame": 5,
+  "shapes": [
+    {
+      "id": "persegi",
+      "name": "Persegi",
+      "features": "4 sisi sama panjang\n4 sudut siku-siku",
+      "asset": "assets-3d/ui/shape-persegi.svg"
+    },
+    {
+      "id": "lingkaran",
+      "name": "Lingkaran",
+      "features": "1 sisi lengkung\nTanpa sudut",
+      "asset": "assets-3d/ui/shape-lingkaran.svg"
+    },
+    {
+      "id": "segitiga",
+      "name": "Segitiga",
+      "features": "3 sisi\n3 sudut",
+      "asset": "assets-3d/ui/shape-segitiga.svg"
+    },
+    {
+      "id": "persegi-panjang",
+      "name": "Persegi Panjang",
+      "features": "2 sisi panjang, 2 sisi pendek\n4 sudut siku-siku",
+      "asset": "assets-3d/ui/shape-persegi-panjang.svg"
+    },
+    {
+      "id": "segi-lima",
+      "name": "Segi Lima",
+      "features": "5 sisi\n5 sudut",
+      "asset": "assets-3d/ui/shape-segi-lima.svg"
+    }
+  ],
+  "objects": [
+    {
+      "id": "jendela",
+      "shape": "persegi",
+      "name": "Jendela",
+      "asset": "assets-3d/objects/jendela.png"
+    },
+    {
+      "id": "bingkai",
+      "shape": "persegi",
+      "name": "Bingkai",
+      "asset": "assets-3d/objects/bingkai.png"
+    },
+    {
+      "id": "ubin",
+      "shape": "persegi",
+      "name": "Ubin",
+      "asset": "assets-3d/objects/ubin.png"
+    },
+    {
+      "id": "serbet",
+      "shape": "persegi",
+      "name": "Serbet",
+      "asset": "assets-3d/objects/serbet.png"
+    },
+    {
+      "id": "catatan",
+      "shape": "persegi",
+      "name": "Catatan",
+      "asset": "assets-3d/objects/catatan.png"
+    },
+    {
+      "id": "peta-persegi",
+      "shape": "persegi",
+      "name": "Peta persegi",
+      "asset": "assets-3d/objects/peta-persegi.png"
+    },
+    {
+      "id": "tatakan-persegi",
+      "shape": "persegi",
+      "name": "Tatakan persegi",
+      "asset": "assets-3d/objects/tatakan-persegi.png"
+    },
+    {
+      "id": "kartu-benih-persegi",
+      "shape": "persegi",
+      "name": "Kartu benih persegi",
+      "asset": "assets-3d/objects/kartu-benih-persegi.png"
+    },
+    {
+      "id": "koin",
+      "shape": "lingkaran",
+      "name": "Koin",
+      "asset": "assets-3d/objects/koin.png"
+    },
+    {
+      "id": "piring",
+      "shape": "lingkaran",
+      "name": "Piring",
+      "asset": "assets-3d/objects/piring.png"
+    },
+    {
+      "id": "jam",
+      "shape": "lingkaran",
+      "name": "Jam",
+      "asset": "assets-3d/objects/jam.png"
+    },
+    {
+      "id": "kancing",
+      "shape": "lingkaran",
+      "name": "Kancing",
+      "asset": "assets-3d/objects/kancing.png"
+    },
+    {
+      "id": "biskuit-bulat",
+      "shape": "lingkaran",
+      "name": "Biskuit bulat",
+      "asset": "assets-3d/objects/biskuit-bulat.png"
+    },
+    {
+      "id": "irisan-jeruk",
+      "shape": "lingkaran",
+      "name": "Irisan jeruk",
+      "asset": "assets-3d/objects/irisan-jeruk.png"
+    },
+    {
+      "id": "lencana-bunga-bulat",
+      "shape": "lingkaran",
+      "name": "Lencana bunga bulat",
+      "asset": "assets-3d/objects/lencana-bunga-bulat.png"
+    },
+    {
+      "id": "rebana",
+      "shape": "lingkaran",
+      "name": "Rebana",
+      "asset": "assets-3d/objects/rebana.png"
+    },
+    {
+      "id": "pizza",
+      "shape": "segitiga",
+      "name": "Pizza",
+      "asset": "assets-3d/objects/pizza.png"
+    },
+    {
+      "id": "penggaris",
+      "shape": "segitiga",
+      "name": "Penggaris",
+      "asset": "assets-3d/objects/penggaris.png"
+    },
+    {
+      "id": "bendera",
+      "shape": "segitiga",
+      "name": "Bendera segitiga",
+      "asset": "assets-3d/objects/bendera.png"
+    },
+    {
+      "id": "roti",
+      "shape": "segitiga",
+      "name": "Roti segitiga",
+      "asset": "assets-3d/objects/roti.png"
+    },
+    {
+      "id": "rambu",
+      "shape": "segitiga",
+      "name": "Rambu segitiga",
+      "asset": "assets-3d/objects/rambu.png"
+    },
+    {
+      "id": "serbet-segitiga",
+      "shape": "segitiga",
+      "name": "Serbet segitiga",
+      "asset": "assets-3d/objects/serbet-segitiga.png"
+    },
+    {
+      "id": "penanda-taman-segitiga",
+      "shape": "segitiga",
+      "name": "Penanda taman segitiga",
+      "asset": "assets-3d/objects/penanda-taman-segitiga.png"
+    },
+    {
+      "id": "tambalan-segitiga",
+      "shape": "segitiga",
+      "name": "Tambalan segitiga",
+      "asset": "assets-3d/objects/tambalan-segitiga.png"
+    },
+    {
+      "id": "pintu",
+      "shape": "persegi-panjang",
+      "name": "Pintu",
+      "asset": "assets-3d/objects/pintu.png"
+    },
+    {
+      "id": "buku",
+      "shape": "persegi-panjang",
+      "name": "Buku",
+      "asset": "assets-3d/objects/buku.png"
+    },
+    {
+      "id": "karpet",
+      "shape": "persegi-panjang",
+      "name": "Karpet",
+      "asset": "assets-3d/objects/karpet.png"
+    },
+    {
+      "id": "papan",
+      "shape": "persegi-panjang",
+      "name": "Papan tulis",
+      "asset": "assets-3d/objects/papan.png"
+    },
+    {
+      "id": "tempat-pensil",
+      "shape": "persegi-panjang",
+      "name": "Tempat pensil",
+      "asset": "assets-3d/objects/tempat-pensil.png"
+    },
+    {
+      "id": "kartu-resep",
+      "shape": "persegi-panjang",
+      "name": "Kartu resep",
+      "asset": "assets-3d/objects/kartu-resep.png"
+    },
+    {
+      "id": "bungkus-benih",
+      "shape": "persegi-panjang",
+      "name": "Bungkus benih",
+      "asset": "assets-3d/objects/bungkus-benih.png"
+    },
+    {
+      "id": "alas-piknik",
+      "shape": "persegi-panjang",
+      "name": "Alas piknik",
+      "asset": "assets-3d/objects/alas-piknik.png"
+    },
+    {
+      "id": "biskuit",
+      "shape": "segi-lima",
+      "name": "Biskuit segi lima",
+      "asset": "assets-3d/objects/biskuit.png"
+    },
+    {
+      "id": "bingkai-segilima",
+      "shape": "segi-lima",
+      "name": "Bingkai segilima",
+      "asset": "assets-3d/objects/bingkai-segilima.png"
+    },
+    {
+      "id": "lencana",
+      "shape": "segi-lima",
+      "name": "Lencana",
+      "asset": "assets-3d/objects/lencana.png"
+    },
+    {
+      "id": "ubin-segilima",
+      "shape": "segi-lima",
+      "name": "Ubin segilima",
+      "asset": "assets-3d/objects/ubin-segilima.png"
+    },
+    {
+      "id": "papan-segilima",
+      "shape": "segi-lima",
+      "name": "Papan segilima",
+      "asset": "assets-3d/objects/papan-segilima.png"
+    },
+    {
+      "id": "tatakan-segilima",
+      "shape": "segi-lima",
+      "name": "Tatakan segilima",
+      "asset": "assets-3d/objects/tatakan-segilima.png"
+    },
+    {
+      "id": "tambalan-segilima",
+      "shape": "segi-lima",
+      "name": "Tambalan segilima",
+      "asset": "assets-3d/objects/tambalan-segilima.png"
+    },
+    {
+      "id": "label-taman-segilima",
+      "shape": "segi-lima",
+      "name": "Label taman segilima",
+      "asset": "assets-3d/objects/label-taman-segilima.png"
+    }
+  ],
+  "themes": [
+    {
+      "id": "kamar",
+      "name": "Kamar Anak",
+      "background": "assets/backgrounds/child-room.png",
+      "accent": "#4bb8d2",
+      "objectPools": {
+        "persegi": [
+          "jendela",
+          "bingkai",
+          "ubin",
+          "serbet",
+          "catatan",
+          "tatakan-persegi"
+        ],
+        "lingkaran": [
+          "jam",
+          "kancing",
+          "koin",
+          "piring",
+          "biskuit-bulat",
+          "rebana"
+        ],
+        "segitiga": [
+          "penggaris",
+          "bendera",
+          "roti",
+          "rambu",
+          "serbet-segitiga",
+          "tambalan-segitiga"
+        ],
+        "persegi-panjang": [
+          "pintu",
+          "buku",
+          "karpet",
+          "papan",
+          "tempat-pensil",
+          "alas-piknik"
+        ],
+        "segi-lima": [
+          "biskuit",
+          "bingkai-segilima",
+          "lencana",
+          "ubin-segilima",
+          "papan-segilima",
+          "tatakan-segilima",
+          "tambalan-segilima"
+        ]
+      }
+    },
+    {
+      "id": "belajar",
+      "name": "Ruang Belajar",
+      "background": "assets/backgrounds/workshop.png",
+      "accent": "#e3b24d",
+      "objectPools": {
+        "persegi": [
+          "jendela",
+          "bingkai",
+          "ubin",
+          "catatan",
+          "peta-persegi",
+          "tatakan-persegi"
+        ],
+        "lingkaran": [
+          "jam",
+          "koin",
+          "kancing",
+          "rebana",
+          "lencana-bunga-bulat",
+          "piring"
+        ],
+        "segitiga": [
+          "penggaris",
+          "bendera",
+          "penanda-taman-segitiga",
+          "tambalan-segitiga",
+          "rambu",
+          "serbet-segitiga"
+        ],
+        "persegi-panjang": [
+          "pintu",
+          "buku",
+          "papan",
+          "tempat-pensil",
+          "kartu-resep",
+          "bungkus-benih"
+        ],
+        "segi-lima": [
+          "bingkai-segilima",
+          "lencana",
+          "ubin-segilima",
+          "papan-segilima",
+          "label-taman-segilima",
+          "tambalan-segilima",
+          "tatakan-segilima"
+        ]
+      }
+    },
+    {
+      "id": "dapur",
+      "name": "Dapur Ceria",
+      "background": "assets-3d/backgrounds/kitchen.png",
+      "accent": "#ee9d78",
+      "objectPools": {
+        "persegi": [
+          "jendela",
+          "ubin",
+          "serbet",
+          "tatakan-persegi",
+          "catatan",
+          "kartu-benih-persegi"
+        ],
+        "lingkaran": [
+          "piring",
+          "koin",
+          "biskuit-bulat",
+          "irisan-jeruk",
+          "jam",
+          "lencana-bunga-bulat"
+        ],
+        "segitiga": [
+          "pizza",
+          "roti",
+          "serbet-segitiga",
+          "penanda-taman-segitiga",
+          "bendera",
+          "tambalan-segitiga"
+        ],
+        "persegi-panjang": [
+          "pintu",
+          "kartu-resep",
+          "buku",
+          "tempat-pensil",
+          "bungkus-benih",
+          "alas-piknik"
+        ],
+        "segi-lima": [
+          "biskuit",
+          "tatakan-segilima",
+          "ubin-segilima",
+          "label-taman-segilima",
+          "lencana",
+          "papan-segilima"
+        ]
+      }
+    },
+    {
+      "id": "taman",
+      "name": "Taman Bunga",
+      "background": "assets-3d/backgrounds/garden.png",
+      "accent": "#84b762",
+      "objectPools": {
+        "persegi": [
+          "kartu-benih-persegi",
+          "tatakan-persegi",
+          "peta-persegi",
+          "catatan",
+          "ubin",
+          "bingkai"
+        ],
+        "lingkaran": [
+          "lencana-bunga-bulat",
+          "irisan-jeruk",
+          "piring",
+          "koin",
+          "biskuit-bulat",
+          "kancing"
+        ],
+        "segitiga": [
+          "penanda-taman-segitiga",
+          "bendera",
+          "tambalan-segitiga",
+          "rambu",
+          "serbet-segitiga",
+          "penggaris"
+        ],
+        "persegi-panjang": [
+          "bungkus-benih",
+          "alas-piknik",
+          "kartu-resep",
+          "papan",
+          "buku",
+          "tempat-pensil"
+        ],
+        "segi-lima": [
+          "label-taman-segilima",
+          "tatakan-segilima",
+          "lencana",
+          "ubin-segilima",
+          "tambalan-segilima",
+          "papan-segilima"
+        ]
+      }
+    },
+    {
+      "id": "hutan",
+      "name": "Hutan Kastel",
+      "background": "assets/backgrounds/forest-castle.png",
+      "accent": "#9d8cd5",
+      "objectPools": {
+        "persegi": [
+          "peta-persegi",
+          "serbet",
+          "tatakan-persegi",
+          "catatan",
+          "kartu-benih-persegi",
+          "ubin"
+        ],
+        "lingkaran": [
+          "koin",
+          "piring",
+          "biskuit-bulat",
+          "irisan-jeruk",
+          "kancing",
+          "lencana-bunga-bulat"
+        ],
+        "segitiga": [
+          "tambalan-segitiga",
+          "bendera",
+          "rambu",
+          "serbet-segitiga",
+          "roti",
+          "penanda-taman-segitiga"
+        ],
+        "persegi-panjang": [
+          "alas-piknik",
+          "buku",
+          "kartu-resep",
+          "bungkus-benih",
+          "tempat-pensil",
+          "papan"
+        ],
+        "segi-lima": [
+          "tambalan-segilima",
+          "lencana",
+          "tatakan-segilima",
+          "biskuit",
+          "label-taman-segilima",
+          "ubin-segilima"
+        ]
+      }
+    }
+  ],
+  "find": {
+    "levels": [
+      {
+        "level": 1,
+        "targetShape": "persegi",
+        "targetCount": 3,
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "sceneIds": [
+          "persegi-kamar",
+          "persegi-kelas"
+        ]
+      },
+      {
+        "level": 2,
+        "targetShape": "lingkaran",
+        "targetCount": 3,
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "sceneIds": [
+          "lingkaran-dapur",
+          "lingkaran-ruang"
+        ]
+      },
+      {
+        "level": 3,
+        "targetShape": "segitiga",
+        "targetCount": 3,
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "sceneIds": [
+          "segitiga-taman",
+          "segitiga-kelas"
+        ]
+      },
+      {
+        "level": 4,
+        "targetShape": "persegi-panjang",
+        "targetCount": 3,
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "sceneIds": [
+          "persegi-panjang-kamar",
+          "persegi-panjang-dapur"
+        ]
+      },
+      {
+        "level": 5,
+        "targetShape": "segi-lima",
+        "targetCount": 3,
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "sceneIds": [
+          "segi-lima-taman",
+          "segi-lima-ruang"
+        ]
+      }
+    ],
+    "scenes": [
+      {
+        "id": "persegi-kamar",
+        "name": "Kamar Baca 2.5D",
+        "themeId": "kamar",
+        "themeName": "Kamar Anak",
+        "targetShape": "persegi",
+        "asset": "assets-3d/find-scenes-25d/persegi-kamar.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "5f59c9bc461e",
+        "hotspots": [
+          {
+            "id": "jendela",
+            "label": "Jendela",
+            "shape": "persegi",
+            "region": {
+              "cx": 16.75,
+              "cy": 22.15,
+              "rx": 12.25,
+              "ry": 17.75,
+              "polygon": [
+                [
+                  4.5,
+                  4.4
+                ],
+                [
+                  29,
+                  4.4
+                ],
+                [
+                  29,
+                  39.9
+                ],
+                [
+                  4.5,
+                  39.9
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bingkai",
+            "label": "Bingkai biru",
+            "shape": "persegi",
+            "region": {
+              "cx": 52.15,
+              "cy": 22.05,
+              "rx": 9.75,
+              "ry": 14.35,
+              "polygon": [
+                [
+                  42.4,
+                  7.7
+                ],
+                [
+                  61.9,
+                  7.7
+                ],
+                [
+                  61.9,
+                  36.4
+                ],
+                [
+                  42.4,
+                  36.4
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bantal",
+            "label": "Bantal kuning",
+            "shape": "persegi",
+            "region": {
+              "cx": 35.5,
+              "cy": 50.55,
+              "rx": 6.200000000000001,
+              "ry": 8.150000000000002,
+              "polygon": [
+                [
+                  29.3,
+                  42.4
+                ],
+                [
+                  41.7,
+                  42.4
+                ],
+                [
+                  41.7,
+                  58.7
+                ],
+                [
+                  29.3,
+                  58.7
+                ]
+              ]
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 87.6,
+              "cy": 16.2,
+              "rx": 7.699999999999996,
+              "ry": 11.5
+            }
+          },
+          {
+            "id": "bendera",
+            "label": "Bendera merah",
+            "shape": "segitiga",
+            "region": {
+              "cx": 72.7,
+              "cy": 36.9,
+              "rx": 6.5,
+              "ry": 9.1
+            }
+          },
+          {
+            "id": "bingkai-bunga",
+            "label": "Bingkai bunga",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 6.35,
+              "cy": 48.2,
+              "rx": 5.15,
+              "ry": 7.099999999999998
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku hijau",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 52.95,
+              "cy": 84.75,
+              "rx": 11.25,
+              "ry": 5.450000000000003,
+              "polygon": [
+                [
+                  41.7,
+                  79.3
+                ],
+                [
+                  64.2,
+                  79.3
+                ],
+                [
+                  64.2,
+                  90.2
+                ],
+                [
+                  41.7,
+                  90.2
+                ]
+              ]
+            }
+          },
+          {
+            "id": "tatakan",
+            "label": "Tatakan cangkir",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 75.1,
+              "cy": 86.3,
+              "rx": 5.699999999999996,
+              "ry": 4.200000000000003
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "persegi-kelas",
+        "name": "Kelas Sekolah 2.5D",
+        "themeId": "belajar",
+        "themeName": "Sekolah",
+        "targetShape": "persegi",
+        "asset": "assets-3d/find-scenes-25d/persegi-kelas.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "df52422f5cb2",
+        "hotspots": [
+          {
+            "id": "jendela",
+            "label": "Jendela",
+            "shape": "persegi",
+            "region": {
+              "cx": 16.05,
+              "cy": 23.25,
+              "rx": 12.35,
+              "ry": 18.15,
+              "polygon": [
+                [
+                  3.7,
+                  5.1
+                ],
+                [
+                  28.4,
+                  5.1
+                ],
+                [
+                  28.4,
+                  41.4
+                ],
+                [
+                  3.7,
+                  41.4
+                ]
+              ]
+            }
+          },
+          {
+            "id": "papan",
+            "label": "Papan tulis",
+            "shape": "persegi",
+            "region": {
+              "cx": 50.199999999999996,
+              "cy": 28.15,
+              "rx": 14.399999999999999,
+              "ry": 19.85,
+              "polygon": [
+                [
+                  35.8,
+                  8.3
+                ],
+                [
+                  64.6,
+                  8.3
+                ],
+                [
+                  64.6,
+                  48
+                ],
+                [
+                  35.8,
+                  48
+                ]
+              ]
+            }
+          },
+          {
+            "id": "papan-gabus",
+            "label": "Papan gabus",
+            "shape": "persegi",
+            "region": {
+              "cx": 14.35,
+              "cy": 51.3,
+              "rx": 5.85,
+              "ry": 8.8,
+              "polygon": [
+                [
+                  8.5,
+                  42.5
+                ],
+                [
+                  20.2,
+                  42.5
+                ],
+                [
+                  20.2,
+                  60.1
+                ],
+                [
+                  8.5,
+                  60.1
+                ]
+              ]
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 82.25,
+              "cy": 18.9,
+              "rx": 7.849999999999994,
+              "ry": 11.8
+            }
+          },
+          {
+            "id": "penggaris",
+            "label": "Penggaris",
+            "shape": "segitiga",
+            "region": {
+              "cx": 57.849999999999994,
+              "cy": 62.900000000000006,
+              "rx": 6.050000000000001,
+              "ry": 6.0000000000000036
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku biru",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 72.2,
+              "cy": 63.55,
+              "rx": 9.0,
+              "ry": 3.9499999999999993,
+              "polygon": [
+                [
+                  63.2,
+                  59.6
+                ],
+                [
+                  81.2,
+                  59.6
+                ],
+                [
+                  81.2,
+                  67.5
+                ],
+                [
+                  63.2,
+                  67.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bingkai-bunga",
+            "label": "Bingkai bunga",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 92.15,
+              "cy": 42.150000000000006,
+              "rx": 5.350000000000001,
+              "ry": 7.449999999999999
+            }
+          },
+          {
+            "id": "penghapus",
+            "label": "Penghapus",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 22.8,
+              "cy": 67.8,
+              "rx": 4.0,
+              "ry": 3.0,
+              "polygon": [
+                [
+                  18.8,
+                  64.8
+                ],
+                [
+                  26.8,
+                  64.8
+                ],
+                [
+                  26.8,
+                  70.8
+                ],
+                [
+                  18.8,
+                  70.8
+                ]
+              ]
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "lingkaran-dapur",
+        "name": "Dapur Sarapan 2.5D",
+        "themeId": "dapur",
+        "themeName": "Dapur Ceria",
+        "targetShape": "lingkaran",
+        "asset": "assets-3d/find-scenes-25d/lingkaran-dapur.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "98abd86c32b1",
+        "hotspots": [
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 28.1,
+              "cy": 16.849999999999998,
+              "rx": 8.299999999999999,
+              "ry": 12.549999999999999
+            }
+          },
+          {
+            "id": "piring",
+            "label": "Piring hias",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 78.8,
+              "cy": 16.9,
+              "rx": 8.0,
+              "ry": 12.1
+            }
+          },
+          {
+            "id": "tatakan",
+            "label": "Tatakan bunga",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 50.9,
+              "cy": 39.25,
+              "rx": 4.899999999999999,
+              "ry": 7.450000000000001
+            }
+          },
+          {
+            "id": "ubin",
+            "label": "Ubin hijau",
+            "shape": "persegi",
+            "region": {
+              "cx": 53.0,
+              "cy": 16.5,
+              "rx": 7.200000000000003,
+              "ry": 10.7,
+              "polygon": [
+                [
+                  45.8,
+                  5.8
+                ],
+                [
+                  60.2,
+                  5.8
+                ],
+                [
+                  60.2,
+                  27.2
+                ],
+                [
+                  45.8,
+                  27.2
+                ]
+              ]
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku resep",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 33.3,
+              "cy": 43.05,
+              "rx": 7.999999999999998,
+              "ry": 3.4499999999999993,
+              "polygon": [
+                [
+                  25.3,
+                  39.6
+                ],
+                [
+                  41.3,
+                  39.6
+                ],
+                [
+                  41.3,
+                  46.5
+                ],
+                [
+                  25.3,
+                  46.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "serbet",
+            "label": "Serbet merah",
+            "shape": "segitiga",
+            "region": {
+              "cx": 84.0,
+              "cy": 67.7,
+              "rx": 7.0,
+              "ry": 6.099999999999998
+            }
+          },
+          {
+            "id": "papan",
+            "label": "Papan hijau",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 70.9,
+              "cy": 38.2,
+              "rx": 5.800000000000004,
+              "ry": 8.599999999999998
+            }
+          },
+          {
+            "id": "bantal",
+            "label": "Bantal merah",
+            "shape": "persegi",
+            "region": {
+              "cx": 30.799999999999997,
+              "cy": 72.0,
+              "rx": 9.999999999999998,
+              "ry": 13.299999999999997,
+              "polygon": [
+                [
+                  20.8,
+                  58.7
+                ],
+                [
+                  40.8,
+                  58.7
+                ],
+                [
+                  40.8,
+                  85.3
+                ],
+                [
+                  20.8,
+                  85.3
+                ]
+              ]
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "lingkaran-ruang",
+        "name": "Ruang Keluarga 2.5D",
+        "themeId": "ruang",
+        "themeName": "Ruang Keluarga",
+        "targetShape": "lingkaran",
+        "asset": "assets-3d/find-scenes-25d/lingkaran-ruang.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "25a799d289b6",
+        "hotspots": [
+          {
+            "id": "cermin",
+            "label": "Cermin",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 25.549999999999997,
+              "cy": 16.65,
+              "rx": 9.85,
+              "ry": 14.35
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 82.2,
+              "cy": 18.9,
+              "rx": 7.799999999999997,
+              "ry": 11.8
+            }
+          },
+          {
+            "id": "bantal-bulat",
+            "label": "Bantal kuning",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 20.95,
+              "cy": 48.05,
+              "rx": 7.05,
+              "ry": 9.849999999999998
+            }
+          },
+          {
+            "id": "bantal-merah",
+            "label": "Bantal merah",
+            "shape": "persegi",
+            "region": {
+              "cx": 84.5,
+              "cy": 45.05,
+              "rx": 7.5,
+              "ry": 10.25,
+              "polygon": [
+                [
+                  77,
+                  34.8
+                ],
+                [
+                  92,
+                  34.8
+                ],
+                [
+                  92,
+                  55.3
+                ],
+                [
+                  77,
+                  55.3
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bendera",
+            "label": "Bendera merah",
+            "shape": "segitiga",
+            "region": {
+              "cx": 54.05,
+              "cy": 16.85,
+              "rx": 10.75,
+              "ry": 10.25
+            }
+          },
+          {
+            "id": "bingkai-bunga",
+            "label": "Bingkai bunga",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 55.55,
+              "cy": 67.95,
+              "rx": 5.949999999999999,
+              "ry": 8.450000000000003
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku biru",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 86.0,
+              "cy": 85.65,
+              "rx": 10.599999999999994,
+              "ry": 5.850000000000001,
+              "polygon": [
+                [
+                  75.4,
+                  79.8
+                ],
+                [
+                  96.6,
+                  79.8
+                ],
+                [
+                  96.6,
+                  91.5
+                ],
+                [
+                  75.4,
+                  91.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "remot",
+            "label": "Remot",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 38.400000000000006,
+              "cy": 74.4,
+              "rx": 7.300000000000001,
+              "ry": 3.6999999999999957,
+              "polygon": [
+                [
+                  31.1,
+                  70.7
+                ],
+                [
+                  45.7,
+                  70.7
+                ],
+                [
+                  45.7,
+                  78.1
+                ],
+                [
+                  31.1,
+                  78.1
+                ]
+              ]
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "segitiga-taman",
+        "name": "Halaman Sekolah 2.5D",
+        "themeId": "taman",
+        "themeName": "Taman Sekolah",
+        "targetShape": "segitiga",
+        "asset": "assets-3d/find-scenes-25d/segitiga-taman.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "730f60119a81",
+        "hotspots": [
+          {
+            "id": "bendera",
+            "label": "Bendera kuning",
+            "shape": "segitiga",
+            "region": {
+              "cx": 34.2,
+              "cy": 23.4,
+              "rx": 6.099999999999998,
+              "ry": 7.6
+            }
+          },
+          {
+            "id": "papan",
+            "label": "Papan tanaman",
+            "shape": "segitiga",
+            "region": {
+              "cx": 59.900000000000006,
+              "cy": 25.450000000000003,
+              "rx": 8.500000000000004,
+              "ry": 10.750000000000002
+            }
+          },
+          {
+            "id": "penggaris",
+            "label": "Penggaris",
+            "shape": "segitiga",
+            "region": {
+              "cx": 84.4,
+              "cy": 44.25,
+              "rx": 7.800000000000004,
+              "ry": 10.049999999999997
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam taman",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 15.0,
+              "cy": 25.150000000000002,
+              "rx": 7.5,
+              "ry": 11.05
+            }
+          },
+          {
+            "id": "bantal",
+            "label": "Bantal merah",
+            "shape": "persegi",
+            "region": {
+              "cx": 37.1,
+              "cy": 48.65,
+              "rx": 6.299999999999999,
+              "ry": 8.850000000000001,
+              "polygon": [
+                [
+                  30.8,
+                  39.8
+                ],
+                [
+                  43.4,
+                  39.8
+                ],
+                [
+                  43.4,
+                  57.5
+                ],
+                [
+                  30.8,
+                  57.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bingkai",
+            "label": "Bingkai kayu",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 87.3,
+              "cy": 24.65,
+              "rx": 6.200000000000003,
+              "ry": 8.35
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku berkebun",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 82.45,
+              "cy": 74.45,
+              "rx": 11.049999999999997,
+              "ry": 5.25,
+              "polygon": [
+                [
+                  71.4,
+                  69.2
+                ],
+                [
+                  93.5,
+                  69.2
+                ],
+                [
+                  93.5,
+                  79.7
+                ],
+                [
+                  71.4,
+                  79.7
+                ]
+              ]
+            }
+          },
+          {
+            "id": "piring",
+            "label": "Piring",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 60.25,
+              "cy": 67.94999999999999,
+              "rx": 7.450000000000003,
+              "ry": 11.149999999999999
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "segitiga-kelas",
+        "name": "Ruang Belajar Sekolah 2.5D",
+        "themeId": "belajar",
+        "themeName": "Sekolah",
+        "targetShape": "segitiga",
+        "asset": "assets-3d/find-scenes-25d/segitiga-kelas.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "8261e70f4a7c",
+        "hotspots": [
+          {
+            "id": "bendera",
+            "label": "Bendera merah",
+            "shape": "segitiga",
+            "region": {
+              "cx": 14.65,
+              "cy": 13.65,
+              "rx": 8.15,
+              "ry": 8.450000000000001
+            }
+          },
+          {
+            "id": "rambu",
+            "label": "Rambu kuning",
+            "shape": "segitiga",
+            "region": {
+              "cx": 88.05,
+              "cy": 18.5,
+              "rx": 8.950000000000003,
+              "ry": 12.0
+            }
+          },
+          {
+            "id": "penggaris",
+            "label": "Penggaris",
+            "shape": "segitiga",
+            "region": {
+              "cx": 51.599999999999994,
+              "cy": 56.65,
+              "rx": 8.2,
+              "ry": 10.149999999999999
+            }
+          },
+          {
+            "id": "jendela",
+            "label": "Jendela",
+            "shape": "persegi",
+            "region": {
+              "cx": 40.4,
+              "cy": 22.6,
+              "rx": 12.6,
+              "ry": 17.9,
+              "polygon": [
+                [
+                  27.8,
+                  4.7
+                ],
+                [
+                  53,
+                  4.7
+                ],
+                [
+                  53,
+                  40.5
+                ],
+                [
+                  27.8,
+                  40.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 65.45,
+              "cy": 20.25,
+              "rx": 8.55,
+              "ry": 12.950000000000001
+            }
+          },
+          {
+            "id": "bingkai",
+            "label": "Bingkai bunga",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 12.149999999999999,
+              "cy": 34.2,
+              "rx": 6.749999999999999,
+              "ry": 9.3
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku biru",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 69.8,
+              "cy": 62.2,
+              "rx": 9.299999999999997,
+              "ry": 4.800000000000001,
+              "polygon": [
+                [
+                  60.5,
+                  57.4
+                ],
+                [
+                  79.1,
+                  57.4
+                ],
+                [
+                  79.1,
+                  67
+                ],
+                [
+                  60.5,
+                  67
+                ]
+              ]
+            }
+          },
+          {
+            "id": "tempat-pensil",
+            "label": "Tempat pensil",
+            "shape": "other",
+            "region": {
+              "cx": 30.8,
+              "cy": 55.0,
+              "rx": 4.199999999999999,
+              "ry": 10.599999999999998
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "persegi-panjang-kamar",
+        "name": "Kamar Tidur 2.5D",
+        "themeId": "kamar",
+        "themeName": "Kamar Anak",
+        "targetShape": "persegi-panjang",
+        "asset": "assets-3d/find-scenes-25d/persegi-panjang-kamar.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "89b793ac8db8",
+        "hotspots": [
+          {
+            "id": "pintu",
+            "label": "Pintu",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 84.9,
+              "cy": 34.6,
+              "rx": 10.800000000000004,
+              "ry": 33.199999999999996,
+              "polygon": [
+                [
+                  74.1,
+                  1.4
+                ],
+                [
+                  95.7,
+                  1.4
+                ],
+                [
+                  95.7,
+                  67.8
+                ],
+                [
+                  74.1,
+                  67.8
+                ]
+              ]
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku di meja",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 58.25,
+              "cy": 43.95,
+              "rx": 6.950000000000003,
+              "ry": 3.25,
+              "polygon": [
+                [
+                  51.3,
+                  40.7
+                ],
+                [
+                  65.2,
+                  40.7
+                ],
+                [
+                  65.2,
+                  47.2
+                ],
+                [
+                  51.3,
+                  47.2
+                ]
+              ]
+            }
+          },
+          {
+            "id": "remot",
+            "label": "Remot",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 36.25,
+              "cy": 88.55,
+              "rx": 9.850000000000001,
+              "ry": 4.25,
+              "polygon": [
+                [
+                  26.4,
+                  84.3
+                ],
+                [
+                  46.1,
+                  84.3
+                ],
+                [
+                  46.1,
+                  92.8
+                ],
+                [
+                  26.4,
+                  92.8
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bantal-putih",
+            "label": "Bantal putih",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 15.700000000000001,
+              "cy": 47.4,
+              "rx": 11.4,
+              "ry": 6.100000000000001,
+              "polygon": [
+                [
+                  4.3,
+                  41.3
+                ],
+                [
+                  27.1,
+                  41.3
+                ],
+                [
+                  27.1,
+                  53.5
+                ],
+                [
+                  4.3,
+                  53.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "jendela",
+            "label": "Jendela",
+            "shape": "persegi",
+            "region": {
+              "cx": 16.0,
+              "cy": 18.25,
+              "rx": 10.0,
+              "ry": 14.350000000000001,
+              "polygon": [
+                [
+                  6,
+                  3.9
+                ],
+                [
+                  26,
+                  3.9
+                ],
+                [
+                  26,
+                  32.6
+                ],
+                [
+                  6,
+                  32.6
+                ]
+              ]
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 58.25,
+              "cy": 16.5,
+              "rx": 6.75,
+              "ry": 10.100000000000001
+            }
+          },
+          {
+            "id": "bingkai",
+            "label": "Bingkai bunga",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 38.1,
+              "cy": 21.35,
+              "rx": 5.0,
+              "ry": 6.95
+            }
+          },
+          {
+            "id": "penggaris",
+            "label": "Penggaris",
+            "shape": "segitiga",
+            "region": {
+              "cx": 79.65,
+              "cy": 87.0,
+              "rx": 7.949999999999996,
+              "ry": 7.299999999999997
+            }
+          },
+          {
+            "id": "bantal",
+            "label": "Bantal merah",
+            "shape": "persegi",
+            "region": {
+              "cx": 15.05,
+              "cy": 47.650000000000006,
+              "rx": 6.1499999999999995,
+              "ry": 7.949999999999999,
+              "polygon": [
+                [
+                  8.9,
+                  39.7
+                ],
+                [
+                  21.2,
+                  39.7
+                ],
+                [
+                  21.2,
+                  55.6
+                ],
+                [
+                  8.9,
+                  55.6
+                ]
+              ]
+            }
+          }
+        ],
+        "targetCount": 4
+      },
+      {
+        "id": "persegi-panjang-dapur",
+        "name": "Dapur Hangat 2.5D",
+        "themeId": "dapur",
+        "themeName": "Dapur Ceria",
+        "targetShape": "persegi-panjang",
+        "asset": "assets-3d/find-scenes-25d/persegi-panjang-dapur.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "213745e4270d",
+        "hotspots": [
+          {
+            "id": "lukisan",
+            "label": "Lukisan daun",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 22.299999999999997,
+              "cy": 17.95,
+              "rx": 18.5,
+              "ry": 9.45,
+              "polygon": [
+                [
+                  3.8,
+                  8.5
+                ],
+                [
+                  40.8,
+                  8.5
+                ],
+                [
+                  40.8,
+                  27.4
+                ],
+                [
+                  3.8,
+                  27.4
+                ]
+              ]
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku resep",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 17.1,
+              "cy": 46.95,
+              "rx": 10.1,
+              "ry": 3.5500000000000007,
+              "polygon": [
+                [
+                  7,
+                  43.4
+                ],
+                [
+                  27.2,
+                  43.4
+                ],
+                [
+                  27.2,
+                  50.5
+                ],
+                [
+                  7,
+                  50.5
+                ]
+              ]
+            }
+          },
+          {
+            "id": "alas",
+            "label": "Alas makan",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 74.65,
+              "cy": 75.44999999999999,
+              "rx": 19.15,
+              "ry": 5.350000000000001,
+              "polygon": [
+                [
+                  55.5,
+                  70.1
+                ],
+                [
+                  93.8,
+                  70.1
+                ],
+                [
+                  93.8,
+                  80.8
+                ],
+                [
+                  55.5,
+                  80.8
+                ]
+              ]
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 81.44999999999999,
+              "cy": 18.55,
+              "rx": 8.649999999999999,
+              "ry": 12.95
+            }
+          },
+          {
+            "id": "ubin",
+            "label": "Ubin biru",
+            "shape": "persegi",
+            "region": {
+              "cx": 54.75,
+              "cy": 20.4,
+              "rx": 7.549999999999997,
+              "ry": 10.6,
+              "polygon": [
+                [
+                  47.2,
+                  9.8
+                ],
+                [
+                  62.3,
+                  9.8
+                ],
+                [
+                  62.3,
+                  31
+                ],
+                [
+                  47.2,
+                  31
+                ]
+              ]
+            }
+          },
+          {
+            "id": "serbet",
+            "label": "Serbet merah",
+            "shape": "segitiga",
+            "region": {
+              "cx": 24.55,
+              "cy": 72.4,
+              "rx": 11.150000000000002,
+              "ry": 8.100000000000001
+            }
+          },
+          {
+            "id": "tatakan",
+            "label": "Tatakan kuning",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 71.25,
+              "cy": 42.150000000000006,
+              "rx": 6.049999999999997,
+              "ry": 8.05
+            }
+          },
+          {
+            "id": "piring",
+            "label": "Piring",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 46.65,
+              "cy": 59.949999999999996,
+              "rx": 8.850000000000001,
+              "ry": 13.149999999999999
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "segi-lima-taman",
+        "name": "Taman Sekolah 2.5D",
+        "themeId": "taman",
+        "themeName": "Taman Sekolah",
+        "targetShape": "segi-lima",
+        "asset": "assets-3d/find-scenes-25d/segi-lima-taman.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "1c06d47e22a3",
+        "hotspots": [
+          {
+            "id": "papan",
+            "label": "Papan kayu",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 57.599999999999994,
+              "cy": 21.25,
+              "rx": 7.699999999999999,
+              "ry": 11.25
+            }
+          },
+          {
+            "id": "benih",
+            "label": "Kartu benih",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 10.149999999999999,
+              "cy": 36.5,
+              "rx": 6.05,
+              "ry": 8.799999999999999
+            }
+          },
+          {
+            "id": "biskuit",
+            "label": "Biskuit",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 78.44999999999999,
+              "cy": 69.55,
+              "rx": 7.649999999999999,
+              "ry": 11.45
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam taman",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 82.65,
+              "cy": 26.2,
+              "rx": 7.850000000000001,
+              "ry": 11.8
+            }
+          },
+          {
+            "id": "bantal",
+            "label": "Bantal merah",
+            "shape": "persegi",
+            "region": {
+              "cx": 23.75,
+              "cy": 35.85,
+              "rx": 7.050000000000001,
+              "ry": 9.549999999999999,
+              "polygon": [
+                [
+                  16.7,
+                  26.3
+                ],
+                [
+                  30.8,
+                  26.3
+                ],
+                [
+                  30.8,
+                  45.4
+                ],
+                [
+                  16.7,
+                  45.4
+                ]
+              ]
+            }
+          },
+          {
+            "id": "penanda",
+            "label": "Penanda tanaman",
+            "shape": "segitiga",
+            "region": {
+              "cx": 39.2,
+              "cy": 32.0,
+              "rx": 2.6999999999999993,
+              "ry": 4.600000000000001
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku berkebun",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 36.0,
+              "cy": 74.9,
+              "rx": 13.0,
+              "ry": 6.300000000000004,
+              "polygon": [
+                [
+                  23,
+                  68.6
+                ],
+                [
+                  49,
+                  68.6
+                ],
+                [
+                  49,
+                  81.2
+                ],
+                [
+                  23,
+                  81.2
+                ]
+              ]
+            }
+          },
+          {
+            "id": "tatakan",
+            "label": "Tatakan biru",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 58.2,
+              "cy": 74.45,
+              "rx": 6.800000000000001,
+              "ry": 6.049999999999997
+            }
+          }
+        ],
+        "targetCount": 3
+      },
+      {
+        "id": "segi-lima-ruang",
+        "name": "Ruang Santai 2.5D",
+        "themeId": "ruang",
+        "themeName": "Ruang Keluarga",
+        "targetShape": "segi-lima",
+        "asset": "assets-3d/find-scenes-25d/segi-lima-ruang.png",
+        "width": 1536,
+        "height": 1024,
+        "style": "cartoon-2.5d",
+        "revision": "4be2df0e2dc4",
+        "hotspots": [
+          {
+            "id": "cermin",
+            "label": "Cermin",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 14.05,
+              "cy": 28.299999999999997,
+              "rx": 7.45,
+              "ry": 10.1
+            }
+          },
+          {
+            "id": "bingkai",
+            "label": "Bingkai bunga",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 49.65,
+              "cy": 59.15,
+              "rx": 6.649999999999999,
+              "ry": 10.449999999999996
+            }
+          },
+          {
+            "id": "bantal-pink",
+            "label": "Bantal merah muda",
+            "shape": "segi-lima",
+            "region": {
+              "cx": 19.25,
+              "cy": 74.9,
+              "rx": 9.850000000000001,
+              "ry": 13.100000000000001
+            }
+          },
+          {
+            "id": "jam",
+            "label": "Jam dinding",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 48.35,
+              "cy": 14.0,
+              "rx": 8.25,
+              "ry": 12.399999999999999
+            }
+          },
+          {
+            "id": "bantal-kuning",
+            "label": "Bantal kuning",
+            "shape": "persegi",
+            "region": {
+              "cx": 84.6,
+              "cy": 41.1,
+              "rx": 6.699999999999996,
+              "ry": 9.5,
+              "polygon": [
+                [
+                  77.9,
+                  31.6
+                ],
+                [
+                  91.3,
+                  31.6
+                ],
+                [
+                  91.3,
+                  50.6
+                ],
+                [
+                  77.9,
+                  50.6
+                ]
+              ]
+            }
+          },
+          {
+            "id": "penggaris",
+            "label": "Penggaris",
+            "shape": "segitiga",
+            "region": {
+              "cx": 88.5,
+              "cy": 82.4,
+              "rx": 7.299999999999997,
+              "ry": 9.100000000000001
+            }
+          },
+          {
+            "id": "buku",
+            "label": "Buku biru",
+            "shape": "persegi-panjang",
+            "region": {
+              "cx": 64.8,
+              "cy": 68.3,
+              "rx": 9.0,
+              "ry": 4.799999999999997,
+              "polygon": [
+                [
+                  55.8,
+                  63.5
+                ],
+                [
+                  73.8,
+                  63.5
+                ],
+                [
+                  73.8,
+                  73.1
+                ],
+                [
+                  55.8,
+                  73.1
+                ]
+              ]
+            }
+          },
+          {
+            "id": "piring",
+            "label": "Piring hias",
+            "shape": "lingkaran",
+            "region": {
+              "cx": 28.15,
+              "cy": 48.599999999999994,
+              "rx": 5.25,
+              "ry": 7.800000000000001
+            }
+          }
+        ],
+        "targetCount": 3
+      }
+    ],
+    "presentation": "integrated-illustration",
+    "style": "cartoon-2.5d",
+    "styleReference": "style-options/school-02-soft-25d.png"
+  },
+  "puzzle": {
+    "levels": [
+      {
+        "level": 1,
+        "pieceCount": 4,
+        "layout": {
+          "level": 1,
+          "shape": "segitiga",
+          "pieceCount": 4,
+          "width": 480,
+          "height": 360,
+          "rows": 2,
+          "columns": 2,
+          "pieces": [
+            {
+              "id": 0,
+              "path": "M0 0 L240 0 L240 63 C240 75.6 222 64.8 222 90 C222 115.2 240 104.4 240 117 L240 180 L156 180 C139.2 180 153.6 162 120 162 C86.4 162 100.8 180 84 180 L0 180 L0 0 Z",
+              "targetX": 0.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "path": "M240 0 L480 0 L480 180 L396 180 C379.2 180 393.6 198 360 198 C326.4 198 340.8 180 324 180 L240 180 L240 117 C240 104.4 222 115.2 222 90 C222 64.8 240 75.6 240 63 L240 0 Z",
+              "targetX": 240.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 222.0,
+                "y": 0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "path": "M0 180 L84 180 C100.8 180 86.4 162 120 162 C153.6 162 139.2 180 156 180 L240 180 L240 243 C240 255.6 258 244.8 258 270 C258 295.2 240 284.4 240 297 L240 360 L0 360 L0 180 Z",
+              "targetX": 0.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 0,
+                "y": 162.0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "path": "M240 180 L324 180 C340.8 180 326.4 198 360 198 C393.6 198 379.2 180 396 180 L480 180 L480 360 L240 360 L240 297 C240 284.4 258 295.2 258 270 C258 244.8 240 255.6 240 243 L240 180 Z",
+              "targetX": 240.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 222.0,
+                "y": 162.0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            }
+          ]
+        },
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "shapeIds": [
+          "persegi",
+          "lingkaran",
+          "segitiga",
+          "persegi-panjang",
+          "segi-lima"
+        ]
+      },
+      {
+        "level": 2,
+        "pieceCount": 4,
+        "layout": {
+          "level": 2,
+          "shape": "persegi",
+          "pieceCount": 4,
+          "width": 480,
+          "height": 360,
+          "rows": 2,
+          "columns": 2,
+          "pieces": [
+            {
+              "id": 0,
+              "path": "M0 0 L240 0 L240 63 C240 75.6 222 64.8 222 90 C222 115.2 240 104.4 240 117 L240 180 L156 180 C139.2 180 153.6 162 120 162 C86.4 162 100.8 180 84 180 L0 180 L0 0 Z",
+              "targetX": 0.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "path": "M240 0 L480 0 L480 180 L396 180 C379.2 180 393.6 198 360 198 C326.4 198 340.8 180 324 180 L240 180 L240 117 C240 104.4 222 115.2 222 90 C222 64.8 240 75.6 240 63 L240 0 Z",
+              "targetX": 240.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 222.0,
+                "y": 0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "path": "M0 180 L84 180 C100.8 180 86.4 162 120 162 C153.6 162 139.2 180 156 180 L240 180 L240 243 C240 255.6 258 244.8 258 270 C258 295.2 240 284.4 240 297 L240 360 L0 360 L0 180 Z",
+              "targetX": 0.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 0,
+                "y": 162.0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "path": "M240 180 L324 180 C340.8 180 326.4 198 360 198 C393.6 198 379.2 180 396 180 L480 180 L480 360 L240 360 L240 297 C240 284.4 258 295.2 258 270 C258 244.8 240 255.6 240 243 L240 180 Z",
+              "targetX": 240.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 222.0,
+                "y": 162.0,
+                "width": 258.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            }
+          ]
+        },
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "shapeIds": [
+          "persegi",
+          "lingkaran",
+          "segitiga",
+          "persegi-panjang",
+          "segi-lima"
+        ]
+      },
+      {
+        "level": 3,
+        "pieceCount": 6,
+        "layout": {
+          "level": 3,
+          "shape": "lingkaran",
+          "pieceCount": 6,
+          "width": 480,
+          "height": 360,
+          "rows": 2,
+          "columns": 3,
+          "pieces": [
+            {
+              "id": 0,
+              "path": "M0 0 L160 0 L160 63 C160 75.6 142 64.8 142 90 C142 115.2 160 104.4 160 117 L160 180 L104 180 C92.8 180 102.4 162 80 162 C57.6 162 67.2 180 56 180 L0 180 L0 0 Z",
+              "targetX": 0.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "path": "M160 0 L320 0 L320 63 C320 75.6 338 64.8 338 90 C338 115.2 320 104.4 320 117 L320 180 L264 180 C252.8 180 262.4 198 240 198 C217.6 198 227.2 180 216 180 L160 180 L160 117 C160 104.4 142 115.2 142 90 C142 64.8 160 75.6 160 63 L160 0 Z",
+              "targetX": 160.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 142.0,
+                "y": 0,
+                "width": 196.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      0
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "path": "M320 0 L480 0 L480 180 L424 180 C412.8 180 422.4 162 400 162 C377.6 162 387.2 180 376 180 L320 180 L320 117 C320 104.4 338 115.2 338 90 C338 64.8 320 75.6 320 63 L320 0 Z",
+              "targetX": 320.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 302.0,
+                "y": 0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  2,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      0
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "path": "M0 180 L56 180 C67.2 180 57.6 162 80 162 C102.4 162 92.8 180 104 180 L160 180 L160 243 C160 255.6 178 244.8 178 270 C178 295.2 160 284.4 160 297 L160 360 L0 360 L0 180 Z",
+              "targetX": 0.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 0,
+                "y": 162.0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "path": "M160 180 L216 180 C227.2 180 217.6 198 240 198 C262.4 198 252.8 180 264 180 L320 180 L320 243 C320 255.6 302 244.8 302 270 C302 295.2 320 284.4 320 297 L320 360 L160 360 L160 297 C160 284.4 178 295.2 178 270 C178 244.8 160 255.6 160 243 L160 180 Z",
+              "targetX": 160.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 142.0,
+                "y": 162.0,
+                "width": 196.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      2,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "path": "M320 180 L376 180 C387.2 180 377.6 162 400 162 C422.4 162 412.8 180 424 180 L480 180 L480 360 L320 360 L320 297 C320 284.4 302 295.2 302 270 C302 244.8 320 255.6 320 243 L320 180 Z",
+              "targetX": 320.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 302.0,
+                "y": 162.0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      2,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            }
+          ]
+        },
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "shapeIds": [
+          "persegi",
+          "lingkaran",
+          "segitiga",
+          "persegi-panjang",
+          "segi-lima"
+        ]
+      },
+      {
+        "level": 4,
+        "pieceCount": 6,
+        "layout": {
+          "level": 4,
+          "shape": "persegi-panjang",
+          "pieceCount": 6,
+          "width": 480,
+          "height": 360,
+          "rows": 2,
+          "columns": 3,
+          "pieces": [
+            {
+              "id": 0,
+              "path": "M0 0 L160 0 L160 63 C160 75.6 142 64.8 142 90 C142 115.2 160 104.4 160 117 L160 180 L104 180 C92.8 180 102.4 162 80 162 C57.6 162 67.2 180 56 180 L0 180 L0 0 Z",
+              "targetX": 0.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "path": "M160 0 L320 0 L320 63 C320 75.6 338 64.8 338 90 C338 115.2 320 104.4 320 117 L320 180 L264 180 C252.8 180 262.4 198 240 198 C217.6 198 227.2 180 216 180 L160 180 L160 117 C160 104.4 142 115.2 142 90 C142 64.8 160 75.6 160 63 L160 0 Z",
+              "targetX": 160.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 142.0,
+                "y": 0,
+                "width": 196.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      0
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "path": "M320 0 L480 0 L480 180 L424 180 C412.8 180 422.4 162 400 162 C377.6 162 387.2 180 376 180 L320 180 L320 117 C320 104.4 338 115.2 338 90 C338 64.8 320 75.6 320 63 L320 0 Z",
+              "targetX": 320.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 302.0,
+                "y": 0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  2,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      0
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "path": "M0 180 L56 180 C67.2 180 57.6 162 80 162 C102.4 162 92.8 180 104 180 L160 180 L160 243 C160 255.6 178 244.8 178 270 C178 295.2 160 284.4 160 297 L160 360 L0 360 L0 180 Z",
+              "targetX": 0.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 0,
+                "y": 162.0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "path": "M160 180 L216 180 C227.2 180 217.6 198 240 198 C262.4 198 252.8 180 264 180 L320 180 L320 243 C320 255.6 302 244.8 302 270 C302 295.2 320 284.4 320 297 L320 360 L160 360 L160 297 C160 284.4 178 295.2 178 270 C178 244.8 160 255.6 160 243 L160 180 Z",
+              "targetX": 160.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 142.0,
+                "y": 162.0,
+                "width": 196.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      2,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "path": "M320 180 L376 180 C387.2 180 377.6 162 400 162 C422.4 162 412.8 180 424 180 L480 180 L480 360 L320 360 L320 297 C320 284.4 302 295.2 302 270 C302 244.8 320 255.6 320 243 L320 180 Z",
+              "targetX": 320.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 302.0,
+                "y": 162.0,
+                "width": 178.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      2,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            }
+          ]
+        },
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "shapeIds": [
+          "persegi",
+          "lingkaran",
+          "segitiga",
+          "persegi-panjang",
+          "segi-lima"
+        ]
+      },
+      {
+        "level": 5,
+        "pieceCount": 8,
+        "layout": {
+          "level": 5,
+          "shape": "segi-lima",
+          "pieceCount": 8,
+          "width": 480,
+          "height": 360,
+          "rows": 2,
+          "columns": 4,
+          "pieces": [
+            {
+              "id": 0,
+              "path": "M0 0 L120 0 L120 63 C120 75.6 102 64.8 102 90 C102 115.2 120 104.4 120 117 L120 180 L78 180 C69.6 180 76.8 162 60 162 C43.2 162 50.4 180 42 180 L0 180 L0 0 Z",
+              "targetX": 0.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 138.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "path": "M120 0 L240 0 L240 63 C240 75.6 258 64.8 258 90 C258 115.2 240 104.4 240 117 L240 180 L198 180 C189.6 180 196.8 198 180 198 C163.2 198 170.4 180 162 180 L120 180 L120 117 C120 104.4 102 115.2 102 90 C102 64.8 120 75.6 120 63 L120 0 Z",
+              "targetX": 120.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 102.0,
+                "y": 0,
+                "width": 156.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      0
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      0
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "path": "M240 0 L360 0 L360 63 C360 75.6 342 64.8 342 90 C342 115.2 360 104.4 360 117 L360 180 L318 180 C309.6 180 316.8 162 300 162 C283.2 162 290.4 180 282 180 L240 180 L240 117 C240 104.4 258 115.2 258 90 C258 64.8 240 75.6 240 63 L240 0 Z",
+              "targetX": 240.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 222.0,
+                "y": 0,
+                "width": 156.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  2,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      3,
+                      0
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      0
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "path": "M360 0 L480 0 L480 180 L438 180 C429.6 180 436.8 198 420 198 C403.2 198 410.4 180 402 180 L360 180 L360 117 C360 104.4 342 115.2 342 90 C342 64.8 360 75.6 360 63 L360 0 Z",
+              "targetX": 360.0,
+              "targetY": 0.0,
+              "bounds": {
+                "x": 342.0,
+                "y": 0,
+                "width": 138.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  3,
+                  0
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      3,
+                      1
+                    ],
+                    [
+                      4,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                },
+                {
+                  "edge": [
+                    [
+                      3,
+                      0
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "path": "M0 180 L42 180 C50.4 180 43.2 162 60 162 C76.8 162 69.6 180 78 180 L120 180 L120 243 C120 255.6 138 244.8 138 270 C138 295.2 120 284.4 120 297 L120 360 L0 360 L0 180 Z",
+              "targetX": 0.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 0,
+                "y": 162.0,
+                "width": 138.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  0,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      0,
+                      1
+                    ],
+                    [
+                      1,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "path": "M120 180 L162 180 C170.4 180 163.2 198 180 198 C196.8 198 189.6 180 198 180 L240 180 L240 243 C240 255.6 222 244.8 222 270 C222 295.2 240 284.4 240 297 L240 360 L120 360 L120 297 C120 284.4 138 295.2 138 270 C138 244.8 120 255.6 120 243 L120 180 Z",
+              "targetX": 120.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 102.0,
+                "y": 162.0,
+                "width": 156.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      2,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      2,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      1,
+                      1
+                    ],
+                    [
+                      1,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "path": "M240 180 L282 180 C290.4 180 283.2 162 300 162 C316.8 162 309.6 180 318 180 L360 180 L360 243 C360 255.6 378 244.8 378 270 C378 295.2 360 284.4 360 297 L360 360 L240 360 L240 297 C240 284.4 222 295.2 222 270 C222 244.8 240 255.6 240 243 L240 180 Z",
+              "targetX": 240.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 222.0,
+                "y": 162.0,
+                "width": 156.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      3,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      3,
+                      1
+                    ],
+                    [
+                      3,
+                      2
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      2,
+                      1
+                    ],
+                    [
+                      2,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "path": "M360 180 L402 180 C410.4 180 403.2 198 420 198 C436.8 198 429.6 180 438 180 L480 180 L480 360 L360 360 L360 297 C360 284.4 378 295.2 378 270 C378 244.8 360 255.6 360 243 L360 180 Z",
+              "targetX": 360.0,
+              "targetY": 180.0,
+              "bounds": {
+                "x": 342.0,
+                "y": 162.0,
+                "width": 138.0,
+                "height": 198.0
+              },
+              "cells": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "sharedEdges": [
+                {
+                  "edge": [
+                    [
+                      3,
+                      1
+                    ],
+                    [
+                      4,
+                      1
+                    ]
+                  ],
+                  "direction": 1
+                },
+                {
+                  "edge": [
+                    [
+                      3,
+                      1
+                    ],
+                    [
+                      3,
+                      2
+                    ]
+                  ],
+                  "direction": -1
+                }
+              ]
+            }
+          ]
+        },
+        "themeIds": [
+          "kamar",
+          "belajar",
+          "dapur",
+          "taman",
+          "hutan"
+        ],
+        "shapeIds": [
+          "persegi",
+          "lingkaran",
+          "segitiga",
+          "persegi-panjang",
+          "segi-lima"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "kamar-persegi",
+        "theme": "kamar",
+        "shape": "persegi",
+        "asset": "assets-3d/puzzles/themes/kamar-persegi.svg"
+      },
+      {
+        "id": "kamar-lingkaran",
+        "theme": "kamar",
+        "shape": "lingkaran",
+        "asset": "assets-3d/puzzles/themes/kamar-lingkaran.svg"
+      },
+      {
+        "id": "kamar-segitiga",
+        "theme": "kamar",
+        "shape": "segitiga",
+        "asset": "assets-3d/puzzles/themes/kamar-segitiga.svg"
+      },
+      {
+        "id": "kamar-persegi-panjang",
+        "theme": "kamar",
+        "shape": "persegi-panjang",
+        "asset": "assets-3d/puzzles/themes/kamar-persegi-panjang.svg"
+      },
+      {
+        "id": "kamar-segi-lima",
+        "theme": "kamar",
+        "shape": "segi-lima",
+        "asset": "assets-3d/puzzles/themes/kamar-segi-lima.svg"
+      },
+      {
+        "id": "belajar-persegi",
+        "theme": "belajar",
+        "shape": "persegi",
+        "asset": "assets-3d/puzzles/themes/belajar-persegi.svg"
+      },
+      {
+        "id": "belajar-lingkaran",
+        "theme": "belajar",
+        "shape": "lingkaran",
+        "asset": "assets-3d/puzzles/themes/belajar-lingkaran.svg"
+      },
+      {
+        "id": "belajar-segitiga",
+        "theme": "belajar",
+        "shape": "segitiga",
+        "asset": "assets-3d/puzzles/themes/belajar-segitiga.svg"
+      },
+      {
+        "id": "belajar-persegi-panjang",
+        "theme": "belajar",
+        "shape": "persegi-panjang",
+        "asset": "assets-3d/puzzles/themes/belajar-persegi-panjang.svg"
+      },
+      {
+        "id": "belajar-segi-lima",
+        "theme": "belajar",
+        "shape": "segi-lima",
+        "asset": "assets-3d/puzzles/themes/belajar-segi-lima.svg"
+      },
+      {
+        "id": "dapur-persegi",
+        "theme": "dapur",
+        "shape": "persegi",
+        "asset": "assets-3d/puzzles/themes/dapur-persegi.svg"
+      },
+      {
+        "id": "dapur-lingkaran",
+        "theme": "dapur",
+        "shape": "lingkaran",
+        "asset": "assets-3d/puzzles/themes/dapur-lingkaran.svg"
+      },
+      {
+        "id": "dapur-segitiga",
+        "theme": "dapur",
+        "shape": "segitiga",
+        "asset": "assets-3d/puzzles/themes/dapur-segitiga.svg"
+      },
+      {
+        "id": "dapur-persegi-panjang",
+        "theme": "dapur",
+        "shape": "persegi-panjang",
+        "asset": "assets-3d/puzzles/themes/dapur-persegi-panjang.svg"
+      },
+      {
+        "id": "dapur-segi-lima",
+        "theme": "dapur",
+        "shape": "segi-lima",
+        "asset": "assets-3d/puzzles/themes/dapur-segi-lima.svg"
+      },
+      {
+        "id": "taman-persegi",
+        "theme": "taman",
+        "shape": "persegi",
+        "asset": "assets-3d/puzzles/themes/taman-persegi.svg"
+      },
+      {
+        "id": "taman-lingkaran",
+        "theme": "taman",
+        "shape": "lingkaran",
+        "asset": "assets-3d/puzzles/themes/taman-lingkaran.svg"
+      },
+      {
+        "id": "taman-segitiga",
+        "theme": "taman",
+        "shape": "segitiga",
+        "asset": "assets-3d/puzzles/themes/taman-segitiga.svg"
+      },
+      {
+        "id": "taman-persegi-panjang",
+        "theme": "taman",
+        "shape": "persegi-panjang",
+        "asset": "assets-3d/puzzles/themes/taman-persegi-panjang.svg"
+      },
+      {
+        "id": "taman-segi-lima",
+        "theme": "taman",
+        "shape": "segi-lima",
+        "asset": "assets-3d/puzzles/themes/taman-segi-lima.svg"
+      },
+      {
+        "id": "hutan-persegi",
+        "theme": "hutan",
+        "shape": "persegi",
+        "asset": "assets-3d/puzzles/themes/hutan-persegi.svg"
+      },
+      {
+        "id": "hutan-lingkaran",
+        "theme": "hutan",
+        "shape": "lingkaran",
+        "asset": "assets-3d/puzzles/themes/hutan-lingkaran.svg"
+      },
+      {
+        "id": "hutan-segitiga",
+        "theme": "hutan",
+        "shape": "segitiga",
+        "asset": "assets-3d/puzzles/themes/hutan-segitiga.svg"
+      },
+      {
+        "id": "hutan-persegi-panjang",
+        "theme": "hutan",
+        "shape": "persegi-panjang",
+        "asset": "assets-3d/puzzles/themes/hutan-persegi-panjang.svg"
+      },
+      {
+        "id": "hutan-segi-lima",
+        "theme": "hutan",
+        "shape": "segi-lima",
+        "asset": "assets-3d/puzzles/themes/hutan-segi-lima.svg"
+      }
+    ]
+  },
+  "matching": {
+    "levels": [
+      {
+        "level": 1,
+        "leftType": "shape",
+        "rightType": "name",
+        "pairCount": 5,
+        "name": "Bentuk bangun datar × nama bangun datar"
+      },
+      {
+        "level": 2,
+        "leftType": "shape",
+        "rightType": "object",
+        "pairCount": 5,
+        "name": "Bentuk bangun datar × benda"
+      },
+      {
+        "level": 3,
+        "leftType": "object",
+        "rightType": "name",
+        "pairCount": 5,
+        "name": "Benda × nama bangun datar"
+      },
+      {
+        "level": 4,
+        "leftType": "shape",
+        "rightType": "features",
+        "pairCount": 5,
+        "name": "Bangun datar × ciri-ciri"
+      },
+      {
+        "level": 5,
+        "leftType": "object",
+        "rightType": "features",
+        "pairCount": 5,
+        "name": "Benda × ciri-ciri"
+      }
+    ]
+  },
+  "randomization": {
+    "avoidImmediateThemeRepeat": true,
+    "avoidImmediateTargetSetRepeat": true,
+    "resumeKeepsCurrentRound": true,
+    "replayCreatesNewRound": true
+  },
+  "completion": {
+    "requiredLevels": 15,
+    "levelsPerGame": 5,
+    "scoreFormula": "max(0,100-10*ceil(errors/5))"
+  }
+}
