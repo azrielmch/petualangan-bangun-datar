@@ -15,3 +15,6 @@ __pycache__/
 .agents/
 .aws/
 .openai/
+
+# Alias lokal menuju aset lama yang tidak dipakai game.
+/assets-3d/find-scenes
