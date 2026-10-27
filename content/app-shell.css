@@ -18,3 +18,4 @@ body.shell-host{overflow:hidden!important;height:100dvh;min-height:0}body.shell-
 body.result-overview .overview{width:100%;max-width:none;margin:0;padding:12px 24px}body.result-overview .overview h1{font-size:24px;margin:4px 0}body.result-overview .overview>p{font-size:14px;margin:6px 0}.overview-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.overview-card{padding:12px;border-width:3px;border-radius:18px}.overview-card h2{font-size:17px;margin:4px 0 12px}.overview-card p{font-size:13px;margin:8px 0}.overview-card .wood-button{font-size:14px;min-height:44px;margin-top:10px}.overview-back{min-height:56px;font-size:17px;margin:10px auto;padding:14px 32px}
 }
 @media(orientation:landscape) and (max-height:600px){.level-popup{width:min(620px,92vw)}.level-popup .find-win>img,.level-popup .jigsaw-win>img,.level-popup .match-win>img{max-height:26dvh;max-width:75%}}
+body.shell-host>#fullscreen-help[open]{display:block!important}

@@ -33,3 +33,5 @@ node tools/check_find_scenes.js
 node tools/check_puzzle_game.js
 node tools/check_matching_game.js
 ```
+
+Pembaruan akhir level: dialog berhasil muncul setelah dua detik agar papan yang selesai dapat terlihat. Menutup dialog dengan X menampilkan panah kanan untuk melanjutkan level atau melihat hasil akhir. Pemanggilan fullscreen dari beranda memakai interaksi tombol secara langsung; jika ditolak browser, petunjuk ditampilkan.
