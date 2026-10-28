@@ -1,15 +1,15 @@
 {
   "tool": "built-in imagegen",
   "home": {
-    "asset": "assets-3d/ui/home-adventure-gray-cat.png",
+    "asset": "assets-3d/ui/home-adventure-gray-cat.webp",
     "prompt": "Edit ONLY the orange fur of the kitten to soft neutral gray tabby fur with darker gray stripes. Preserve white muzzle, chest and paws, kitten identity, eyes, pose, blue collar, tail shape, explorer and entire landscape exactly unchanged. No orange or brown fur on cat. Same 1536x1024 composition and 2.5D cartoon finish."
   },
   "results": {
-    "asset": "assets-3d/ui/results-adventure-gray-cat.png",
+    "asset": "assets-3d/ui/results-adventure-gray-cat.webp",
     "prompt": "Edit ONLY orange kitten fur to soft neutral gray tabby with darker gray stripes, white muzzle/chest/paws. Keep kitten identity, collar, pose, tail, standing explorer, blank cream board, wooden frame and entire layout exactly unchanged. No orange or brown fur on cat. Same1536x1024 composition."
   },
   "completed": {
-    "asset": "assets-3d/ui/completed-text-only.png",
+    "asset": "assets-3d/ui/completed-text-only.webp",
     "transparent": true,
     "prompt": "Extract/recreate ONLY the exact word COMPLETED as standalone golden yellow rounded dimensional lettering matching supplied banner font, bevels, highlights and dark brown extruded shadow. Absolutely NO wooden sign, cream panel, frame, stars, leaves, ornaments, underline, dots or additional objects. The letters themselves and their brown extrusion only, centered tightly framed with a small clean transparent margin. True transparent background. Exact text: COMPLETED."
   }

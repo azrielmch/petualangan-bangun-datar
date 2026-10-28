@@ -1,0 +1,967 @@
+{
+  "method": "lossless PNG IDAT optimization; all non-IDAT metadata and SVG markup retained",
+  "before_bytes": 342174472,
+  "after_bytes": 310610001,
+  "saved_bytes": 31564471,
+  "saved_percent": 9.22,
+  "unique_pngs_verified": 78,
+  "files_checked": 881,
+  "files_changed": 159,
+  "elapsed_seconds": 253.9,
+  "files": [
+    {
+      "path": "assets-3d/backgrounds/garden.png",
+      "before_bytes": 2684787,
+      "after_bytes": 2555549,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/backgrounds/kitchen.png",
+      "before_bytes": 2075843,
+      "after_bytes": 1933175,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/lingkaran-great.png",
+      "before_bytes": 1216089,
+      "after_bytes": 1086882,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/lingkaran.png",
+      "before_bytes": 1282466,
+      "after_bytes": 1118422,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/persegi-great.png",
+      "before_bytes": 1314885,
+      "after_bytes": 1142754,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/persegi-panjang-great.png",
+      "before_bytes": 1142749,
+      "after_bytes": 1005023,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/persegi-panjang.png",
+      "before_bytes": 1043279,
+      "after_bytes": 835945,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/persegi.png",
+      "before_bytes": 1336763,
+      "after_bytes": 1155767,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/segi-lima-great.png",
+      "before_bytes": 1092594,
+      "after_bytes": 962744,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/segi-lima.png",
+      "before_bytes": 1215654,
+      "after_bytes": 1064140,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/segitiga-great.png",
+      "before_bytes": 1099448,
+      "after_bytes": 1025747,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/characters/segitiga.png",
+      "before_bytes": 938853,
+      "after_bytes": 836367,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/lingkaran-dapur.png",
+      "before_bytes": 1810454,
+      "after_bytes": 1619248,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/lingkaran-ruang.png",
+      "before_bytes": 1947405,
+      "after_bytes": 1737663,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/persegi-kamar.png",
+      "before_bytes": 1681791,
+      "after_bytes": 1444027,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/persegi-kelas.png",
+      "before_bytes": 1600688,
+      "after_bytes": 1336592,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/persegi-panjang-dapur.png",
+      "before_bytes": 1779429,
+      "after_bytes": 1551921,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/persegi-panjang-kamar.png",
+      "before_bytes": 1710775,
+      "after_bytes": 1458921,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/segi-lima-ruang.png",
+      "before_bytes": 1804698,
+      "after_bytes": 1600339,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/segi-lima-taman.png",
+      "before_bytes": 1767864,
+      "after_bytes": 1595233,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/segitiga-kelas.png",
+      "before_bytes": 1667276,
+      "after_bytes": 1430711,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/find-scenes-25d/segitiga-taman.png",
+      "before_bytes": 1740337,
+      "after_bytes": 1566196,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/alas-piknik.png",
+      "before_bytes": 2702785,
+      "after_bytes": 2379859,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/bendera.png",
+      "before_bytes": 1397124,
+      "after_bytes": 1310293,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/bingkai-segilima.png",
+      "before_bytes": 1613511,
+      "after_bytes": 1531440,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/bingkai.png",
+      "before_bytes": 1518126,
+      "after_bytes": 1422099,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/biskuit-bulat.png",
+      "before_bytes": 1976921,
+      "after_bytes": 1963737,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/biskuit.png",
+      "before_bytes": 1660525,
+      "after_bytes": 1624983,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/buku.png",
+      "before_bytes": 1569858,
+      "after_bytes": 1429640,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/bungkus-benih.png",
+      "before_bytes": 1738788,
+      "after_bytes": 1602220,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/catatan.png",
+      "before_bytes": 1572422,
+      "after_bytes": 1412987,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/jam.png",
+      "before_bytes": 1469529,
+      "after_bytes": 1376175,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/jendela.png",
+      "before_bytes": 1593130,
+      "after_bytes": 1447539,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/kancing.png",
+      "before_bytes": 1244130,
+      "after_bytes": 1133047,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/karpet.png",
+      "before_bytes": 2249070,
+      "after_bytes": 2042792,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/kartu-benih-persegi.png",
+      "before_bytes": 1442473,
+      "after_bytes": 1344613,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/kartu-resep.png",
+      "before_bytes": 1348686,
+      "after_bytes": 1212686,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/koin.png",
+      "before_bytes": 1527800,
+      "after_bytes": 1466417,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/label-taman-segilima.png",
+      "before_bytes": 1576575,
+      "after_bytes": 1505717,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/lencana-bunga-bulat.png",
+      "before_bytes": 1803219,
+      "after_bytes": 1723616,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/lencana.png",
+      "before_bytes": 1371883,
+      "after_bytes": 1309476,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/papan-segilima.png",
+      "before_bytes": 1320957,
+      "after_bytes": 1252095,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/papan.png",
+      "before_bytes": 1650156,
+      "after_bytes": 1462385,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/penanda-taman-segitiga.png",
+      "before_bytes": 1294133,
+      "after_bytes": 1268996,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/penggaris.png",
+      "before_bytes": 948507,
+      "after_bytes": 914655,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/peta-persegi.png",
+      "before_bytes": 1843945,
+      "after_bytes": 1755748,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/pintu.png",
+      "before_bytes": 1567984,
+      "after_bytes": 1428245,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/piring.png",
+      "before_bytes": 1600444,
+      "after_bytes": 1484359,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/rambu.png",
+      "before_bytes": 946113,
+      "after_bytes": 877918,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/rebana.png",
+      "before_bytes": 1422560,
+      "after_bytes": 1344089,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/roti.png",
+      "before_bytes": 1534542,
+      "after_bytes": 1521315,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/serbet-segitiga.png",
+      "before_bytes": 2201798,
+      "after_bytes": 2034062,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/serbet.png",
+      "before_bytes": 2822159,
+      "after_bytes": 2500989,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/tambalan-segilima.png",
+      "before_bytes": 1968998,
+      "after_bytes": 1810922,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/tambalan-segitiga.png",
+      "before_bytes": 1747710,
+      "after_bytes": 1669847,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/tatakan-persegi.png",
+      "before_bytes": 1912470,
+      "after_bytes": 1856872,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/tatakan-segilima.png",
+      "before_bytes": 1919237,
+      "after_bytes": 1874184,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/tempat-pensil.png",
+      "before_bytes": 1802086,
+      "after_bytes": 1639085,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/ubin-segilima.png",
+      "before_bytes": 1257981,
+      "after_bytes": 1176332,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/objects/ubin.png",
+      "before_bytes": 1992491,
+      "after_bytes": 1894294,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/puzzles/assembled-lingkaran.svg",
+      "before_bytes": 1712378,
+      "after_bytes": 1493654,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/assembled-persegi-panjang.svg",
+      "before_bytes": 1393468,
+      "after_bytes": 1117024,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/assembled-persegi.svg",
+      "before_bytes": 1784178,
+      "after_bytes": 1542850,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/assembled-segi-lima.svg",
+      "before_bytes": 1623890,
+      "after_bytes": 1421874,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/assembled-segitiga.svg",
+      "before_bytes": 1253631,
+      "after_bytes": 1116983,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/master-lingkaran.svg",
+      "before_bytes": 1710860,
+      "after_bytes": 1492136,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/master-persegi-panjang.svg",
+      "before_bytes": 1391950,
+      "after_bytes": 1115506,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/master-persegi.svg",
+      "before_bytes": 1783254,
+      "after_bytes": 1541926,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/master-segi-lima.svg",
+      "before_bytes": 1621776,
+      "after_bytes": 1419760,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/master-segitiga.svg",
+      "before_bytes": 1252707,
+      "after_bytes": 1116059,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-lingkaran-1.svg",
+      "before_bytes": 1711326,
+      "after_bytes": 1492602,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-lingkaran-2.svg",
+      "before_bytes": 1711474,
+      "after_bytes": 1492750,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-lingkaran-3.svg",
+      "before_bytes": 1711348,
+      "after_bytes": 1492624,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-lingkaran-4.svg",
+      "before_bytes": 1711346,
+      "after_bytes": 1492622,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-lingkaran-5.svg",
+      "before_bytes": 1711502,
+      "after_bytes": 1492778,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-lingkaran-6.svg",
+      "before_bytes": 1711368,
+      "after_bytes": 1492644,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-1.svg",
+      "before_bytes": 1783726,
+      "after_bytes": 1542398,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-2.svg",
+      "before_bytes": 1783742,
+      "after_bytes": 1542414,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-3.svg",
+      "before_bytes": 1783746,
+      "after_bytes": 1542418,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-4.svg",
+      "before_bytes": 1783762,
+      "after_bytes": 1542434,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-panjang-1.svg",
+      "before_bytes": 1392416,
+      "after_bytes": 1115972,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-panjang-2.svg",
+      "before_bytes": 1392564,
+      "after_bytes": 1116120,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-panjang-3.svg",
+      "before_bytes": 1392438,
+      "after_bytes": 1115994,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-panjang-4.svg",
+      "before_bytes": 1392436,
+      "after_bytes": 1115992,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-panjang-5.svg",
+      "before_bytes": 1392592,
+      "after_bytes": 1116148,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-persegi-panjang-6.svg",
+      "before_bytes": 1392458,
+      "after_bytes": 1116014,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-1.svg",
+      "before_bytes": 1622238,
+      "after_bytes": 1420222,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-2.svg",
+      "before_bytes": 1622390,
+      "after_bytes": 1420374,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-3.svg",
+      "before_bytes": 1622390,
+      "after_bytes": 1420374,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-4.svg",
+      "before_bytes": 1622264,
+      "after_bytes": 1420248,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-5.svg",
+      "before_bytes": 1622258,
+      "after_bytes": 1420242,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-6.svg",
+      "before_bytes": 1622418,
+      "after_bytes": 1420402,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-7.svg",
+      "before_bytes": 1622418,
+      "after_bytes": 1420402,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segi-lima-8.svg",
+      "before_bytes": 1622284,
+      "after_bytes": 1420268,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segitiga-1.svg",
+      "before_bytes": 1253179,
+      "after_bytes": 1116531,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segitiga-2.svg",
+      "before_bytes": 1253195,
+      "after_bytes": 1116547,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segitiga-3.svg",
+      "before_bytes": 1253199,
+      "after_bytes": 1116551,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/piece-segitiga-4.svg",
+      "before_bytes": 1253215,
+      "after_bytes": 1116567,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/puzzles/themes/belajar-lingkaran.svg",
+      "before_bytes": 4126640,
+      "after_bytes": 3701716,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/belajar-persegi-panjang.svg",
+      "before_bytes": 3807724,
+      "after_bytes": 3325080,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/belajar-persegi.svg",
+      "before_bytes": 4199036,
+      "after_bytes": 3751508,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/belajar-segi-lima.svg",
+      "before_bytes": 4037556,
+      "after_bytes": 3629340,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/belajar-segitiga.svg",
+      "before_bytes": 3668488,
+      "after_bytes": 3325640,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/dapur-lingkaran.svg",
+      "before_bytes": 4478376,
+      "after_bytes": 4069428,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/dapur-persegi-panjang.svg",
+      "before_bytes": 4159460,
+      "after_bytes": 3692792,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/dapur-persegi.svg",
+      "before_bytes": 4550772,
+      "after_bytes": 4119220,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/dapur-segi-lima.svg",
+      "before_bytes": 4389292,
+      "after_bytes": 3997052,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/dapur-segitiga.svg",
+      "before_bytes": 4020224,
+      "after_bytes": 3693352,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/hutan-lingkaran.svg",
+      "before_bytes": 4578416,
+      "after_bytes": 4254192,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/hutan-persegi-panjang.svg",
+      "before_bytes": 4259500,
+      "after_bytes": 3877556,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/hutan-persegi.svg",
+      "before_bytes": 4650812,
+      "after_bytes": 4303984,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/hutan-segi-lima.svg",
+      "before_bytes": 4489332,
+      "after_bytes": 4181816,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/hutan-segitiga.svg",
+      "before_bytes": 4120264,
+      "after_bytes": 3878116,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/kamar-lingkaran.svg",
+      "before_bytes": 4598412,
+      "after_bytes": 4173276,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/kamar-persegi-panjang.svg",
+      "before_bytes": 4279496,
+      "after_bytes": 3796640,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/kamar-persegi.svg",
+      "before_bytes": 4670808,
+      "after_bytes": 4223068,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/kamar-segi-lima.svg",
+      "before_bytes": 4509328,
+      "after_bytes": 4100900,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/kamar-segitiga.svg",
+      "before_bytes": 4140260,
+      "after_bytes": 3797200,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/taman-lingkaran.svg",
+      "before_bytes": 5290300,
+      "after_bytes": 4899260,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/taman-persegi-panjang.svg",
+      "before_bytes": 4971384,
+      "after_bytes": 4522624,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/taman-persegi.svg",
+      "before_bytes": 5362696,
+      "after_bytes": 4949052,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/taman-segi-lima.svg",
+      "before_bytes": 5201216,
+      "after_bytes": 4826884,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/puzzles/themes/taman-segitiga.svg",
+      "before_bytes": 4832148,
+      "after_bytes": 4523184,
+      "embedded_pngs": 2
+    },
+    {
+      "path": "assets-3d/ui/banner-completed.png",
+      "before_bytes": 2046211,
+      "after_bytes": 1964944,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/banner-completed.svg",
+      "before_bytes": 2728444,
+      "after_bytes": 2620088,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/banner-correct.png",
+      "before_bytes": 2228968,
+      "after_bytes": 2055142,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/banner-correct.svg",
+      "before_bytes": 2972120,
+      "after_bytes": 2740352,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/banner-great.png",
+      "before_bytes": 2101616,
+      "after_bytes": 2005107,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/banner-great.svg",
+      "before_bytes": 2802316,
+      "after_bytes": 2673636,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/banner-wrong.png",
+      "before_bytes": 1814316,
+      "after_bytes": 1691737,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/banner-wrong.svg",
+      "before_bytes": 2419248,
+      "after_bytes": 2255812,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/button-base.png",
+      "before_bytes": 1316638,
+      "after_bytes": 1214407,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/button.svg",
+      "before_bytes": 2195938,
+      "after_bytes": 1927218,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/completed-text-only.png",
+      "before_bytes": 1023432,
+      "after_bytes": 941090,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/find-frame-sample.png",
+      "before_bytes": 1712633,
+      "after_bytes": 1476527,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/home-adventure-gray-cat.png",
+      "before_bytes": 2238839,
+      "after_bytes": 2135546,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/icon-back.svg",
+      "before_bytes": 1756723,
+      "after_bytes": 1620415,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-check.svg",
+      "before_bytes": 1756713,
+      "after_bytes": 1620405,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-close.svg",
+      "before_bytes": 1756717,
+      "after_bytes": 1620409,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-help.svg",
+      "before_bytes": 1756990,
+      "after_bytes": 1620682,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-home.svg",
+      "before_bytes": 1756747,
+      "after_bytes": 1620439,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-lock.svg",
+      "before_bytes": 1757001,
+      "after_bytes": 1620693,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-mute.svg",
+      "before_bytes": 1756986,
+      "after_bytes": 1620678,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-next.svg",
+      "before_bytes": 1756723,
+      "after_bytes": 1620415,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-play.svg",
+      "before_bytes": 1756937,
+      "after_bytes": 1620629,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-retry.svg",
+      "before_bytes": 1756729,
+      "after_bytes": 1620421,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/icon-sound.svg",
+      "before_bytes": 1756997,
+      "after_bytes": 1620689,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/logo.png",
+      "before_bytes": 1993548,
+      "after_bytes": 1932953,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/logo.svg",
+      "before_bytes": 2658224,
+      "after_bytes": 2577432,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/map-node-available.svg",
+      "before_bytes": 1756578,
+      "after_bytes": 1620270,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/map-node-done.svg",
+      "before_bytes": 1756706,
+      "after_bytes": 1620398,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/map-node-locked.svg",
+      "before_bytes": 1756948,
+      "after_bytes": 1620640,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/matching-biru-shell.png",
+      "before_bytes": 1728238,
+      "after_bytes": 1501841,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/matching-slot.svg",
+      "before_bytes": 2195938,
+      "after_bytes": 1927218,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/panel.svg",
+      "before_bytes": 2195938,
+      "after_bytes": 1927218,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/puzzle-biru-shell.png",
+      "before_bytes": 1827634,
+      "after_bytes": 1658969,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/results-adventure-gray-cat.png",
+      "before_bytes": 1880293,
+      "after_bytes": 1711675,
+      "embedded_pngs": 0
+    },
+    {
+      "path": "assets-3d/ui/title-board.svg",
+      "before_bytes": 2195938,
+      "after_bytes": 1927218,
+      "embedded_pngs": 1
+    },
+    {
+      "path": "assets-3d/ui/wood-panel.png",
+      "before_bytes": 1646158,
+      "after_bytes": 1444618,
+      "embedded_pngs": 0
+    }
+  ]
+}

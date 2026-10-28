@@ -16,11 +16,11 @@ GROUPS={
  'persegi-panjang':['pintu','buku','karpet','papan','tempat-pensil','kartu-resep','bungkus-benih','alas-piknik'],
  'segi-lima':['biskuit','bingkai-segilima','lencana','ubin-segilima','papan-segilima','tatakan-segilima','tambalan-segilima','label-taman-segilima']}
 THEMES=[
- {'id':'kamar','name':'Kamar Anak','background':'assets/backgrounds/child-room.png','accent':'#4bb8d2'},
- {'id':'belajar','name':'Ruang Belajar','background':'assets/backgrounds/workshop.png','accent':'#e3b24d'},
- {'id':'dapur','name':'Dapur Ceria','background':'assets-3d/backgrounds/kitchen.png','accent':'#ee9d78'},
- {'id':'taman','name':'Taman Bunga','background':'assets-3d/backgrounds/garden.png','accent':'#84b762'},
- {'id':'hutan','name':'Hutan Kastel','background':'assets/backgrounds/forest-castle.png','accent':'#9d8cd5'}]
+ {'id':'kamar','name':'Kamar Anak','background':'assets/backgrounds/child-room.webp','accent':'#4bb8d2'},
+ {'id':'belajar','name':'Ruang Belajar','background':'assets/backgrounds/workshop.webp','accent':'#e3b24d'},
+ {'id':'dapur','name':'Dapur Ceria','background':'assets-3d/backgrounds/kitchen.webp','accent':'#ee9d78'},
+ {'id':'taman','name':'Taman Bunga','background':'assets-3d/backgrounds/garden.webp','accent':'#84b762'},
+ {'id':'hutan','name':'Hutan Kastel','background':'assets/backgrounds/forest-castle.webp','accent':'#9d8cd5'}]
 POOLS={
  'kamar':[
   'jendela bingkai ubin serbet catatan tatakan-persegi',
@@ -53,17 +53,17 @@ POOLS={
   'alas-piknik buku kartu-resep bungkus-benih tempat-pensil papan',
   'tambalan-segilima lencana tatakan-segilima biskuit label-taman-segilima ubin-segilima']}
 LABELS={'biskuit':'Biskuit segi lima','roti':'Roti segitiga','rambu':'Rambu segitiga','papan':'Papan tulis','bendera':'Bendera segitiga','rebana':'Rebana','peta-persegi':'Peta persegi','tatakan-persegi':'Tatakan persegi','kartu-benih-persegi':'Kartu benih persegi','irisan-jeruk':'Irisan jeruk','lencana-bunga-bulat':'Lencana bunga bulat','penanda-taman-segitiga':'Penanda taman segitiga','tambalan-segitiga':'Tambalan segitiga','bungkus-benih':'Bungkus benih','biskuit-bulat':'Biskuit bulat'}
-objects=[{'id':id,'shape':shape,'name':LABELS.get(id,id.replace('-',' ').capitalize()),'asset':f'assets-3d/objects/{id}.png'} for shape,ids in GROUPS.items() for id in ids]
+objects=[{'id':id,'shape':shape,'name':LABELS.get(id,id.replace('-',' ').capitalize()),'asset':f'assets-3d/objects/{id}.webp'} for shape,ids in GROUPS.items() for id in ids]
 for theme in THEMES:theme['objectPools']={s:POOLS[theme['id']][i].split() for i,s in enumerate(SHAPES)}
 layouts=json.loads((ROOT/'assets-3d/puzzles/jigsaw-layout.json').read_text())['levels']
 variants=[]
 for theme in THEMES:
     background=ROOT/theme['background']
     if not background.exists():continue
-    bg='data:image/png;base64,'+base64.b64encode(background.read_bytes()).decode()
+    bg='data:image/webp;base64,'+base64.b64encode(background.read_bytes()).decode()
     for shape,(label,_) in SHAPES.items():
-        character=ROOT/'assets-3d/characters'/f'{shape}.png'
-        char='data:image/png;base64,'+base64.b64encode(character.read_bytes()).decode()
+        character=ROOT/'assets-3d/characters'/f'{shape}.webp'
+        char='data:image/webp;base64,'+base64.b64encode(character.read_bytes()).decode()
         out=ROOT/'assets-3d/puzzles/themes'/f'{theme["id"]}-{shape}.svg'
         svg=f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360"><defs><clipPath id="card"><rect x="4" y="4" width="472" height="352" rx="23"/></clipPath></defs><g clip-path="url(#card)"><image href="{bg}" width="480" height="360" preserveAspectRatio="xMidYMid slice"/><rect width="480" height="360" fill="#fff4da" opacity=".18"/><ellipse cx="240" cy="313" rx="139" ry="20" fill="#75441e" opacity=".2"/><image href="{char}" x="74" y="20" width="332" height="310"/></g><rect x="4" y="4" width="472" height="352" rx="23" fill="none" stroke="#bd8a4b" stroke-width="8"/></svg>'''
         out.write_text(svg)

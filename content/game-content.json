@@ -38,248 +38,248 @@
       "id": "jendela",
       "shape": "persegi",
       "name": "Jendela",
-      "asset": "assets-3d/objects/jendela.png"
+      "asset": "assets-3d/objects/jendela.webp"
     },
     {
       "id": "bingkai",
       "shape": "persegi",
       "name": "Bingkai",
-      "asset": "assets-3d/objects/bingkai.png"
+      "asset": "assets-3d/objects/bingkai.webp"
     },
     {
       "id": "ubin",
       "shape": "persegi",
       "name": "Ubin",
-      "asset": "assets-3d/objects/ubin.png"
+      "asset": "assets-3d/objects/ubin.webp"
     },
     {
       "id": "serbet",
       "shape": "persegi",
       "name": "Serbet",
-      "asset": "assets-3d/objects/serbet.png"
+      "asset": "assets-3d/objects/serbet.webp"
     },
     {
       "id": "catatan",
       "shape": "persegi",
       "name": "Catatan",
-      "asset": "assets-3d/objects/catatan.png"
+      "asset": "assets-3d/objects/catatan.webp"
     },
     {
       "id": "peta-persegi",
       "shape": "persegi",
       "name": "Peta persegi",
-      "asset": "assets-3d/objects/peta-persegi.png"
+      "asset": "assets-3d/objects/peta-persegi.webp"
     },
     {
       "id": "tatakan-persegi",
       "shape": "persegi",
       "name": "Tatakan persegi",
-      "asset": "assets-3d/objects/tatakan-persegi.png"
+      "asset": "assets-3d/objects/tatakan-persegi.webp"
     },
     {
       "id": "kartu-benih-persegi",
       "shape": "persegi",
       "name": "Kartu benih persegi",
-      "asset": "assets-3d/objects/kartu-benih-persegi.png"
+      "asset": "assets-3d/objects/kartu-benih-persegi.webp"
     },
     {
       "id": "koin",
       "shape": "lingkaran",
       "name": "Koin",
-      "asset": "assets-3d/objects/koin.png"
+      "asset": "assets-3d/objects/koin.webp"
     },
     {
       "id": "piring",
       "shape": "lingkaran",
       "name": "Piring",
-      "asset": "assets-3d/objects/piring.png"
+      "asset": "assets-3d/objects/piring.webp"
     },
     {
       "id": "jam",
       "shape": "lingkaran",
       "name": "Jam",
-      "asset": "assets-3d/objects/jam.png"
+      "asset": "assets-3d/objects/jam.webp"
     },
     {
       "id": "kancing",
       "shape": "lingkaran",
       "name": "Kancing",
-      "asset": "assets-3d/objects/kancing.png"
+      "asset": "assets-3d/objects/kancing.webp"
     },
     {
       "id": "biskuit-bulat",
       "shape": "lingkaran",
       "name": "Biskuit bulat",
-      "asset": "assets-3d/objects/biskuit-bulat.png"
+      "asset": "assets-3d/objects/biskuit-bulat.webp"
     },
     {
       "id": "irisan-jeruk",
       "shape": "lingkaran",
       "name": "Irisan jeruk",
-      "asset": "assets-3d/objects/irisan-jeruk.png"
+      "asset": "assets-3d/objects/irisan-jeruk.webp"
     },
     {
       "id": "lencana-bunga-bulat",
       "shape": "lingkaran",
       "name": "Lencana bunga bulat",
-      "asset": "assets-3d/objects/lencana-bunga-bulat.png"
+      "asset": "assets-3d/objects/lencana-bunga-bulat.webp"
     },
     {
       "id": "rebana",
       "shape": "lingkaran",
       "name": "Rebana",
-      "asset": "assets-3d/objects/rebana.png"
+      "asset": "assets-3d/objects/rebana.webp"
     },
     {
       "id": "pizza",
       "shape": "segitiga",
       "name": "Pizza",
-      "asset": "assets-3d/objects/pizza.png"
+      "asset": "assets-3d/objects/pizza.webp"
     },
     {
       "id": "penggaris",
       "shape": "segitiga",
       "name": "Penggaris",
-      "asset": "assets-3d/objects/penggaris.png"
+      "asset": "assets-3d/objects/penggaris.webp"
     },
     {
       "id": "bendera",
       "shape": "segitiga",
       "name": "Bendera segitiga",
-      "asset": "assets-3d/objects/bendera.png"
+      "asset": "assets-3d/objects/bendera.webp"
     },
     {
       "id": "roti",
       "shape": "segitiga",
       "name": "Roti segitiga",
-      "asset": "assets-3d/objects/roti.png"
+      "asset": "assets-3d/objects/roti.webp"
     },
     {
       "id": "rambu",
       "shape": "segitiga",
       "name": "Rambu segitiga",
-      "asset": "assets-3d/objects/rambu.png"
+      "asset": "assets-3d/objects/rambu.webp"
     },
     {
       "id": "serbet-segitiga",
       "shape": "segitiga",
       "name": "Serbet segitiga",
-      "asset": "assets-3d/objects/serbet-segitiga.png"
+      "asset": "assets-3d/objects/serbet-segitiga.webp"
     },
     {
       "id": "penanda-taman-segitiga",
       "shape": "segitiga",
       "name": "Penanda taman segitiga",
-      "asset": "assets-3d/objects/penanda-taman-segitiga.png"
+      "asset": "assets-3d/objects/penanda-taman-segitiga.webp"
     },
     {
       "id": "tambalan-segitiga",
       "shape": "segitiga",
       "name": "Tambalan segitiga",
-      "asset": "assets-3d/objects/tambalan-segitiga.png"
+      "asset": "assets-3d/objects/tambalan-segitiga.webp"
     },
     {
       "id": "pintu",
       "shape": "persegi-panjang",
       "name": "Pintu",
-      "asset": "assets-3d/objects/pintu.png"
+      "asset": "assets-3d/objects/pintu.webp"
     },
     {
       "id": "buku",
       "shape": "persegi-panjang",
       "name": "Buku",
-      "asset": "assets-3d/objects/buku.png"
+      "asset": "assets-3d/objects/buku.webp"
     },
     {
       "id": "karpet",
       "shape": "persegi-panjang",
       "name": "Karpet",
-      "asset": "assets-3d/objects/karpet.png"
+      "asset": "assets-3d/objects/karpet.webp"
     },
     {
       "id": "papan",
       "shape": "persegi-panjang",
       "name": "Papan tulis",
-      "asset": "assets-3d/objects/papan.png"
+      "asset": "assets-3d/objects/papan.webp"
     },
     {
       "id": "tempat-pensil",
       "shape": "persegi-panjang",
       "name": "Tempat pensil",
-      "asset": "assets-3d/objects/tempat-pensil.png"
+      "asset": "assets-3d/objects/tempat-pensil.webp"
     },
     {
       "id": "kartu-resep",
       "shape": "persegi-panjang",
       "name": "Kartu resep",
-      "asset": "assets-3d/objects/kartu-resep.png"
+      "asset": "assets-3d/objects/kartu-resep.webp"
     },
     {
       "id": "bungkus-benih",
       "shape": "persegi-panjang",
       "name": "Bungkus benih",
-      "asset": "assets-3d/objects/bungkus-benih.png"
+      "asset": "assets-3d/objects/bungkus-benih.webp"
     },
     {
       "id": "alas-piknik",
       "shape": "persegi-panjang",
       "name": "Alas piknik",
-      "asset": "assets-3d/objects/alas-piknik.png"
+      "asset": "assets-3d/objects/alas-piknik.webp"
     },
     {
       "id": "biskuit",
       "shape": "segi-lima",
       "name": "Biskuit segi lima",
-      "asset": "assets-3d/objects/biskuit.png"
+      "asset": "assets-3d/objects/biskuit.webp"
     },
     {
       "id": "bingkai-segilima",
       "shape": "segi-lima",
       "name": "Bingkai segilima",
-      "asset": "assets-3d/objects/bingkai-segilima.png"
+      "asset": "assets-3d/objects/bingkai-segilima.webp"
     },
     {
       "id": "lencana",
       "shape": "segi-lima",
       "name": "Lencana",
-      "asset": "assets-3d/objects/lencana.png"
+      "asset": "assets-3d/objects/lencana.webp"
     },
     {
       "id": "ubin-segilima",
       "shape": "segi-lima",
       "name": "Ubin segilima",
-      "asset": "assets-3d/objects/ubin-segilima.png"
+      "asset": "assets-3d/objects/ubin-segilima.webp"
     },
     {
       "id": "papan-segilima",
       "shape": "segi-lima",
       "name": "Papan segilima",
-      "asset": "assets-3d/objects/papan-segilima.png"
+      "asset": "assets-3d/objects/papan-segilima.webp"
     },
     {
       "id": "tatakan-segilima",
       "shape": "segi-lima",
       "name": "Tatakan segilima",
-      "asset": "assets-3d/objects/tatakan-segilima.png"
+      "asset": "assets-3d/objects/tatakan-segilima.webp"
     },
     {
       "id": "tambalan-segilima",
       "shape": "segi-lima",
       "name": "Tambalan segilima",
-      "asset": "assets-3d/objects/tambalan-segilima.png"
+      "asset": "assets-3d/objects/tambalan-segilima.webp"
     },
     {
       "id": "label-taman-segilima",
       "shape": "segi-lima",
       "name": "Label taman segilima",
-      "asset": "assets-3d/objects/label-taman-segilima.png"
+      "asset": "assets-3d/objects/label-taman-segilima.webp"
     }
   ],
   "themes": [
     {
       "id": "kamar",
       "name": "Kamar Anak",
-      "background": "assets/backgrounds/child-room.png",
+      "background": "assets/backgrounds/child-room.webp",
       "accent": "#4bb8d2",
       "objectPools": {
         "persegi": [
@@ -328,7 +328,7 @@
     {
       "id": "belajar",
       "name": "Ruang Belajar",
-      "background": "assets/backgrounds/workshop.png",
+      "background": "assets/backgrounds/workshop.webp",
       "accent": "#e3b24d",
       "objectPools": {
         "persegi": [
@@ -377,7 +377,7 @@
     {
       "id": "dapur",
       "name": "Dapur Ceria",
-      "background": "assets-3d/backgrounds/kitchen.png",
+      "background": "assets-3d/backgrounds/kitchen.webp",
       "accent": "#ee9d78",
       "objectPools": {
         "persegi": [
@@ -425,7 +425,7 @@
     {
       "id": "taman",
       "name": "Taman Bunga",
-      "background": "assets-3d/backgrounds/garden.png",
+      "background": "assets-3d/backgrounds/garden.webp",
       "accent": "#84b762",
       "objectPools": {
         "persegi": [
@@ -473,7 +473,7 @@
     {
       "id": "hutan",
       "name": "Hutan Kastel",
-      "background": "assets/backgrounds/forest-castle.png",
+      "background": "assets/backgrounds/forest-castle.webp",
       "accent": "#9d8cd5",
       "objectPools": {
         "persegi": [
@@ -609,7 +609,7 @@
         "themeId": "kamar",
         "themeName": "Kamar Anak",
         "targetShape": "persegi",
-        "asset": "assets-3d/find-scenes-25d/persegi-kamar.png",
+        "asset": "assets-3d/find-scenes-25d/persegi-kamar.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -784,7 +784,7 @@
         "themeId": "belajar",
         "themeName": "Sekolah",
         "targetShape": "persegi",
-        "asset": "assets-3d/find-scenes-25d/persegi-kelas.png",
+        "asset": "assets-3d/find-scenes-25d/persegi-kelas.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -977,7 +977,7 @@
         "themeId": "dapur",
         "themeName": "Dapur Ceria",
         "targetShape": "lingkaran",
-        "asset": "assets-3d/find-scenes-25d/lingkaran-dapur.png",
+        "asset": "assets-3d/find-scenes-25d/lingkaran-dapur.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -1134,7 +1134,7 @@
         "themeId": "ruang",
         "themeName": "Ruang Keluarga",
         "targetShape": "lingkaran",
-        "asset": "assets-3d/find-scenes-25d/lingkaran-ruang.png",
+        "asset": "assets-3d/find-scenes-25d/lingkaran-ruang.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -1291,7 +1291,7 @@
         "themeId": "taman",
         "themeName": "Taman Sekolah",
         "targetShape": "segitiga",
-        "asset": "assets-3d/find-scenes-25d/segitiga-taman.png",
+        "asset": "assets-3d/find-scenes-25d/segitiga-taman.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -1430,7 +1430,7 @@
         "themeId": "belajar",
         "themeName": "Sekolah",
         "targetShape": "segitiga",
-        "asset": "assets-3d/find-scenes-25d/segitiga-kelas.png",
+        "asset": "assets-3d/find-scenes-25d/segitiga-kelas.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -1569,7 +1569,7 @@
         "themeId": "kamar",
         "themeName": "Kamar Anak",
         "targetShape": "persegi-panjang",
-        "asset": "assets-3d/find-scenes-25d/persegi-panjang-kamar.png",
+        "asset": "assets-3d/find-scenes-25d/persegi-panjang-kamar.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -1791,7 +1791,7 @@
         "themeId": "dapur",
         "themeName": "Dapur Ceria",
         "targetShape": "persegi-panjang",
-        "asset": "assets-3d/find-scenes-25d/persegi-panjang-dapur.png",
+        "asset": "assets-3d/find-scenes-25d/persegi-panjang-dapur.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -1966,7 +1966,7 @@
         "themeId": "taman",
         "themeName": "Taman Sekolah",
         "targetShape": "segi-lima",
-        "asset": "assets-3d/find-scenes-25d/segi-lima-taman.png",
+        "asset": "assets-3d/find-scenes-25d/segi-lima-taman.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",
@@ -2105,7 +2105,7 @@
         "themeId": "ruang",
         "themeName": "Ruang Keluarga",
         "targetShape": "segi-lima",
-        "asset": "assets-3d/find-scenes-25d/segi-lima-ruang.png",
+        "asset": "assets-3d/find-scenes-25d/segi-lima-ruang.webp",
         "width": 1536,
         "height": 1024,
         "style": "cartoon-2.5d",

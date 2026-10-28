@@ -150,12 +150,12 @@ for game in ['find','puzzle','match']:
     save('ui','thumbnail-'+game,bg+art,360,240)
 for state,fill in [('available','#f2c366'),('done','#89c36a'),('locked','#d6c7ad')]:
     save('ui','map-node-'+state,f'<circle cx="128" cy="128" r="100" fill="{fill}" stroke="{INK}" stroke-width="7"/><circle cx="128" cy="128" r="84" fill="none" stroke="#fff2d3" stroke-width="5"/>')
-for p in sorted((A/'backgrounds').glob('*.png')):
+for p in sorted((A/'backgrounds').glob('*.png'))+sorted((A/'backgrounds').glob('*.webp')):
     manifest.append({'id':p.stem,'path':str(p.relative_to(ROOT)),'type':'backgrounds','width':1536,'height':1024})
 (A/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
 sections=[]
 for group in ['backgrounds','characters','objects','puzzles','ui']:
-    files=sorted((A/group).glob('*.svg'))+sorted((A/group).glob('*.png'))
+    files=sorted((A/group).glob('*.svg'))+sorted((A/group).glob('*.png'))+sorted((A/group).glob('*.webp'))
     cards=''.join(f'<figure><img loading="lazy" src="{p.relative_to(ROOT)}" alt="{html.escape(p.stem)}"><figcaption>{html.escape(p.stem)}</figcaption></figure>' for p in files)
     sections.append(f'<section><h2>{group}</h2><div class="grid">{cards}</div></section>')
 (ROOT/'asset-catalog.html').write_text('''<!doctype html><html lang="id"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Katalog Aset — Petualangan Bangun Datar</title><style>body{margin:0;background:#f7efd9;color:#69402c;font:16px system-ui}header,main{max-width:1200px;margin:auto;padding:24px}header{border-bottom:3px solid #dfbd83}h1{margin:0 0 10px}h2{text-transform:capitalize}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px}figure{margin:0;background:#fffaf0;border:2px solid #dfbd83;border-radius:18px;overflow:hidden}img{display:block;width:100%;height:175px;object-fit:contain;background:repeating-conic-gradient(#f3ecd9 0% 25%,#fffaf0 0% 50%) 0/20px 20px}figcaption{padding:10px;font-size:13px;overflow-wrap:anywhere}</style><header><h1>Petualangan Bangun Datar</h1><p>Katalog aset produksi · kartun petualangan · tanpa emoji</p><p>Latar ilustrasi, karakter, 25 benda, kartu dan kepingan jigsaw, tombol, serta bintang.</p></header><main>'''+''.join(sections)+'</main></html>')

@@ -1,6 +1,6 @@
 (async function(){
 const game=document.body.dataset.game,meta=GameProgress.GAMES[game],host=document.getElementById(game==='find'?'find-game':'game'),level=document.getElementById('level'),button=document.getElementById(game==='find'?'new-scene':'replay'),history={};if(!meta)return;
-const config=await fetch('content/game-content.json?v=home-results-1').then(r=>r.json());
+const config=await fetch('content/game-content.json?v=webp85-9').then(r=>r.json());
 for(const o of level.options)o.dataset.label=o.textContent;
 const requested=GameProgress.settings().teacherMode?Number(new URLSearchParams(location.search).get('level')):0;level.value=String(requested>=1&&requested<=5?requested:GameProgress.summary(game).nextLevel);
 function labels(){const progress=GameProgress.summary(game);for(const o of level.options)o.textContent=o.dataset.label+(progress.levels.some(l=>l.level===Number(o.value))?' (selesai)':'');}

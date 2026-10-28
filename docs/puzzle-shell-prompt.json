@@ -1,5 +1,5 @@
 {
   "tool": "built-in imagegen",
-  "asset": "assets-3d/ui/puzzle-biru-shell.png",
+  "asset": "assets-3d/ui/puzzle-biru-shell.webp",
   "prompt": "Use case: precise-object-edit. Edit target is supplied Biru Ceria game UI concept. Produce reusable EMPTY GAME INTERFACE background for actual interactive jigsaw. Preserve exact turquoise header and raised yellow text 'Puzzle Bangun Datar', wooden frames, warm softly blurred school classroom, colors, soft polished 2.5D materials. Remove ALL four puzzle pieces from right tray leaving empty natural honey wood. Left board remains completely blank ivory, no slot outlines, no guide. Remove texts 'Level 1 · Persegi', '0/4 keping', and 'Susun 4 keping puzzle!' leaving their cream plaques BLANK for live dynamic labels. Keep back/sound buttons. Preserve exact dimensions, locations, landscape1536x1024, board edges and framing. No new objects or text, no emoji. Both large boards must be empty."
 }

@@ -25,6 +25,6 @@
   "tool": "built-in imagegen",
   "prompt": "Use case: precise-object-edit. Edit supplied Biru Ceria jigsaw UI concept. Preserve exactly its turquoise banner, yellow dimensional rounded title lettering, all Indonesian text, counters, wooden frames, lighting, classroom backdrop and camera. Change only play areas: LEFT board must be an entirely BLANK smooth ivory cream inset, with absolutely no reference picture, no faded ghost image, no silhouette, no jigsaw slot outlines, no grid, no hints. RIGHT tray retains exactly four picture jigsaw pieces from the supplied image, but scatter and shuffle their positions in the tray rather than showing their correct assembled 2x2 order. Place sun piece toward lower left, face/mouth piece upper right, cloud piece lower right, remaining face piece upper left; stagger centers so not a regular grid. Keep pieces upright, fully visible separated, with no overlap and no extra pieces. Same original soft polished cartoon 2.5D game style. No annotations, no additional text, no emoji. Landscape 1536x1024.",
   "playable": "puzzle.html",
-  "shell": "assets-3d/ui/puzzle-biru-shell.png",
+  "shell": "assets-3d/ui/puzzle-biru-shell.webp",
   "pieceManifest": "content/puzzle-pieces.json"
 }

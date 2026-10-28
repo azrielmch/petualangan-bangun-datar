@@ -881,21 +881,21 @@
   },
   {
     "id": "child-room",
-    "path": "assets/backgrounds/child-room.png",
+    "path": "assets/backgrounds/child-room.webp",
     "type": "backgrounds",
     "width": 1536,
     "height": 1024
   },
   {
     "id": "forest-castle",
-    "path": "assets/backgrounds/forest-castle.png",
+    "path": "assets/backgrounds/forest-castle.webp",
     "type": "backgrounds",
     "width": 1536,
     "height": 1024
   },
   {
     "id": "workshop",
-    "path": "assets/backgrounds/workshop.png",
+    "path": "assets/backgrounds/workshop.webp",
     "type": "backgrounds",
     "width": 1536,
     "height": 1024

@@ -1,0 +1,826 @@
+{
+  "quality": 85,
+  "dimensions_preserved": true,
+  "alpha_preserved": true,
+  "before_assets3d_bytes": 310610001,
+  "after_assets3d_bytes": 29942515,
+  "saved_percent": 90.36,
+  "png_files_converted": 78,
+  "unique_images_verified": 81,
+  "backup": "/Users/azrielmch/Documents/ChatGPT/build app/Petualangan Bangun Datar/arsip-lokal/sebelum-webp85",
+  "mapping": {
+    "assets-3d/backgrounds/garden.png": "assets-3d/backgrounds/garden.webp",
+    "assets-3d/backgrounds/kitchen.png": "assets-3d/backgrounds/kitchen.webp",
+    "assets-3d/characters/lingkaran-great.png": "assets-3d/characters/lingkaran-great.webp",
+    "assets-3d/characters/lingkaran.png": "assets-3d/characters/lingkaran.webp",
+    "assets-3d/characters/persegi-great.png": "assets-3d/characters/persegi-great.webp",
+    "assets-3d/characters/persegi-panjang-great.png": "assets-3d/characters/persegi-panjang-great.webp",
+    "assets-3d/characters/persegi-panjang.png": "assets-3d/characters/persegi-panjang.webp",
+    "assets-3d/characters/persegi.png": "assets-3d/characters/persegi.webp",
+    "assets-3d/characters/segi-lima-great.png": "assets-3d/characters/segi-lima-great.webp",
+    "assets-3d/characters/segi-lima.png": "assets-3d/characters/segi-lima.webp",
+    "assets-3d/characters/segitiga-great.png": "assets-3d/characters/segitiga-great.webp",
+    "assets-3d/characters/segitiga.png": "assets-3d/characters/segitiga.webp",
+    "assets-3d/find-scenes-25d/lingkaran-dapur.png": "assets-3d/find-scenes-25d/lingkaran-dapur.webp",
+    "assets-3d/find-scenes-25d/lingkaran-ruang.png": "assets-3d/find-scenes-25d/lingkaran-ruang.webp",
+    "assets-3d/find-scenes-25d/persegi-kamar.png": "assets-3d/find-scenes-25d/persegi-kamar.webp",
+    "assets-3d/find-scenes-25d/persegi-kelas.png": "assets-3d/find-scenes-25d/persegi-kelas.webp",
+    "assets-3d/find-scenes-25d/persegi-panjang-dapur.png": "assets-3d/find-scenes-25d/persegi-panjang-dapur.webp",
+    "assets-3d/find-scenes-25d/persegi-panjang-kamar.png": "assets-3d/find-scenes-25d/persegi-panjang-kamar.webp",
+    "assets-3d/find-scenes-25d/segi-lima-ruang.png": "assets-3d/find-scenes-25d/segi-lima-ruang.webp",
+    "assets-3d/find-scenes-25d/segi-lima-taman.png": "assets-3d/find-scenes-25d/segi-lima-taman.webp",
+    "assets-3d/find-scenes-25d/segitiga-kelas.png": "assets-3d/find-scenes-25d/segitiga-kelas.webp",
+    "assets-3d/find-scenes-25d/segitiga-taman.png": "assets-3d/find-scenes-25d/segitiga-taman.webp",
+    "assets-3d/objects/alas-piknik.png": "assets-3d/objects/alas-piknik.webp",
+    "assets-3d/objects/bendera.png": "assets-3d/objects/bendera.webp",
+    "assets-3d/objects/bingkai-segilima.png": "assets-3d/objects/bingkai-segilima.webp",
+    "assets-3d/objects/bingkai.png": "assets-3d/objects/bingkai.webp",
+    "assets-3d/objects/biskuit-bulat.png": "assets-3d/objects/biskuit-bulat.webp",
+    "assets-3d/objects/biskuit.png": "assets-3d/objects/biskuit.webp",
+    "assets-3d/objects/buku.png": "assets-3d/objects/buku.webp",
+    "assets-3d/objects/bungkus-benih.png": "assets-3d/objects/bungkus-benih.webp",
+    "assets-3d/objects/catatan.png": "assets-3d/objects/catatan.webp",
+    "assets-3d/objects/irisan-jeruk.png": "assets-3d/objects/irisan-jeruk.webp",
+    "assets-3d/objects/jam.png": "assets-3d/objects/jam.webp",
+    "assets-3d/objects/jendela.png": "assets-3d/objects/jendela.webp",
+    "assets-3d/objects/kancing.png": "assets-3d/objects/kancing.webp",
+    "assets-3d/objects/karpet.png": "assets-3d/objects/karpet.webp",
+    "assets-3d/objects/kartu-benih-persegi.png": "assets-3d/objects/kartu-benih-persegi.webp",
+    "assets-3d/objects/kartu-resep.png": "assets-3d/objects/kartu-resep.webp",
+    "assets-3d/objects/koin.png": "assets-3d/objects/koin.webp",
+    "assets-3d/objects/label-taman-segilima.png": "assets-3d/objects/label-taman-segilima.webp",
+    "assets-3d/objects/lencana-bunga-bulat.png": "assets-3d/objects/lencana-bunga-bulat.webp",
+    "assets-3d/objects/lencana.png": "assets-3d/objects/lencana.webp",
+    "assets-3d/objects/papan-segilima.png": "assets-3d/objects/papan-segilima.webp",
+    "assets-3d/objects/papan.png": "assets-3d/objects/papan.webp",
+    "assets-3d/objects/penanda-taman-segitiga.png": "assets-3d/objects/penanda-taman-segitiga.webp",
+    "assets-3d/objects/penggaris.png": "assets-3d/objects/penggaris.webp",
+    "assets-3d/objects/peta-persegi.png": "assets-3d/objects/peta-persegi.webp",
+    "assets-3d/objects/pintu.png": "assets-3d/objects/pintu.webp",
+    "assets-3d/objects/piring.png": "assets-3d/objects/piring.webp",
+    "assets-3d/objects/pizza.png": "assets-3d/objects/pizza.webp",
+    "assets-3d/objects/rambu.png": "assets-3d/objects/rambu.webp",
+    "assets-3d/objects/rebana.png": "assets-3d/objects/rebana.webp",
+    "assets-3d/objects/roti.png": "assets-3d/objects/roti.webp",
+    "assets-3d/objects/serbet-segitiga.png": "assets-3d/objects/serbet-segitiga.webp",
+    "assets-3d/objects/serbet.png": "assets-3d/objects/serbet.webp",
+    "assets-3d/objects/tambalan-segilima.png": "assets-3d/objects/tambalan-segilima.webp",
+    "assets-3d/objects/tambalan-segitiga.png": "assets-3d/objects/tambalan-segitiga.webp",
+    "assets-3d/objects/tatakan-persegi.png": "assets-3d/objects/tatakan-persegi.webp",
+    "assets-3d/objects/tatakan-segilima.png": "assets-3d/objects/tatakan-segilima.webp",
+    "assets-3d/objects/tempat-pensil.png": "assets-3d/objects/tempat-pensil.webp",
+    "assets-3d/objects/ubin-segilima.png": "assets-3d/objects/ubin-segilima.webp",
+    "assets-3d/objects/ubin.png": "assets-3d/objects/ubin.webp",
+    "assets-3d/ui/banner-completed.png": "assets-3d/ui/banner-completed.webp",
+    "assets-3d/ui/banner-correct.png": "assets-3d/ui/banner-correct.webp",
+    "assets-3d/ui/banner-great.png": "assets-3d/ui/banner-great.webp",
+    "assets-3d/ui/banner-wrong.png": "assets-3d/ui/banner-wrong.webp",
+    "assets-3d/ui/button-base.png": "assets-3d/ui/button-base.webp",
+    "assets-3d/ui/completed-text-only.png": "assets-3d/ui/completed-text-only.webp",
+    "assets-3d/ui/find-frame-sample.png": "assets-3d/ui/find-frame-sample.webp",
+    "assets-3d/ui/home-adventure-gray-cat.png": "assets-3d/ui/home-adventure-gray-cat.webp",
+    "assets-3d/ui/logo.png": "assets-3d/ui/logo.webp",
+    "assets-3d/ui/matching-biru-shell.png": "assets-3d/ui/matching-biru-shell.webp",
+    "assets-3d/ui/puzzle-biru-shell.png": "assets-3d/ui/puzzle-biru-shell.webp",
+    "assets-3d/ui/results-adventure-gray-cat.png": "assets-3d/ui/results-adventure-gray-cat.webp",
+    "assets-3d/ui/wood-panel.png": "assets-3d/ui/wood-panel.webp",
+    "assets/backgrounds/child-room.png": "assets/backgrounds/child-room.webp",
+    "assets/backgrounds/forest-castle.png": "assets/backgrounds/forest-castle.webp",
+    "assets/backgrounds/workshop.png": "assets/backgrounds/workshop.webp"
+  },
+  "files_changed": [
+    "assets-3d/backgrounds/garden.webp",
+    "assets-3d/backgrounds/kitchen.webp",
+    "assets-3d/characters/lingkaran-great.webp",
+    "assets-3d/characters/lingkaran.webp",
+    "assets-3d/characters/persegi-great.webp",
+    "assets-3d/characters/persegi-panjang-great.webp",
+    "assets-3d/characters/persegi-panjang.webp",
+    "assets-3d/characters/persegi.webp",
+    "assets-3d/characters/segi-lima-great.webp",
+    "assets-3d/characters/segi-lima.webp",
+    "assets-3d/characters/segitiga-great.webp",
+    "assets-3d/characters/segitiga.webp",
+    "assets-3d/find-scenes-25d/lingkaran-dapur.webp",
+    "assets-3d/find-scenes-25d/lingkaran-ruang.webp",
+    "assets-3d/find-scenes-25d/persegi-kamar.webp",
+    "assets-3d/find-scenes-25d/persegi-kelas.webp",
+    "assets-3d/find-scenes-25d/persegi-panjang-dapur.webp",
+    "assets-3d/find-scenes-25d/persegi-panjang-kamar.webp",
+    "assets-3d/find-scenes-25d/segi-lima-ruang.webp",
+    "assets-3d/find-scenes-25d/segi-lima-taman.webp",
+    "assets-3d/find-scenes-25d/segitiga-kelas.webp",
+    "assets-3d/find-scenes-25d/segitiga-taman.webp",
+    "assets-3d/objects/alas-piknik.webp",
+    "assets-3d/objects/bendera.webp",
+    "assets-3d/objects/bingkai-segilima.webp",
+    "assets-3d/objects/bingkai.webp",
+    "assets-3d/objects/biskuit-bulat.webp",
+    "assets-3d/objects/biskuit.webp",
+    "assets-3d/objects/buku.webp",
+    "assets-3d/objects/bungkus-benih.webp",
+    "assets-3d/objects/catatan.webp",
+    "assets-3d/objects/irisan-jeruk.webp",
+    "assets-3d/objects/jam.webp",
+    "assets-3d/objects/jendela.webp",
+    "assets-3d/objects/kancing.webp",
+    "assets-3d/objects/karpet.webp",
+    "assets-3d/objects/kartu-benih-persegi.webp",
+    "assets-3d/objects/kartu-resep.webp",
+    "assets-3d/objects/koin.webp",
+    "assets-3d/objects/label-taman-segilima.webp",
+    "assets-3d/objects/lencana-bunga-bulat.webp",
+    "assets-3d/objects/lencana.webp",
+    "assets-3d/objects/papan-segilima.webp",
+    "assets-3d/objects/papan.webp",
+    "assets-3d/objects/penanda-taman-segitiga.webp",
+    "assets-3d/objects/penggaris.webp",
+    "assets-3d/objects/peta-persegi.webp",
+    "assets-3d/objects/pintu.webp",
+    "assets-3d/objects/piring.webp",
+    "assets-3d/objects/pizza.webp",
+    "assets-3d/objects/rambu.webp",
+    "assets-3d/objects/rebana.webp",
+    "assets-3d/objects/roti.webp",
+    "assets-3d/objects/serbet-segitiga.webp",
+    "assets-3d/objects/serbet.webp",
+    "assets-3d/objects/tambalan-segilima.webp",
+    "assets-3d/objects/tambalan-segitiga.webp",
+    "assets-3d/objects/tatakan-persegi.webp",
+    "assets-3d/objects/tatakan-segilima.webp",
+    "assets-3d/objects/tempat-pensil.webp",
+    "assets-3d/objects/ubin-segilima.webp",
+    "assets-3d/objects/ubin.webp",
+    "assets-3d/ui/banner-completed.webp",
+    "assets-3d/ui/banner-correct.webp",
+    "assets-3d/ui/banner-great.webp",
+    "assets-3d/ui/banner-wrong.webp",
+    "assets-3d/ui/button-base.webp",
+    "assets-3d/ui/completed-text-only.webp",
+    "assets-3d/ui/find-frame-sample.webp",
+    "assets-3d/ui/home-adventure-gray-cat.webp",
+    "assets-3d/ui/logo.webp",
+    "assets-3d/ui/matching-biru-shell.webp",
+    "assets-3d/ui/puzzle-biru-shell.webp",
+    "assets-3d/ui/results-adventure-gray-cat.webp",
+    "assets-3d/ui/wood-panel.webp",
+    "assets/backgrounds/child-room.webp",
+    "assets/backgrounds/forest-castle.webp",
+    "assets/backgrounds/workshop.webp",
+    "assets-3d/puzzles/assembled-lingkaran.svg",
+    "assets-3d/puzzles/assembled-persegi-panjang.svg",
+    "assets-3d/puzzles/assembled-persegi.svg",
+    "assets-3d/puzzles/assembled-segi-lima.svg",
+    "assets-3d/puzzles/assembled-segitiga.svg",
+    "assets-3d/puzzles/master-lingkaran.svg",
+    "assets-3d/puzzles/master-persegi-panjang.svg",
+    "assets-3d/puzzles/master-persegi.svg",
+    "assets-3d/puzzles/master-segi-lima.svg",
+    "assets-3d/puzzles/master-segitiga.svg",
+    "assets-3d/puzzles/piece-lingkaran-1.svg",
+    "assets-3d/puzzles/piece-lingkaran-2.svg",
+    "assets-3d/puzzles/piece-lingkaran-3.svg",
+    "assets-3d/puzzles/piece-lingkaran-4.svg",
+    "assets-3d/puzzles/piece-lingkaran-5.svg",
+    "assets-3d/puzzles/piece-lingkaran-6.svg",
+    "assets-3d/puzzles/piece-persegi-1.svg",
+    "assets-3d/puzzles/piece-persegi-2.svg",
+    "assets-3d/puzzles/piece-persegi-3.svg",
+    "assets-3d/puzzles/piece-persegi-4.svg",
+    "assets-3d/puzzles/piece-persegi-panjang-1.svg",
+    "assets-3d/puzzles/piece-persegi-panjang-2.svg",
+    "assets-3d/puzzles/piece-persegi-panjang-3.svg",
+    "assets-3d/puzzles/piece-persegi-panjang-4.svg",
+    "assets-3d/puzzles/piece-persegi-panjang-5.svg",
+    "assets-3d/puzzles/piece-persegi-panjang-6.svg",
+    "assets-3d/puzzles/piece-segi-lima-1.svg",
+    "assets-3d/puzzles/piece-segi-lima-2.svg",
+    "assets-3d/puzzles/piece-segi-lima-3.svg",
+    "assets-3d/puzzles/piece-segi-lima-4.svg",
+    "assets-3d/puzzles/piece-segi-lima-5.svg",
+    "assets-3d/puzzles/piece-segi-lima-6.svg",
+    "assets-3d/puzzles/piece-segi-lima-7.svg",
+    "assets-3d/puzzles/piece-segi-lima-8.svg",
+    "assets-3d/puzzles/piece-segitiga-1.svg",
+    "assets-3d/puzzles/piece-segitiga-2.svg",
+    "assets-3d/puzzles/piece-segitiga-3.svg",
+    "assets-3d/puzzles/piece-segitiga-4.svg",
+    "assets-3d/puzzles/themes/belajar-lingkaran.svg",
+    "assets-3d/puzzles/themes/belajar-persegi-panjang.svg",
+    "assets-3d/puzzles/themes/belajar-persegi.svg",
+    "assets-3d/puzzles/themes/belajar-segi-lima.svg",
+    "assets-3d/puzzles/themes/belajar-segitiga.svg",
+    "assets-3d/puzzles/themes/dapur-lingkaran.svg",
+    "assets-3d/puzzles/themes/dapur-persegi-panjang.svg",
+    "assets-3d/puzzles/themes/dapur-persegi.svg",
+    "assets-3d/puzzles/themes/dapur-segi-lima.svg",
+    "assets-3d/puzzles/themes/dapur-segitiga.svg",
+    "assets-3d/puzzles/themes/hutan-lingkaran.svg",
+    "assets-3d/puzzles/themes/hutan-persegi-panjang.svg",
+    "assets-3d/puzzles/themes/hutan-persegi.svg",
+    "assets-3d/puzzles/themes/hutan-segi-lima.svg",
+    "assets-3d/puzzles/themes/hutan-segitiga.svg",
+    "assets-3d/puzzles/themes/kamar-lingkaran.svg",
+    "assets-3d/puzzles/themes/kamar-persegi-panjang.svg",
+    "assets-3d/puzzles/themes/kamar-persegi.svg",
+    "assets-3d/puzzles/themes/kamar-segi-lima.svg",
+    "assets-3d/puzzles/themes/kamar-segitiga.svg",
+    "assets-3d/puzzles/themes/taman-lingkaran.svg",
+    "assets-3d/puzzles/themes/taman-persegi-panjang.svg",
+    "assets-3d/puzzles/themes/taman-persegi.svg",
+    "assets-3d/puzzles/themes/taman-segi-lima.svg",
+    "assets-3d/puzzles/themes/taman-segitiga.svg",
+    "assets-3d/ui/banner-completed.svg",
+    "assets-3d/ui/banner-correct.svg",
+    "assets-3d/ui/banner-great.svg",
+    "assets-3d/ui/banner-wrong.svg",
+    "assets-3d/ui/button.svg",
+    "assets-3d/ui/icon-back.svg",
+    "assets-3d/ui/icon-check.svg",
+    "assets-3d/ui/icon-close.svg",
+    "assets-3d/ui/icon-help.svg",
+    "assets-3d/ui/icon-home.svg",
+    "assets-3d/ui/icon-lock.svg",
+    "assets-3d/ui/icon-mute.svg",
+    "assets-3d/ui/icon-next.svg",
+    "assets-3d/ui/icon-play.svg",
+    "assets-3d/ui/icon-retry.svg",
+    "assets-3d/ui/icon-sound.svg",
+    "assets-3d/ui/logo.svg",
+    "assets-3d/ui/map-node-available.svg",
+    "assets-3d/ui/map-node-done.svg",
+    "assets-3d/ui/map-node-locked.svg",
+    "assets-3d/ui/matching-slot.svg",
+    "assets-3d/ui/panel.svg",
+    "assets-3d/ui/title-board.svg"
+  ],
+  "image_checks": [
+    {
+      "source_sha256": "52905348e420481da37f080040474f637b4699ff2181bebf20321e220fc9e1bc",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2555549,
+      "after_bytes": 313614
+    },
+    {
+      "source_sha256": "c0729f2b3e0d16566d5e0814a06dd45b7206f1420075d2015d63d16b01172fe6",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1933175,
+      "after_bytes": 123776
+    },
+    {
+      "source_sha256": "ed2134dc7cd9d3d9161758bcd58d1754977d981b42204a5546068adbc6b9c90f",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1086882,
+      "after_bytes": 108522
+    },
+    {
+      "source_sha256": "46405e3beec528b679131d4a7ab449c57cb66b60bd7934aa92cb6c008cd9f0f4",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1118422,
+      "after_bytes": 98876
+    },
+    {
+      "source_sha256": "2862663056640bc7b6abce629ebf4511d43394a1ec3389207029c72dbeb1bc62",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1142754,
+      "after_bytes": 110644
+    },
+    {
+      "source_sha256": "3b4c29b2b783acf7c0159a562ad59f53523c9af04089f49b551acb7ff5485915",
+      "width": 1659,
+      "height": 948,
+      "before_bytes": 1005023,
+      "after_bytes": 95400
+    },
+    {
+      "source_sha256": "1c57dd7537feef8c3f432254410684b7334132f08b2d10507c83b09417c4841f",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 835945,
+      "after_bytes": 59592
+    },
+    {
+      "source_sha256": "e62f2873592407169d4380582725a068238fdeb2ff97f20c40ef7dd118abf666",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1155767,
+      "after_bytes": 82414
+    },
+    {
+      "source_sha256": "989acc9e1271ea38f26873fa5c4635af03cdfaba4c124b66e0b7a6ddc2c86a57",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 962744,
+      "after_bytes": 99690
+    },
+    {
+      "source_sha256": "9b0fcaf533dfce758d8977c7865fa578daf93c3f191cd31243bf1527ebe2bfc6",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1064140,
+      "after_bytes": 91848
+    },
+    {
+      "source_sha256": "7474966edf58f5463ba6de557f2fc4c858cf8d53255d9fe077cb4ed39c6c6762",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1025747,
+      "after_bytes": 105672
+    },
+    {
+      "source_sha256": "0ada5f23f0838d970d4aa7ffb971cd0783b7f7ee7103ab4b672c0ae661f137ba",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 836367,
+      "after_bytes": 79018
+    },
+    {
+      "source_sha256": "b529e7cf9e53c12c5ea30ab8c593c7948464000c52e48b7657c267e1df572768",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1619248,
+      "after_bytes": 80316
+    },
+    {
+      "source_sha256": "f6a390f6edccb323d8b4135aa1ecce44f83f8ecf9afafa41c6d80d6f353e54cf",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1737663,
+      "after_bytes": 95240
+    },
+    {
+      "source_sha256": "21a00808722122fcf876aa42b34bed1348adfda21cdc1b9cd00a2ca450f85753",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1444027,
+      "after_bytes": 70892
+    },
+    {
+      "source_sha256": "e659042dab050ebe940d17e69b774b6fcd21718edc6405a77c771980effba0ea",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1336592,
+      "after_bytes": 65052
+    },
+    {
+      "source_sha256": "65786a544a43aa84a56a9e1f4145329c6fa40ea25b105cd796c6e09533af57b9",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1551921,
+      "after_bytes": 81940
+    },
+    {
+      "source_sha256": "0b5c174814efffa2891c803ffa94b619f4c79fa6f1a46295d0004867048b2a0e",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1458921,
+      "after_bytes": 68310
+    },
+    {
+      "source_sha256": "ea2f312997a3f2a6f2300d95d56e92e8514c2e6e26a6eb10a7946f8f0c669355",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1600339,
+      "after_bytes": 79330
+    },
+    {
+      "source_sha256": "2d6939f03bec2dbacd12edc774d1fb7f6c7cc5c32fdbddc8ff9f5386db6dd214",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1595233,
+      "after_bytes": 97802
+    },
+    {
+      "source_sha256": "67a3a44a8b083c2859ae4a9e64fb83b9a94ff18311acf88340056d9dfa272d15",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1430711,
+      "after_bytes": 70972
+    },
+    {
+      "source_sha256": "efc2451984737349f28885054a9d9cbd3e01eea2af678e0c2234f3eeeeabb342",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1566196,
+      "after_bytes": 108956
+    },
+    {
+      "source_sha256": "40453ff4cd5ea49920c36008633beeb1d1fc1c1cafc2d19a79d18451ac91dc2b",
+      "width": 1635,
+      "height": 962,
+      "before_bytes": 2379859,
+      "after_bytes": 299808
+    },
+    {
+      "source_sha256": "dfdc5ad2a071758a41cb3f652cc30df87255ea6d099eb57e8415c622d7b61b5b",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1310293,
+      "after_bytes": 174440
+    },
+    {
+      "source_sha256": "910b195f4d6448858be140e831aa195a3c2b9f40a97faa3f0ee7d5771129c91d",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1531440,
+      "after_bytes": 146842
+    },
+    {
+      "source_sha256": "06210f68fdaaca1c3549272d20b850be9c76b4018993dd4492a998d74d57d14c",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1422099,
+      "after_bytes": 114722
+    },
+    {
+      "source_sha256": "38c0aadc6933b1fe6f5f7b7699e41144b2ec4389eb73c4dfaad63fe989dcb287",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1963737,
+      "after_bytes": 318366
+    },
+    {
+      "source_sha256": "b711c8c462fc9034292eae4573e6194400f4b4b6a91e6ee09afd9d8da6e91964",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1624983,
+      "after_bytes": 264894
+    },
+    {
+      "source_sha256": "f918a2fff9a6f7de05b04d6b3612a6b112f37ca75ab0c9eda71e1406ce79aaf3",
+      "width": 1619,
+      "height": 971,
+      "before_bytes": 1429640,
+      "after_bytes": 105520
+    },
+    {
+      "source_sha256": "021527104189a7da4f871bf648a54097cb314550a8676cdd42e8aff2c5bc8e31",
+      "width": 969,
+      "height": 1624,
+      "before_bytes": 1602220,
+      "after_bytes": 127806
+    },
+    {
+      "source_sha256": "68d1f49dad4b066c3c5763c46001e28073125096c0199c2aeef6c9e31d32c046",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1412987,
+      "after_bytes": 70606
+    },
+    {
+      "source_sha256": "0fc3b1d77236889292a27710faf4400e0e9eb97883fd776586757de7281e3d63",
+      "width": 1265,
+      "height": 1244,
+      "before_bytes": 1698835,
+      "after_bytes": 265712
+    },
+    {
+      "source_sha256": "06a3c1bc25d06e5212ca57cab44af828f9bcfceec5b5e96becd0f3dbf559317c",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1376175,
+      "after_bytes": 124192
+    },
+    {
+      "source_sha256": "1698e293262c17706b699e50d8d493cb27e799f31608a9b184d4a80cd07cc521",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1447539,
+      "after_bytes": 158418
+    },
+    {
+      "source_sha256": "737211e02b79a5425a197d96537dd8a1e47c612667b9f169c7e24d0d5e256e2e",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1133047,
+      "after_bytes": 103690
+    },
+    {
+      "source_sha256": "e582cc336b483a7591177289059824cb52d0718730969cf083069859bb78b95a",
+      "width": 1635,
+      "height": 962,
+      "before_bytes": 2042792,
+      "after_bytes": 302714
+    },
+    {
+      "source_sha256": "7ba4657ac3aefcf030a9fad8aa839bfe1b9a4a3fbb21d0cece378e01f4da285f",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1344613,
+      "after_bytes": 121474
+    },
+    {
+      "source_sha256": "22385b29e86ac785ed9d5f2b619d656a7b5080831586020201442c6071a126ea",
+      "width": 1634,
+      "height": 962,
+      "before_bytes": 1212686,
+      "after_bytes": 81732
+    },
+    {
+      "source_sha256": "df0fe7e2685f9b5c6e2e6e337344941d1e68ff5329618d0e087cbeba78cb93d4",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1466417,
+      "after_bytes": 141694
+    },
+    {
+      "source_sha256": "24be0010ed416ce08fbf7758527fd04d851a3349c5ba0be4cf7b53a03bcb8152",
+      "width": 1284,
+      "height": 1225,
+      "before_bytes": 1505717,
+      "after_bytes": 181544
+    },
+    {
+      "source_sha256": "9464c57ab62f035ffaf3f731f4608de2c2c4c789f61600c4ae70e2ee91168d1e",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1723616,
+      "after_bytes": 176598
+    },
+    {
+      "source_sha256": "1fee3127c445fe698bd6da783e434ccca371ed61357f61974b024209f975d8ab",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1309476,
+      "after_bytes": 132722
+    },
+    {
+      "source_sha256": "8dcfdced610c5ec680685f7a12df118852f18f892b520a1ad41ff34fcc1ce73c",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1252095,
+      "after_bytes": 120476
+    },
+    {
+      "source_sha256": "504f1b800ba5a8402ac9fb807c847b2d844fe084b55368c66fb2998b7e69d8a5",
+      "width": 1635,
+      "height": 962,
+      "before_bytes": 1462385,
+      "after_bytes": 121508
+    },
+    {
+      "source_sha256": "69170161d49def2933909705493586129badc415c94f67cf4ac027faf7ad73fe",
+      "width": 1348,
+      "height": 1167,
+      "before_bytes": 1268996,
+      "after_bytes": 169446
+    },
+    {
+      "source_sha256": "ffd01cbe97bb4255c89f20ef6e7012971337a5392091685558937ba92ac62dc2",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 914655,
+      "after_bytes": 103634
+    },
+    {
+      "source_sha256": "6fad4ae07b26cb0ec3c64ac973a68c66651365b77711a3e6537f51482fa71a24",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1755748,
+      "after_bytes": 167800
+    },
+    {
+      "source_sha256": "b77583529915e9079d1d8c089e8e507255972846b43503d6b3897a569d990fbc",
+      "width": 962,
+      "height": 1635,
+      "before_bytes": 1428245,
+      "after_bytes": 151986
+    },
+    {
+      "source_sha256": "1ecffb881347fc043d19e997f3f067ffdcc41795550167570891005345f309d3",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1484359,
+      "after_bytes": 149158
+    },
+    {
+      "source_sha256": "27501d135c767a0733d686b3ddf52eeba65837b57224e49d24388c97b331ffba",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1438704,
+      "after_bytes": 263546
+    },
+    {
+      "source_sha256": "622ba767246ee501cf59d3e55f3cac59a1fe2112159ce58086bd9a3775b256b5",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 877918,
+      "after_bytes": 75818
+    },
+    {
+      "source_sha256": "454730851e2eb33a98f3b874506511be6ccaf05bda1a906c33a13267ddbc31c3",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1344089,
+      "after_bytes": 140676
+    },
+    {
+      "source_sha256": "75edcfb604d9560410b3af6b4580825f3ae5544495fc4e79d85f4096b6e58871",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1521315,
+      "after_bytes": 265192
+    },
+    {
+      "source_sha256": "5cab99c7a6b834c06f2cf5c8541fb459d5358cd52776e74f9af2db907e2f0074",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2034062,
+      "after_bytes": 221686
+    },
+    {
+      "source_sha256": "633c0031fa48437a6c97e7b0ad288e474eb4b975ec7db69ae1942e1f164f4da1",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 2500989,
+      "after_bytes": 367300
+    },
+    {
+      "source_sha256": "553754b48207f54bd2c0c826d95cad8892b0cec9a164ff82cd742fe640f2b669",
+      "width": 1300,
+      "height": 1209,
+      "before_bytes": 1810922,
+      "after_bytes": 273986
+    },
+    {
+      "source_sha256": "0ab8f84e1160ea7c3943d6b53af7fc0f3725994d767024b82bd705f78653ecf0",
+      "width": 1305,
+      "height": 1205,
+      "before_bytes": 1669847,
+      "after_bytes": 277832
+    },
+    {
+      "source_sha256": "0c302a1992aaf4d301acd33be30313cb033e171eebdce0d6b726714da02b4e71",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1856872,
+      "after_bytes": 256842
+    },
+    {
+      "source_sha256": "2fab595b39273e29c2e135a16888bb539d527bde6df9adf4c4f85928c0e00d99",
+      "width": 1269,
+      "height": 1239,
+      "before_bytes": 1874184,
+      "after_bytes": 270190
+    },
+    {
+      "source_sha256": "0f5abca2a95ae5afc27dca1a3fe92a4c057cdac935e7235724c580e1a657c6fa",
+      "width": 1619,
+      "height": 971,
+      "before_bytes": 1639085,
+      "after_bytes": 227892
+    },
+    {
+      "source_sha256": "de1c32283a1b2a6f9a4686f7fc5e731ea4aa7e74d95d54cc755b1d8823ae94dd",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1176332,
+      "after_bytes": 119322
+    },
+    {
+      "source_sha256": "7c84058b739cb86afbe01f5d6dad27641528385243a0cfd9557a20c652a24880",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1894294,
+      "after_bytes": 188094
+    },
+    {
+      "source_sha256": "1e86dc3762a0de7c98ce99366d1043acd0d360c3ea0a88ee8d517cde20e10249",
+      "width": 2172,
+      "height": 724,
+      "before_bytes": 1964944,
+      "after_bytes": 227754
+    },
+    {
+      "source_sha256": "3013a87a44d07b06553aee02ad6850997f87b6870c1e9da5e76670cd226e8e0a",
+      "width": 2162,
+      "height": 727,
+      "before_bytes": 2055142,
+      "after_bytes": 207196
+    },
+    {
+      "source_sha256": "f9ac7b5dcc1e2fb5ebeb9765f598f1fa4b7752418a33e5f5ae7a3562588a51c9",
+      "width": 2138,
+      "height": 735,
+      "before_bytes": 2005107,
+      "after_bytes": 237392
+    },
+    {
+      "source_sha256": "543321dc8d470c79c5e2a7ea7f5919264431e6d520fecdaa72e65731b5618b91",
+      "width": 2098,
+      "height": 749,
+      "before_bytes": 1691737,
+      "after_bytes": 186268
+    },
+    {
+      "source_sha256": "95efa1ebb33cd42649af5d0c77b5a3f6a9e0ce3e300546a394f95500fb58032d",
+      "width": 1254,
+      "height": 1254,
+      "before_bytes": 1214407,
+      "after_bytes": 116182
+    },
+    {
+      "source_sha256": "b0469dfaa5e68bdff65c9f7118f83c5b55efa1615bcb496879fdce30af18be46",
+      "width": 2172,
+      "height": 724,
+      "before_bytes": 941090,
+      "after_bytes": 122416
+    },
+    {
+      "source_sha256": "615b209e09d061b939e616544eca1ba2fc0957f36c01bf7d60692c56326d9c22",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1476527,
+      "after_bytes": 89162
+    },
+    {
+      "source_sha256": "5f18d1b627b5f77c9e0ff4549982e2f88d257bb2fa6086af70bd232c015f778f",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2135546,
+      "after_bytes": 229878
+    },
+    {
+      "source_sha256": "fed088548ecd2c4a2c908440deb871d08ab7c6683484bec6eea94b472ed1b4d9",
+      "width": 1774,
+      "height": 887,
+      "before_bytes": 1932953,
+      "after_bytes": 245638
+    },
+    {
+      "source_sha256": "95ad616abc1fa4e3677ebf7e83c0b958a85d75844501096650186f42d293ab12",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1501841,
+      "after_bytes": 93208
+    },
+    {
+      "source_sha256": "f6626eb1942bc51b396a8e9982cd3215619474c0653c3c0b35508459b7078592",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1658969,
+      "after_bytes": 112934
+    },
+    {
+      "source_sha256": "574005d2a7fb4ab7eb80c08afcdd698f9ce7097f6a6a19f08f423abc83cd2259",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1711675,
+      "after_bytes": 135390
+    },
+    {
+      "source_sha256": "04dababe9b3062baa689f0ec0d94591e02e66cce32c400650e4da5b519f918cb",
+      "width": 1586,
+      "height": 992,
+      "before_bytes": 1444618,
+      "after_bytes": 109730
+    },
+    {
+      "source_sha256": "e758090c1aad1661b9582d02bd70da3ffd2eade42a6edd0df8dcb98f5c0fd800",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2165869,
+      "after_bytes": 177862
+    },
+    {
+      "source_sha256": "d7f78356e4f5735e47f6d08a6438de64e415e9ab460e07b0567eb909b3f1f5d0",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2150872,
+      "after_bytes": 217202
+    },
+    {
+      "source_sha256": "b35acc91510560a4c6bea75ad7d0d0472f02caffa2e6fc159932a10a13d4288e",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1812042,
+      "after_bytes": 106296
+    },
+    {
+      "source_sha256": "6c90b671959d4f2e40f757c2a7d460402c9733a7e153caaa79fe6c23415c2cfb",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 1657391,
+      "after_bytes": 106296
+    },
+    {
+      "source_sha256": "e703b184eb40b69569b9fdb5df19102a7d5b10f7210cf07805f78b1f4d0ca8a5",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2071748,
+      "after_bytes": 217202
+    },
+    {
+      "source_sha256": "224aa5961977480d73dc549794fe95b4f56f24557c92b9743ea17368d1d50559",
+      "width": 1536,
+      "height": 1024,
+      "before_bytes": 2011061,
+      "after_bytes": 177862
+    }
+  ]
+}

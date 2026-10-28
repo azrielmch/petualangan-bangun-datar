@@ -1,4 +1,5 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const dimensions=require('./image_dimensions.js');
 const root=path.resolve(__dirname,'..'),config=JSON.parse(fs.readFileSync(path.join(root,'content/game-content.json'),'utf8'));
 const {createRound}=require('../content/randomizer.js'),{createState,answer}=require('../content/find-game.js');
 assert.equal(config.find.scenes.length,10);
@@ -12,7 +13,7 @@ assert.ok(!schoolroom.hotspots.some(o=>o.id==='rebana'));
 for(const level of config.find.levels)assert.equal(level.sceneIds.length,2);
 let total=0;
 for(const scene of config.find.scenes){
-  const data=fs.readFileSync(path.join(root,scene.asset));assert.equal(data.readUInt32BE(16),scene.width);assert.equal(data.readUInt32BE(20),scene.height);
+  const data=fs.readFileSync(path.join(root,scene.asset));assert.deepEqual(dimensions(data),{width:scene.width,height:scene.height});
   assert.ok(scene.hotspots.filter(o=>o.shape===scene.targetShape).length>=3);
   assert.ok(scene.hotspots.filter(o=>o.shape!==scene.targetShape).length>=5);
   assert.equal(new Set(scene.hotspots.map(o=>o.id)).size,scene.hotspots.length);

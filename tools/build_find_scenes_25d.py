@@ -1,6 +1,7 @@
 """Reviewed regions for the selected clean 2.5D illustrations."""
 from pathlib import Path
-import json,struct,hashlib
+import json,hashlib
+from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
 
 def B(id,label,shape,left,top,right,bottom,polygon=None):
@@ -10,8 +11,8 @@ def B(id,label,shape,left,top,right,bottom,polygon=None):
     return {'id':id,'label':label,'shape':shape,'region':r}
 
 def S(id,name,theme,shape,objects):
-    file=ROOT/'assets-3d/find-scenes-25d'/f'{id}.png'
-    w,h=struct.unpack('>II',file.read_bytes()[16:24])
+    file=ROOT/'assets-3d/find-scenes-25d'/f'{id}.webp'
+    with Image.open(file) as im:w,h=im.size
     return {'id':id,'name':name,'themeId':theme,'themeName':{'kamar':'Kamar Anak','belajar':'Sekolah','dapur':'Dapur Ceria','taman':'Taman Sekolah','ruang':'Ruang Keluarga'}[theme],'targetShape':shape,'asset':str(file.relative_to(ROOT)),'width':w,'height':h,'style':'cartoon-2.5d','revision':hashlib.sha256(file.read_bytes()).hexdigest()[:12],'hotspots':objects,'targetCount':sum(o['shape']==shape for o in objects)}
 
 scenes=[

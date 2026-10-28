@@ -13,7 +13,7 @@ Setiap level mempunyai lima pasangan. Urutan kedua kolom diacak; benda dipilih u
 
 Pemain bisa menarik garis dari salah satu sisi ke sisi lain, mengetuk dua kartu, atau memilih dengan Tab dan Enter/Spasi. Pasangan benar mendapat garis hijau dan terkunci, pasangan salah bergaris merah putus-putus dan bisa dicoba kembali. Pemilihan berikutnya menghapus garis salah. Selesai lima pasangan menampilkan Completed dan tombol lanjut; level lima mengarah kembali ke level satu. Tombol suara dapat diaktifkan/dimatikan.
 
-Latar `assets-3d/ui/matching-biru-shell.png` dibuat dengan built-in imagegen dan tidak berisi kartu atau garis yang dibakar ke gambar. Kartu, titik, teks, dan garis berupa elemen SVG terpisah. Bentuk serta benda memakai aset yang sudah tersedia. Prompt gambar ada di `matching-shell-prompt.json`.
+Latar `assets-3d/ui/matching-biru-shell.webp` dibuat dengan built-in imagegen dan tidak berisi kartu atau garis yang dibakar ke gambar. Kartu, titik, teks, dan garis berupa elemen SVG terpisah. Bentuk serta benda memakai aset yang sudah tersedia. Prompt gambar ada di `matching-shell-prompt.json`.
 
 Validasi: `node tools/check_matching_game.js` menguji 250 sesi pada lima mode, jawaban salah, mencoba kembali, penguncian pasangan, penyelesaian, dan pergantian benda. Interaksi menarik garis, mengetuk, dan lanjut level juga diperiksa di browser.
 

@@ -1,6 +1,6 @@
 {
   "tool": "built-in imagegen",
   "useCase": "precise-object-edit",
-  "asset": "assets-3d/find-scenes-25d/persegi-kelas.png",
+  "asset": "assets-3d/find-scenes-25d/persegi-kelas.webp",
   "prompt": "Use case: precise-object-edit. Edit target: supplied classroom game background. Make exactly two localized changes. (1) Completely remove the lone wooden chair back located BEHIND the table at center-left (approximately x410–680 y520–670 in the 1536x1024 input); reconstruct empty cream wall above tabletop and continuous natural wooden tabletop beneath it. Keep both foreground chairs unchanged. (2) Change the blue book on right tabletop into a realistic thin closed school exercise book with an unmistakably elongated rectangular blue cover: long horizontal dimension, cover length about 2.2 times width, clearly visible top cover, thin cream page block, natural perspective and shadow. Keep book in same right tabletop location with similar overall footprint, not a thick box. Preserve square window, square chalkboard, square corkboard and pinned note, round clock, pentagonal picture frame, shelf green box, triangular ruler, eraser, two front chairs, table, framing, warm lighting, exact clean soft cartoon 2.5D rendering. No new objects, no text, no annotations or red rings. Preserve 1536x1024 landscape composition."
 }

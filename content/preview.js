@@ -3,7 +3,7 @@
   if(!game)return;
   const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   let config,history={};
-  try{config=await fetch('content/game-content.json?v=find-frame-all-1').then(r=>{if(!r.ok)throw Error('Data level tidak dapat dimuat');return r.json();});try{history=JSON.parse(localStorage.getItem('shape-content-preview')||'{}');}catch{history={};}}
+  try{config=await fetch('content/game-content.json?v=webp85-9').then(r=>{if(!r.ok)throw Error('Data level tidak dapat dimuat');return r.json();});try{history=JSON.parse(localStorage.getItem('shape-content-preview')||'{}');}catch{history={};}}
   catch(error){status.textContent=error.message;return;}
   function remember(key,round){history[key]=round.game==='find'?{sceneId:round.sceneId,themeId:round.themeId,targetIds:round.targetIds}:round.game==='puzzle'?{themeId:round.themeId,shapeId:round.shapeId}:{objectIds:round.objectIds};try{localStorage.setItem('shape-content-preview',JSON.stringify(history));}catch{}}
   function render(){
